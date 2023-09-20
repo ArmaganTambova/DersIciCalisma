@@ -1,0 +1,7 @@
+C:\Users\azrat\source\repos\MerhabaVS\MerhabaVS\bin\Debug\MerhabaVS.exe.config
+C:\Users\azrat\source\repos\MerhabaVS\MerhabaVS\bin\Debug\MerhabaVS.exe
+C:\Users\azrat\source\repos\MerhabaVS\MerhabaVS\bin\Debug\MerhabaVS.pdb
+C:\Users\azrat\source\repos\MerhabaVS\MerhabaVS\obj\Debug\MerhabaVS.csproj.AssemblyReference.cache
+C:\Users\azrat\source\repos\MerhabaVS\MerhabaVS\obj\Debug\MerhabaVS.csproj.CoreCompileInputs.cache
+C:\Users\azrat\source\repos\MerhabaVS\MerhabaVS\obj\Debug\MerhabaVS.exe
+C:\Users\azrat\source\repos\MerhabaVS\MerhabaVS\obj\Debug\MerhabaVS.pdb

@@ -1,0 +1,7 @@
+C:\Users\azrat\source\repos\DegiskenTanimlama\DegiskenTanimlama\bin\Debug\DegiskenTanimlama.exe.config
+C:\Users\azrat\source\repos\DegiskenTanimlama\DegiskenTanimlama\bin\Debug\DegiskenTanimlama.exe
+C:\Users\azrat\source\repos\DegiskenTanimlama\DegiskenTanimlama\bin\Debug\DegiskenTanimlama.pdb
+C:\Users\azrat\source\repos\DegiskenTanimlama\DegiskenTanimlama\obj\Debug\DegiskenTanimlama.csproj.AssemblyReference.cache
+C:\Users\azrat\source\repos\DegiskenTanimlama\DegiskenTanimlama\obj\Debug\DegiskenTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\azrat\source\repos\DegiskenTanimlama\DegiskenTanimlama\obj\Debug\DegiskenTanimlama.exe
+C:\Users\azrat\source\repos\DegiskenTanimlama\DegiskenTanimlama\obj\Debug\DegiskenTanimlama.pdb
