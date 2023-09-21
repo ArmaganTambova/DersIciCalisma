@@ -109,16 +109,16 @@ namespace TurDonusumleri
             #endregion
 
             #region Konsoldan Alınan 2 Yazılı Notunun Ortalamasını Hesaplayınız
-            Console.WriteLine("Lütfen 1. Yazılı Notunuzu Giriniz:");
-            string strNot1 = Console.ReadLine();
+            //Console.WriteLine("Lütfen 1. Yazılı Notunuzu Giriniz:");
+            //string strNot1 = Console.ReadLine();
 
-            Console.WriteLine("Lütfen 2. Yazılı Notunuzu Giriniz:");
-            string strNot2 = Console.ReadLine();
+            //Console.WriteLine("Lütfen 2. Yazılı Notunuzu Giriniz:");
+            //string strNot2 = Console.ReadLine();
 
-            double Not1 = Convert.ToDouble(strNot1);
-            double Not2 = Convert.ToDouble(strNot2);
-            double Ortalama = (Not1 + Not2) / 2;
-            Console.WriteLine("Ortalamanız = " + Ortalama);
+            //double Not1 = Convert.ToDouble(strNot1);
+            //double Not2 = Convert.ToDouble(strNot2);
+            //double Ortalama = (Not1 + Not2) / 2;
+            //Console.WriteLine("Ortalamanız = " + Ortalama);
             #endregion
         }
     }
