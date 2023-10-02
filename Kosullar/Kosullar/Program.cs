@@ -103,19 +103,19 @@ namespace Kosullar
             #endregion
 
             #region Konsoldan Alınan Sayı Çift Mi, Tek Mi?
-            Console.WriteLine("Lütfen Bir Sayı Giriniz");
+            //Console.WriteLine("Lütfen Bir Sayı Giriniz");
 
-            string strSayi = Console.ReadLine();
-            int Sayi = Convert.ToInt32(strSayi);
+            //string strSayi = Console.ReadLine();
+            //int Sayi = Convert.ToInt32(strSayi);
 
-            if ((Sayi % 2) == 0)
-            {
-                Console.WriteLine("Sayınız Çifttir");
-            }
-            else
-            {
-                Console.WriteLine("Sayınız Tekdir");
-            }
+            //if ((Sayi % 2) == 0)
+            //{
+            //    Console.WriteLine("Sayınız Çifttir");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Sayınız Tekdir");
+            //}
             #endregion
         }
     }
