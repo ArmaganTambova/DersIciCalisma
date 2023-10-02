@@ -84,7 +84,7 @@ namespace Kosullar
 
             #region Konsoldan Alınana Sayı Pozitif Mi, Negatif Mi?
             //Console.WriteLine("Lütfen Sayıyı Giriniz");
-            
+
             //string strSayi = Console.ReadLine();
             //int Sayi = Convert.ToInt32(strSayi);
 
@@ -100,6 +100,22 @@ namespace Kosullar
             //{
             //    Console.WriteLine("Sayınız Nötr");
             //}
+            #endregion
+
+            #region Konsoldan Alınan Sayı Çift Mi, Tek Mi?
+            Console.WriteLine("Lütfen Bir Sayı Giriniz");
+
+            string strSayi = Console.ReadLine();
+            int Sayi = Convert.ToInt32(strSayi);
+
+            if ((Sayi % 2) == 0)
+            {
+                Console.WriteLine("Sayınız Çifttir");
+            }
+            else
+            {
+                Console.WriteLine("Sayınız Tekdir");
+            }
             #endregion
         }
     }
