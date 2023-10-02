@@ -117,6 +117,27 @@ namespace Kosullar
             //    Console.WriteLine("Sayınız Tekdir");
             //}
             #endregion
+
+            #region Konsoldan Alınan 2 Notun Ortalaması 50 Üstü İse Geçtiniz, Değilse Kaldınız Yazılacak
+            //Console.WriteLine("Lütfen İlk Notunucu Giriniz");
+            //string strNot1 = Console.ReadLine();
+
+            //Console.WriteLine("Lütfen İkinci Notunuzu Giriniz");
+            //string strNot2 = Console.ReadLine();
+
+            //double Not1 = Convert.ToDouble(strNot1);
+            //double Not2 = Convert.ToDouble(strNot2);
+            //double Ortalama = (Not1 + Not2) / 2;
+
+            //if (Ortalama >= 50)
+            //{
+            //    Console.WriteLine("Ortalamanız = " + Ortalama + "\n" + "Geçtiniz");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Ortalamanız = " + Ortalama + "\n" + "Kaldınız");
+            //}
+            #endregion
         }
     }
 }
