@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -139,8 +140,150 @@ namespace Kosullar
             //}
             #endregion
 
-            #region MyRegion
+            #region Konsoldan Kullanıcının Yaşını Alıp Ergen, Yetişkin ve Yaşlı Olarak Sınıflandır
+            //Console.WriteLine("Lütfen Yaşınızı Giriniz");
+            //string strYas = Console.ReadLine();
 
+            //byte Yas = Convert.ToByte(strYas);
+
+            //if (Yas < 8)
+            //{
+            //    Console.WriteLine("Geçerli Bir Sınıflandırma İçerisine Alınamadınız");
+            //}
+            //else if (Yas >= 8 && Yas <= 20)
+            //{
+            //    Console.WriteLine("Ergen");
+            //}
+            //else if (Yas > 20 && Yas < 65)
+            //{
+            //    Console.WriteLine("Genç");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Yaşlı");
+            //}
+            #endregion
+
+            #region Konsoldan Alınan 2 Sayıdan Hangisinin Daha Büyük Olduğunu Yazdırma
+            //Console.WriteLine("Lütfen İlk Sayıyı Giriniz");
+            //string strSayi1 = Console.ReadLine();
+
+            //Console.WriteLine("Lütfen İkinci Sayıyı Giriniz");
+            //string strSayi2 = Console.ReadLine();
+
+            //int Sayi1 = Convert.ToInt32(strSayi1);
+            //int Sayi2 = Convert.ToInt32(strSayi2);
+
+            //if (Sayi1 > Sayi2)
+            //{
+            //    Console.WriteLine("Büyük Sayı = " + Sayi1);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Büyük Sayı = " + Sayi2);
+            //}
+            #endregion
+
+            #region Konsoldan Bir Harf Alıp O Harfin Sesli Harf Olup Olmadığını Kontrol Ederek Yazdır
+            //Console.WriteLine("Lütfen Bir Harf Yazın");
+            //string Yazi = Console.ReadLine();
+
+            //char YaziC = Convert.ToChar(Yazi);
+
+            //if (Yazi == "a" || Yazi == "A")
+            //{
+            //    Console.WriteLine("Harfiniz Sesli Bir Harf Olan " + Yazi);
+            //}
+            //else if (Yazi == "e" || Yazi == "E")
+            //{
+            //    Console.WriteLine("Harfiniz Sesli Bir Harf Olan " + Yazi);
+            //}
+            //else if (Yazi == "ı" || Yazi == "I")
+            //{
+            //    Console.WriteLine("Harfiniz Sesli Bir Harf Olan " + Yazi);
+            //}
+            //else if (Yazi == "i" || Yazi == "İ")
+            //{
+            //    Console.WriteLine("Harfiniz Sesli Bir Harf Olan " + Yazi);
+            //}
+            //else if (Yazi == "o" || Yazi == "O")
+            //{
+            //    Console.WriteLine("Harfiniz Sesli Bir Harf Olan " + Yazi);
+            //}
+            //else if (Yazi == "ö" || Yazi == "Ö")
+            //{
+            //    Console.WriteLine("Harfiniz Sesli Bir Harf Olan " + Yazi);
+            //}
+            //else if (Yazi == "u" || Yazi == "U")
+            //{
+            //    Console.WriteLine("Harfiniz Sesli Bir Harf Olan " + Yazi);
+            //}
+            //else if (Yazi == "ü" || Yazi == "Ü")
+            //{
+            //    Console.WriteLine("Harfiniz Sesli Bir Harf Olan " + Yazi);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Harfiniz Sesli Bir Harf Olmayan " + Yazi);
+            //}
+            #endregion
+
+            #region Konsoldan Bir Sayı Alıp O Numaraya Karşılık Gelen Ayı Yazdır
+            //Console.WriteLine("Lütfen Karşılığını Bulmak İstediğiniz Sayıyı Giriniz");
+            //string Sayi = Console.ReadLine();
+
+            //if (Sayi == "1")
+            //{
+            //    Console.WriteLine("Ocak");
+            //}
+            //else if (Sayi == "2")
+            //{
+            //    Console.WriteLine("Şubat");
+            //}
+            //else if (Sayi == "3")
+            //{
+            //    Console.WriteLine("Mart");
+            //}
+            //else if (Sayi == "4")
+            //{
+            //    Console.WriteLine("Nisan");
+            //}
+            //else if (Sayi == "5")
+            //{
+            //    Console.WriteLine("Mayıs");
+            //}
+            //else if (Sayi == "6")
+            //{
+            //    Console.WriteLine("Haziran");
+            //}
+            //else if (Sayi == "7")
+            //{
+            //    Console.WriteLine("Temmuz");
+            //}
+            //else if (Sayi == "8")
+            //{
+            //    Console.WriteLine("Ağustos");
+            //}
+            //else if (Sayi == "9")
+            //{
+            //    Console.WriteLine("Eylül");
+            //}
+            //else if (Sayi == "10")
+            //{
+            //    Console.WriteLine("Ekim");
+            //}
+            //else if (Sayi == "11")
+            //{
+            //    Console.WriteLine("Kasım");
+            //}
+            //else if (Sayi == "12")
+            //{
+            //    Console.WriteLine("Aralık");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Geçersiz Bir Değer Girdiniz");
+            //}
             #endregion
         }
     }
