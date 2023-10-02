@@ -82,7 +82,7 @@ namespace Kosullar
             //    Console.WriteLine("Sayı 10'dan Küçüktür");
             #endregion
 
-
+            // Ödevler
             #region Konsoldan Alınana Sayı Pozitif Mi, Negatif Mi?
             //Console.WriteLine("Lütfen Sayıyı Giriniz");
 
@@ -187,8 +187,6 @@ namespace Kosullar
             #region Konsoldan Bir Harf Alıp O Harfin Sesli Harf Olup Olmadığını Kontrol Ederek Yazdır
             //Console.WriteLine("Lütfen Bir Harf Yazın");
             //string Yazi = Console.ReadLine();
-
-            //char YaziC = Convert.ToChar(Yazi);
 
             //if (Yazi == "a" || Yazi == "A")
             //{
