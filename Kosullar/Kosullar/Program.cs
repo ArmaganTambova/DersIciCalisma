@@ -138,6 +138,10 @@ namespace Kosullar
             //    Console.WriteLine("Ortalamanız = " + Ortalama + "\n" + "Kaldınız");
             //}
             #endregion
+
+            #region MyRegion
+
+            #endregion
         }
     }
 }
