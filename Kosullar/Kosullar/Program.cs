@@ -58,27 +58,46 @@ namespace Kosullar
             #endregion
 
             #region "if" "else if" "else" Kullanımı
-            // Birbirine Bağlı Birden Çok Koşul Kullanılmak İstendiğinde "if", "else if" ve "else" Kullanılır
+            //// Birbirine Bağlı Birden Çok Koşul Kullanılmak İstendiğinde "if", "else if" ve "else" Kullanılır
 
-            int sayi = 10;
+            //int sayi = 10;
 
-            if (sayi > 10)
+            //if (sayi > 10)
+            //{
+            //    Console.WriteLine("Sayı 10'dan Büyüktür");
+            //}
+            //else if (sayi == 10)
+            //{
+            //    // Eğer Üstteki Koşulum "false" İse Bunuda Kontrol Et
+            //    // "Üstteki Değilse Eğer" Anlamında Kullanılır
+
+            //    Console.WriteLine("Sayı 10'a Eşittir");
+            //}
+            //else
+            //{
+            //    // Üsttekilerin Hiçbiri "true" Döndürmez İse, Hiçbir Koşulum Sağlanmaz İse Burayı Çalıştırır
+            //    // "if" "else if" lerdeki Koşulların Herhangi Biri "true" Sonuç Döndürse "else" Çalışmaz
+
+            //    Console.WriteLine("Sayı 10'dan Küçüktür");
+            #endregion
+
+            #region Konsoldan Alınana Sayı Pozitif Mi, Negatif Mi?
+            Console.WriteLine("Lütfen Sayıyı Giriniz");
+            
+            string strSayi = Console.ReadLine();
+            int Sayi = Convert.ToInt32(strSayi);
+
+            if (Sayi > 0)
             {
-                Console.WriteLine("Sayı 10'dan Büyüktür");
+                Console.WriteLine("Sayınız Pozitif (+)");
             }
-            else if (sayi == 10)
+            else if (Sayi < 0)
             {
-                // Eğer Üstteki Koşulum "false" İse Bunuda Kontrol Et
-                // "Üstteki Değilse Eğer" Anlamında Kullanılır
-
-                Console.WriteLine("Sayı 10'a Eşittir");
+                Console.WriteLine("Sayınız Negatif (-)");
             }
             else
             {
-                // Üsttekilerin Hiçbiri "true" Döndürmez İse, Hiçbir Koşulum Sağlanmaz İse Burayı Çalıştırır
-                // "if" "else if" lerdeki Koşulların Herhangi Biri "true" Sonuç Döndürse "else" Çalışmaz
-
-                Console.WriteLine("Sayı 10'dan Küçüktür");
+                Console.WriteLine("Sayınız Nötr ( )");
             }
             #endregion
         }

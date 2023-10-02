@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Kosullar\Kosullar\bin\Debug\Kosullar.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Kosullar\Kosullar\bin\Debug\Kosullar.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Kosullar\Kosullar\bin\Debug\Kosullar.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Kosullar\Kosullar\obj\Debug\Kosullar.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Kosullar\Kosullar\obj\Debug\Kosullar.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Kosullar\Kosullar\obj\Debug\Kosullar.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Kosullar\Kosullar\obj\Debug\Kosullar.pdb
