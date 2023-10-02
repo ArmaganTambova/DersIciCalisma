@@ -60,6 +60,7 @@ namespace TurDonusumleri
             //Console.WriteLine(sayi * 2);
             #endregion
 
+
             #region Konsoldan Alınan 2 Sayının Toplamını Yazdırınız
             //Console.WriteLine("Lütfen 1. Sayıyı Giriniz:");
             //string strsayi1 = Console.ReadLine();

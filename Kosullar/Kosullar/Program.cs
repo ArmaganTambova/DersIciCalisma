@@ -81,24 +81,25 @@ namespace Kosullar
             //    Console.WriteLine("Sayı 10'dan Küçüktür");
             #endregion
 
-            #region Konsoldan Alınana Sayı Pozitif Mi, Negatif Mi?
-            Console.WriteLine("Lütfen Sayıyı Giriniz");
-            
-            string strSayi = Console.ReadLine();
-            int Sayi = Convert.ToInt32(strSayi);
 
-            if (Sayi > 0)
-            {
-                Console.WriteLine("Sayınız Pozitif (+)");
-            }
-            else if (Sayi < 0)
-            {
-                Console.WriteLine("Sayınız Negatif (-)");
-            }
-            else
-            {
-                Console.WriteLine("Sayınız Nötr");
-            }
+            #region Konsoldan Alınana Sayı Pozitif Mi, Negatif Mi?
+            //Console.WriteLine("Lütfen Sayıyı Giriniz");
+            
+            //string strSayi = Console.ReadLine();
+            //int Sayi = Convert.ToInt32(strSayi);
+
+            //if (Sayi > 0)
+            //{
+            //    Console.WriteLine("Sayınız Pozitif (+)");
+            //}
+            //else if (Sayi < 0)
+            //{
+            //    Console.WriteLine("Sayınız Negatif (-)");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Sayınız Nötr");
+            //}
             #endregion
         }
     }
