@@ -97,7 +97,7 @@ namespace Kosullar
             }
             else
             {
-                Console.WriteLine("Sayınız Nötr ( )");
+                Console.WriteLine("Sayınız Nötr");
             }
             #endregion
         }
