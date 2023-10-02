@@ -285,6 +285,42 @@ namespace Kosullar
             //    Console.WriteLine("Geçersiz Bir Değer Girdiniz");
             //}
             #endregion
+
+            #region Konsoldan Alınan Sıcaklık Değerine Göre Soğuk, Ilık ve Sıcak Olarak Sınıflandır
+            //Console.WriteLine("Sıcaklık Değerini Giriniz");
+            //string strSicaklik = Console.ReadLine();
+
+            //double Sicaklik = Convert.ToDouble(strSicaklik);
+
+            //if (Sicaklik <= 18)
+            //{
+            //    Console.WriteLine("Soğuk");
+            //}
+            //else if (Sicaklik >= 19 && Sicaklik <= 25)
+            //{
+            //    Console.WriteLine("Ilık");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Sıcak");
+            //}
+            #endregion
+
+            #region Konsoldan Bir Yıl Al ve Artık Yıl Olup Olmadığını Kontrol Et
+            //Console.WriteLine("Bir Yıl Giriniz");
+            //string strYil = Console.ReadLine();
+
+            //short Yil = Convert.ToInt16(strYil);
+
+            //if (((Yil % 4) == 0) && ((Yil % 100) != 0) || ((Yil % 400) == 0))
+            //{
+            //    Console.WriteLine("Artık Yıl");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Artık Yıl Değil");
+            //}
+            #endregion
         }
     }
 }
