@@ -17,6 +17,7 @@ namespace DongulerWhile
             //  İterasyon
 
             // 1 ile 10 Arasındaki Sayıları Yazdırın
+
             //Console.WriteLine("1");
             //Console.WriteLine("2");
             //Console.WriteLine("3");
