@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\bin\Debug\KullaniciGirisUygulamasi.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\bin\Debug\KullaniciGirisUygulamasi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\bin\Debug\KullaniciGirisUygulamasi.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.Form1.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\KullaniciGirisUygulamasi\KullaniciGirisUygulamasi\obj\Debug\KullaniciGirisUygulamasi.pdb
