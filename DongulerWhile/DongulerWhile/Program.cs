@@ -10,6 +10,7 @@ namespace DongulerWhile
     {
         static void Main(string[] args)
         {
+            #region While Döngüsünü Hatırlayalım
             // Bir Başlangıç Değerinden "bit" Son Değerine Kadar Belirli Bir Artış Miktarıyla Bir İşlemin Birden Çok Kez Tekrarlanmasını Sağlayan Yapılardır
 
             //  Başlangıç
@@ -31,14 +32,31 @@ namespace DongulerWhile
 
             //
 
-            int sayac = 0;
+            //int sayac = 0;
 
-            while (sayac < 10) // While'nin Koşul Parantezleri İçerisindeki Değer Her Zaman "bool" Veri Üretmelidir
-            {
-                // While'nin Koşul Parantezleri İçerisindeki Değer "true" Olduğu Sürece Bu Yaşam Alanı Çalışır
-                sayac++;
-                Console.WriteLine(sayac);
-            }
+            //while (sayac < 10) // While'nin Koşul Parantezleri İçerisindeki Değer Her Zaman "bool" Veri Üretmelidir
+            //{
+            //    // While'nin Koşul Parantezleri İçerisindeki Değer "true" Olduğu Sürece Bu Yaşam Alanı Çalışır
+            //    sayac++;
+            //    Console.WriteLine(sayac);
+            //}
+            #endregion
+
+            #region 0 - 100 Arasındaki Sayıları Yazdır
+
+            #endregion
+
+            #region 20 - 50 Arasındaki Sayıları Yazdır
+
+            #endregion
+
+            #region 0 - 100 Arasındaki Çift Sayıları Yazdır
+
+            #endregion
+
+            #region Konsoldan Alınan 2 Sayı Arasındaki Tüm Çift Sayıları Yazdır
+
+            #endregion
         }
     }
 }
