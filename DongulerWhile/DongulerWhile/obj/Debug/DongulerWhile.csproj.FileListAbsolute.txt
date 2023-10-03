@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DongulerWhile\DongulerWhile\bin\Debug\DongulerWhile.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DongulerWhile\DongulerWhile\bin\Debug\DongulerWhile.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DongulerWhile\DongulerWhile\bin\Debug\DongulerWhile.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DongulerWhile\DongulerWhile\obj\Debug\DongulerWhile.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DongulerWhile\DongulerWhile\obj\Debug\DongulerWhile.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DongulerWhile\DongulerWhile\obj\Debug\DongulerWhile.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DongulerWhile\DongulerWhile\obj\Debug\DongulerWhile.pdb

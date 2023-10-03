@@ -76,13 +76,14 @@
             this.BT_Giris.TabIndex = 5;
             this.BT_Giris.Text = "Giriş";
             this.BT_Giris.UseVisualStyleBackColor = true;
+            this.BT_Giris.Click += new System.EventHandler(this.BT_Giris_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(369, 84);
+            this.ClientSize = new System.Drawing.Size(369, 85);
             this.Controls.Add(this.BT_Giris);
             this.Controls.Add(this.TB_Sifre);
             this.Controls.Add(this.TB_KullaniciAdi);
