@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\bin\Debug\OdevOrtalamaHesaplama.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\bin\Debug\OdevOrtalamaHesaplama.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\bin\Debug\OdevOrtalamaHesaplama.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\obj\Debug\OdevOrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\obj\Debug\OdevOrtalamaHesaplama.Form1.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\obj\Debug\OdevOrtalamaHesaplama.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\obj\Debug\OdevOrtalamaHesaplama.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\obj\Debug\OdevOrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\obj\Debug\OdevOrtalamaHesaplama.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevOrtalamaHesaplama\OdevOrtalamaHesaplama\obj\Debug\OdevOrtalamaHesaplama.pdb

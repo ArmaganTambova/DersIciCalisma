@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\bin\Debug\OdevMiniHesapMakinesi.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\bin\Debug\OdevMiniHesapMakinesi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\bin\Debug\OdevMiniHesapMakinesi.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\obj\Debug\OdevMiniHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\obj\Debug\OdevMiniHesapMakinesi.Form1.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\obj\Debug\OdevMiniHesapMakinesi.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\obj\Debug\OdevMiniHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\obj\Debug\OdevMiniHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\obj\Debug\OdevMiniHesapMakinesi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\OdevlerWinForm\OdevMiniHesapMakinesi\OdevMiniHesapMakinesi\obj\Debug\OdevMiniHesapMakinesi.pdb
