@@ -115,15 +115,21 @@ namespace DongulerWhile
             //Console.WriteLine("Lütfen Faktöriyelini Hesaplamak İstediğiniz Sayıyı Giriniz");
             //int Sayi = Convert.ToInt32(Console.ReadLine());
 
-            //long Faktoriyel = 1;
-            //int i = 1;
-
-            //while (i <= Sayi)
+            //if (Sayi > 0 && Sayi <= 20)
             //{
-            //    Faktoriyel *= i;
-            //    i++;
+            //    long Faktoriyel = 1;
+            //    int i = 1;
+            //    while (i <= Sayi)
+            //    {
+            //        Faktoriyel *= i;
+            //        i++;
+            //    }
+            //    Console.WriteLine($"{Sayi}! = {Faktoriyel}");
             //}
-            //Console.WriteLine($"{Sayi}! = {Faktoriyel}");
+            //else
+            //{
+            //    Console.WriteLine("Özür Dilerim. Sayı Aralığım 0-21 Arasında. Lütfen 0-21 Arasında Bir Sayı Giriniz");
+            //}
             #endregion
         }
     }
