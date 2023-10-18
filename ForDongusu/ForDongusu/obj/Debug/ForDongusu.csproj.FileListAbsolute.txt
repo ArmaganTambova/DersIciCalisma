@@ -1,0 +1,14 @@
+C:\Users\armif\source\repos\ForDongusu\ForDongusu\bin\Debug\ForDongusu.exe.config
+C:\Users\armif\source\repos\ForDongusu\ForDongusu\bin\Debug\ForDongusu.exe
+C:\Users\armif\source\repos\ForDongusu\ForDongusu\bin\Debug\ForDongusu.pdb
+C:\Users\armif\source\repos\ForDongusu\ForDongusu\obj\Debug\ForDongusu.csproj.AssemblyReference.cache
+C:\Users\armif\source\repos\ForDongusu\ForDongusu\obj\Debug\ForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\armif\source\repos\ForDongusu\ForDongusu\obj\Debug\ForDongusu.exe
+C:\Users\armif\source\repos\ForDongusu\ForDongusu\obj\Debug\ForDongusu.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ForDongusu\ForDongusu\bin\Debug\ForDongusu.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ForDongusu\ForDongusu\bin\Debug\ForDongusu.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ForDongusu\ForDongusu\bin\Debug\ForDongusu.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ForDongusu\ForDongusu\obj\Debug\ForDongusu.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ForDongusu\ForDongusu\obj\Debug\ForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ForDongusu\ForDongusu\obj\Debug\ForDongusu.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ForDongusu\ForDongusu\obj\Debug\ForDongusu.pdb
