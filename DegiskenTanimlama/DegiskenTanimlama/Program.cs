@@ -67,7 +67,7 @@ namespace DegiskenTanimlama
             // KARAR DEĞİŞKENİ
 
             // bool Karar Değişkenidir
-            bool tamammi = true;//false
+            bool tamammi = true; //false
             Console.WriteLine(tamammi);
 
 

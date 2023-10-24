@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Diziler\Diziler\obj\Debug\Diziler.pdb
