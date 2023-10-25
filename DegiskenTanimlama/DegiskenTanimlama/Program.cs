@@ -11,7 +11,8 @@ namespace DegiskenTanimlama
         static void Main(string[] args)
         {
             // YORUM SATIRI
-            //  DeğişkenTürü DeğişkenAdı AtamaOperatörü BaşlangıçDeğeri SatırKapama
+            //  Değişken Türü | Değişken Adı | Atama Operatörü | Başlangıç Değeri | Satır Kapama
+            //       byte            sayi1           =                 255               ;
 
 
 
