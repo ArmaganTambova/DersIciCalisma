@@ -202,6 +202,72 @@ namespace Diziler
             //    Console.WriteLine(Liste[i]);
             //}
             #endregion
+
+            #region Öğrenci Kayıt Uygulaması
+            //Console.WriteLine("Lütfen Kaç Öğrenci Kayıt Etmek İstediğinizi Yazınız");
+            //int OgrenciAdedi = Convert.ToInt32(Console.ReadLine());
+            //Console.Clear();
+
+            //string[] Ogrenciler = new string[OgrenciAdedi];
+
+            //for ( int i = 0; i < OgrenciAdedi; i++ )
+            //{
+            //    if (i == OgrenciAdedi - 1)
+            //    {
+            //        Console.WriteLine("Lütfen Öğrencinin Adı ve Soyadını Ayrı Şekilde Yazarak Giriniz (Son Öğrenci)");
+            //        string OgrenciAdi = Console.ReadLine();
+            //        Ogrenciler[i] = OgrenciAdi;
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Lütfen Öğrencinin Adı ve Soyadını Ayrı Şekilde Yazarak Giriniz");
+            //        string OgrenciAdi = Console.ReadLine();
+            //        Ogrenciler[i] = OgrenciAdi;
+            //    }
+            //}
+
+            //Console.Clear();
+            //Console.WriteLine("*+*+* Öğrenciler *+*+*");
+
+            //for ( int i = 0; i < Ogrenciler.Length; i++)
+            //{
+            //    Console.WriteLine(Ogrenciler[i]);
+            //}
+
+            #region Alternatif Versiyon
+            List<string> Ogrenciler = new List<string>();
+
+            bool Devam = true;
+
+            while (Devam)
+            {
+                Console.WriteLine("Lütfen Öğrencinin Adı ve Soyadını Ayrı Şekilde Yazarak Giriniz");
+                string OgrenciAdi = Console.ReadLine();
+                Ogrenciler.Add(OgrenciAdi);
+                Console.WriteLine(OgrenciAdi + " Adlı Öğrenci Başarıyla Kaydedilmiştir");
+                Console.WriteLine("Öğrenci Eklemeye Devam Etmek İster Misiniz? E/H");
+                string Secim = Console.ReadLine();
+                if (Secim == "h" || Secim == "H")
+                {
+                    Console.Clear();
+                    Devam = false;
+                }
+                else
+                {
+                    Console.Clear();
+                    continue;
+                }
+            }
+
+            Console.WriteLine("*+*+* Öğrenciler *+*+*");
+
+            foreach (string Ogrenci in Ogrenciler)
+            {
+                Console.WriteLine(Ogrenci);
+            }
+            #endregion
+
+            #endregion
         }
     }
 }
