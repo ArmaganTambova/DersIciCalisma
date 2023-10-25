@@ -110,6 +110,7 @@ namespace Diziler
             //Console.WriteLine("Dizide " + Deger + " Adet Sayı Bulunmakta" + "\n" + "Bu Sayıların Ortalaması = " + Ortalama);
             #endregion
 
+            // Ödev
             #region Yukarıdaki Dizideki Çift Sayıları Yazdırınız
             //for (int i = 0; i < sayilar.Length; i++)
             //{
@@ -120,6 +121,7 @@ namespace Diziler
             //}
             #endregion
 
+            // Ödev
             #region Yukarıdaki Dizideki 50 Üstü Sayıları Yazdırınız
             //for (int i = 0; i < sayilar.Length; i++)
             //{
@@ -130,6 +132,7 @@ namespace Diziler
             //}
             #endregion
 
+            // Ödev
             #region Yukarıdaki Dizideki 20 - 30 Arasındaki Sayıları Yazdırınız
             //for (int i = 0; i < sayilar.Length; i++)
             //{
@@ -140,6 +143,7 @@ namespace Diziler
             //}
             #endregion
 
+            // Ödev
             #region Yukarıdaki Dizideki 3'ün Katı Olan Sayıları Yazdırınız
             //for (int i = 0; i < sayilar.Length; i++)
             //{
@@ -150,6 +154,7 @@ namespace Diziler
             //}
             #endregion
 
+            // Ödev
             #region Yukarıdaki Dizideki Çift Sayıların Ortalamasını Bulunuz
             //int Deger = 0; int Toplam = 0;
 
@@ -161,9 +166,41 @@ namespace Diziler
             //        Deger++;
             //    }
             //}
-            
+
             //double Ortalama = (double)Toplam / Deger;
             //Console.WriteLine("Dizideki Çift Sayıların Ortalaması = " + Ortalama);
+            #endregion
+
+            #region Alışveriş Listesi Oluşturmak
+            //Console.WriteLine("Kaç Adet Ürün Gireceksiniz");
+            //int UrunAdedi = Convert.ToInt32(Console.ReadLine());
+            //Console.Clear();
+
+            //string[] Liste = new string[UrunAdedi];
+
+            //for (int i = 0; i < UrunAdedi; i++)
+            //{
+            //    if (i == UrunAdedi - 1)
+            //    {
+            //        Console.WriteLine("Ürün Adı Yazınız (Son Ürünü Ekliyorsunuz)");
+            //        string UrunAdi = Console.ReadLine();
+            //        Liste[i] = UrunAdi;
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Ürün Adı Yazınız");
+            //        string UrunAdi = Console.ReadLine();
+            //        Liste[i] = UrunAdi;
+            //    }
+            //}
+
+            //Console.Clear();
+            //Console.WriteLine("*+*+* Ürünler Listesi *+*+*");
+
+            //for (int i = 0; i < Liste.Length; i++)
+            //{
+            //    Console.WriteLine(Liste[i]);
+            //}
             #endregion
         }
     }
