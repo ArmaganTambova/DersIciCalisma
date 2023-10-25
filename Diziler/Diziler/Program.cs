@@ -235,36 +235,37 @@ namespace Diziler
             //}
 
             #region Alternatif Versiyon
-            List<string> Ogrenciler = new List<string>();
+            //List<string> Ogrenciler = new List<string>();
 
-            bool Devam = true;
+            //bool Devam = true;
 
-            while (Devam)
-            {
-                Console.WriteLine("Lütfen Öğrencinin Adı ve Soyadını Ayrı Şekilde Yazarak Giriniz");
-                string OgrenciAdi = Console.ReadLine();
-                Ogrenciler.Add(OgrenciAdi);
-                Console.WriteLine(OgrenciAdi + " Adlı Öğrenci Başarıyla Kaydedilmiştir");
-                Console.WriteLine("Öğrenci Eklemeye Devam Etmek İster Misiniz? E/H");
-                string Secim = Console.ReadLine();
-                if (Secim == "h" || Secim == "H")
-                {
-                    Console.Clear();
-                    Devam = false;
-                }
-                else
-                {
-                    Console.Clear();
-                    continue;
-                }
-            }
+            //while (Devam)
+            //{
+            //    Console.WriteLine("Lütfen Öğrencinin Adı ve Soyadını Ayrı Şekilde Yazarak Giriniz");
+            //    string OgrenciAdi = Console.ReadLine();
+            //    Ogrenciler.Add(OgrenciAdi);
+            //    Console.WriteLine(OgrenciAdi + " Adlı Öğrenci Başarıyla Kaydedilmiştir");
+            //    Console.WriteLine("Öğrenci Eklemeye Devam Etmek İster Misiniz? E/H");
+            //    string Secim = Console.ReadLine();
+            //    if (Secim == "h" || Secim == "H")
+            //    {
+            //        Console.Clear();
+            //        Devam = false;
+            //    }
+            //    else
+            //    {
+            //        Console.Clear();
+            //        continue;
+            //    }
+            //}
 
-            Console.WriteLine("*+*+* Öğrenciler *+*+*");
+            //Console.WriteLine("*+*+* Öğrenciler *+*+*");
+            //Console.WriteLine("*+*+* " + Ogrenciler.Count + " Adet Öğrenci Eklendi *+*+*");
 
-            foreach (string Ogrenci in Ogrenciler)
-            {
-                Console.WriteLine(Ogrenci);
-            }
+            //foreach (string Ogrenci in Ogrenciler)
+            //{
+            //    Console.WriteLine(Ogrenci);
+            //}
             #endregion
 
             #endregion
