@@ -85,7 +85,7 @@ namespace Diziler
             #endregion
 
 
-            int[] sayilar = {15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5};
+            //int[] sayilar = {15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5};
 
             #region Yukarıdaki Dizideki Pozitif Sayıları Yazdırınız
             //for (int i = 0; i < sayilar.Length; i++)
@@ -267,6 +267,180 @@ namespace Diziler
             //    Console.WriteLine(Ogrenci);
             //}
             #endregion
+
+            #endregion
+
+            // Ödevler
+            #region Bir Dizi Oluşturun ve Bu Dizinin Elemanlarını Ekrana Yazdırın
+            //int[] sayilar = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
+
+            //for (int i = 0; i < sayilar.Length; i++)
+            //{
+            //    Console.WriteLine(sayilar[i]);
+            //}
+            #endregion
+
+            #region Bir Dizinin Elemanlarını Kullanıcıdan Alarak Diziye Atayın ve Sonra Diziyi Ekrana Yazdırın
+            //Console.WriteLine("Lütfen Kaç Adet Değişken Girmek İstediğinizi Seçin");
+            //int Adet = Convert.ToInt32(Console.ReadLine());
+            //Console.Clear();
+
+            //string[] Degisken = new string[Adet];
+
+            //for (int i = 0; i < Adet; i++)
+            //{
+            //    if (i == Adet - 1)
+            //    {
+            //        Console.WriteLine("Değişken Adı Yazınız (Son Değişkeni Ekliyorsunuz)");
+            //        string DegiskenAdi = Console.ReadLine();
+            //        Degisken[i] = DegiskenAdi;
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Değişken Adı Yazınız");
+            //        string DegiskenAdi = Console.ReadLine();
+            //        Degisken[i] = DegiskenAdi;
+            //    }
+            //}
+
+            //Console.Clear();
+            //Console.WriteLine("*+*+* Değişkenler *+*+*");
+
+            //for (int i = 0;i < Degisken.Length;i++)
+            //{
+            //    Console.WriteLine(Degisken[i]);
+            //}
+            #endregion
+
+            #region Bir Dizinin Elemanlarını Toplayarak Toplamı Ekrana Yazdırın
+            //int[] sayilar = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
+
+            //int Toplam = 0;
+
+            //for (int i = 0; i < sayilar.Length; i++)
+            //{
+            //    Toplam += sayilar[i];
+            //}
+
+            //Console.WriteLine("Dizideki Sayıların Toplamı = " + Toplam);
+            #endregion
+
+            #region İki Dizinin Elemanlarını Toplayarak Yeni Bir Dizi Oluşturun
+            //int[] sayilar1 = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
+            //int[] sayilar2 = { 45, -50, -59, 78, 1250, -81, 58, 17, -4, 85, 7, -98, 125, -143, 63 };
+
+            //int[] Toplamlar = new int[sayilar1.Length];
+
+            //for (int i = 0; i < sayilar1.Length; i++)
+            //{
+            //    Toplamlar[i] = sayilar1[i] + sayilar2[i];
+            //}
+
+            //Console.WriteLine("*+*+* Toplamlar *+*+*");
+
+            //for (int i = 0;i < Toplamlar.Length;i++)
+            //{
+            //    Console.WriteLine(Toplamlar[i]);
+            //}
+            #endregion
+
+            #region Dizinin Elemanlarını Ters Çevirerek Yeni Bir Dizi Oluşturun
+            //int[] sayilar = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
+
+            //int[] Terssayilar = new int[sayilar.Length];
+
+            //int Deger = 0;
+
+            //for (int i = sayilar.Length - 1; i >= 0; i--)
+            //{
+            //    Terssayilar[Deger] = sayilar[i];
+            //    Deger++;
+            //}
+
+            //Console.WriteLine("*+*+* Ters Dizi *+*+*");
+
+            //for (int i = 0; i < Terssayilar.Length; i++)
+            //{
+            //    Console.WriteLine(Terssayilar[i]);
+            //}
+            #endregion
+
+            #region Bir Dizinin En Büyük Elemanını Bulun
+            //int[] sayilar = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
+
+            ////int EnBuyuk = sayilar.Max();
+            ////Console.WriteLine("En Büyük Sayı = " + EnBuyuk);
+
+            //int EnBuyuk = sayilar[0];
+
+            //for (int i = 1; i < sayilar.Length; i++)
+            //{
+            //    if (sayilar[i] > EnBuyuk)
+            //    {
+            //        EnBuyuk = sayilar[i];
+            //    }
+            //}
+
+            //Console.WriteLine("En Büyük Sayı = " + EnBuyuk);
+            #endregion
+
+            #region Bir Dizinin En Küçük Elemanını Bulun
+            //int[] sayilar = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
+
+            ////int EnKucuk = sayilar.Min();
+            ////Console.WriteLine("En Küçük Sayı = " + EnKucuk);
+
+            //int EnKucuk = sayilar[0];
+
+            //for (int i = 1; i < sayilar.Length; i++)
+            //{
+            //    if (sayilar[i] < EnKucuk)
+            //    {
+            //        EnKucuk = sayilar[i];
+            //    }
+            //}
+
+            //Console.WriteLine("En Küçük Sayı = " + EnKucuk);
+            #endregion
+
+            #region İki Diziyi Birleştirerek Yeni Bir Dizi Oluşturun
+            //int[] sayilar1 = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
+            //int[] sayilar2 = { 45, -50, -59, 78, 1250, -81, 58, 17, -4, 85, 7, -98, 125, -143, 63 };
+
+            #region Yol 1
+            //int[] Birlesik = sayilar1.Concat(sayilar2).ToArray();
+
+            //Console.WriteLine("*+*+* Birleşik Dizi *+*+*");
+
+            //for (int i = 0; i < Birlesik.Length; i++)
+            //{
+            //    Console.WriteLine(Birlesik[i]);
+            //}
+            #endregion
+
+            #region Yol 2
+            //int[] Birlesik = new int[sayilar1.Length + sayilar2.Length];
+
+            //Array.Copy(sayilar1, Birlesik, sayilar1.Length);
+            //Array.Copy(sayilar2, 0, Birlesik, sayilar1.Length, sayilar2.Length);
+
+            //for (int i = 0; i < Birlesik.Length; i++)
+            //{
+            //    Console.WriteLine(Birlesik[i]);
+            //}
+            #endregion
+
+            #endregion
+
+            #region İsimlerden Oluşan Bir Dizide Belirli Bir İsmin Kaç Kez Geçtiğini Bulun (Bulunacak İsmi Konsoldan İsteyin)
+
+            #endregion
+
+            #region Bir Dizinin İçinde Belirli Bir Elemanın Indexini Bulun
+
+            #endregion
+
+            #region Bir Dizinin Elemanlarını Tek ve Çift Sayılar Olarak Ayırarak İki Dizi Oluşturun
 
             #endregion
         }
