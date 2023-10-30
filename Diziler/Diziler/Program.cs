@@ -368,9 +368,12 @@ namespace Diziler
             #region Bir Dizinin En Büyük Elemanını Bulun
             //int[] sayilar = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
 
+            #region Yol 1
             ////int EnBuyuk = sayilar.Max();
             ////Console.WriteLine("En Büyük Sayı = " + EnBuyuk);
+            #endregion
 
+            #region Yol 2
             //int EnBuyuk = sayilar[0];
 
             //for (int i = 1; i < sayilar.Length; i++)
@@ -384,12 +387,17 @@ namespace Diziler
             //Console.WriteLine("En Büyük Sayı = " + EnBuyuk);
             #endregion
 
+            #endregion
+
             #region Bir Dizinin En Küçük Elemanını Bulun
             //int[] sayilar = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
 
+            #region Yol 1
             ////int EnKucuk = sayilar.Min();
             ////Console.WriteLine("En Küçük Sayı = " + EnKucuk);
+            #endregion
 
+            #region Yol 2
             //int EnKucuk = sayilar[0];
 
             //for (int i = 1; i < sayilar.Length; i++)
@@ -401,6 +409,8 @@ namespace Diziler
             //}
 
             //Console.WriteLine("En Küçük Sayı = " + EnKucuk);
+            #endregion
+
             #endregion
 
             #region İki Diziyi Birleştirerek Yeni Bir Dizi Oluşturun
@@ -430,18 +440,173 @@ namespace Diziler
             //}
             #endregion
 
+            #region Yol 3
+            //int[] Birlesik = new int[sayilar1.Length + sayilar2.Length];
+
+            //for (int i = 0; i < sayilar1.Length; i++)
+            //{
+            //    Birlesik[i] = sayilar1[i];
+            //}
+
+            //int Deger = sayilar1.Length;
+            //int BlaBla = 0;
+
+            //for (int i = Deger; i < sayilar1.Length + sayilar2.Length; i++)
+            //{
+            //    Birlesik[i] = sayilar2[BlaBla];
+            //    BlaBla++;
+            //}
+
+            //for (int i = 0; i < Birlesik.Length; i++)
+            //{
+            //    Console.WriteLine(Birlesik[i]);
+            //}
+            #endregion
+
             #endregion
 
             #region İsimlerden Oluşan Bir Dizide Belirli Bir İsmin Kaç Kez Geçtiğini Bulun (Bulunacak İsmi Konsoldan İsteyin)
+            //string[] İsimler = { "Armağan", "Armağan", "Armağan", "Poraz", "BiSenEksiktinKaan", "Poraz", "Armağan" };
 
+            //Console.WriteLine("Kontrol Etmek İstediğiniz İsmi Giriniz (Armağan, Poraz, BiSenEksiktinKaan)");
+            //string Strİsin = Console.ReadLine();
+
+            //int Sayi = 0;
+
+            //for (int i = 0; i < İsimler.Length; i++)
+            //{
+            //    if (İsimler[i] == Strİsin)
+            //    {
+            //        Sayi++;
+            //    }
+            //}
+
+            //if (Sayi > 0)
+            //{
+            //    Console.WriteLine(Strİsin + " İsmi " + Sayi + " Kez Bulundu ");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Aradığınız İsmi Bulamadık");
+            //}
             #endregion
 
             #region Bir Dizinin İçinde Belirli Bir Elemanın Indexini Bulun
+            //int[] sayilar1 = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
+
+            //Console.WriteLine("Lütfen Aratmak İstediğiniz Değeri Girin (Sadece Sayı)");
+            //int Sayi = Convert.ToInt32(Console.ReadLine());
+
+            #region Yol 1
+            //bool Kontrol = sayilar1.Contains(Sayi);
+
+            //if (Kontrol)
+            //{
+            //    int Index = Array.IndexOf(sayilar1, Sayi);
+            //    Console.WriteLine("Aradığınız Sayının Indexi = " + Index);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Aradığınız Sayı Dizide Bulunmamakta");
+            //}
+
+            #region Alternatif
+            //int Index = Array.IndexOf(sayilar1, Sayi);
+
+            //if (Index != -1)
+            //{
+            //    Console.WriteLine("Aradığınız Sayının Indexi = " + Index);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Aradığınız Sayı Dizide Bulunamadı");
+            //}
+            #endregion
+
+            #endregion
+
+            #region Yol 2
+            //int Index = Array.FindIndex(sayilar1, Eleman => Eleman == Sayi);
+
+            //if (Index != -1)
+            //{
+            //    Console.WriteLine("Aradığınız Sayının Indexi = " + Index);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Aradığınız Sayı Dizide Bulunamadı");
+            //}
+            #endregion
+
+            #region Yol 3
+            //for (int i = 0; i < sayilar1.Length; i++)
+            //{
+            //    if (sayilar1[i] == Sayi)
+            //    {
+            //        Console.WriteLine("Aradığınız Sayının Indexi = " + i);
+            //        break;
+            //    }
+            //    else
+            //    {
+            //        continue;
+            //    }
+            //}
+            #endregion
 
             #endregion
 
             #region Bir Dizinin Elemanlarını Tek ve Çift Sayılar Olarak Ayırarak İki Dizi Oluşturun
+            //int[] sayilar1 = { 15, 45, 7, 16, 22, 81, 1, 13, 14, 58, 6, 4, 5, 36, -5 };
 
+            //int Cift1 = 0;
+            //int Tek1 = 0;
+
+            //for (int i = 0; i < sayilar1.Length; i++)
+            //{
+            //    if (sayilar1[i] % 2 == 0)
+            //    {
+            //        Cift1++;
+            //    }
+            //    else
+            //    {
+            //        Tek1++;
+            //    }
+            //}
+
+
+            //int[] CiftSayilar = new int[Cift1];
+            //int[] TekSayilar = new int[Tek1];
+
+            //int Cift = 0;
+            //int Tek = 0;
+
+            //for (int i = 0; i < sayilar1.Length; i++)
+            //{
+            //    if (sayilar1[i] % 2 == 0)
+            //    {
+            //        CiftSayilar[Cift] = sayilar1[i];
+            //        Cift++;
+            //    }
+            //    else
+            //    {
+            //        TekSayilar[Tek] = sayilar1[i];
+            //        Tek++;
+            //    }
+            //}
+
+            //Console.WriteLine("*+*+* Çift Sayılar *+*+*");
+
+            //for (int i = 0; i < CiftSayilar.Length; i++)
+            //{
+            //    Console.WriteLine(CiftSayilar[i]);
+            //}
+
+            //Console.WriteLine("*+*+* Tek Sayılar *+*+*");
+
+            //for (int i = 0; i <= TekSayilar.Length; i++)
+            //{
+            //    Console.WriteLine(TekSayilar[i]);
+            //}
             #endregion
         }
     }
