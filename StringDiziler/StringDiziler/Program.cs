@@ -141,14 +141,123 @@ namespace StringDiziler
             #endregion
 
             #region İçi Dolu Çeyrek Baklava
+            //Console.WriteLine("Lütfen Baklavanın Büyüklüğünü Giriniz");
+            //int Size = Convert.ToInt32(Console.ReadLine());
 
+            //for (int i = 1; i <= Size; i++)
+            //{
+            //    for (int j = 1; j <= i; j++)
+            //    {
+            //        Console.Write(" ");
+            //    }
+
+            //    for (int j = 1; j <= 2 * (Size - i) + 1; j++)
+            //    {
+            //        Console.Write("*");
+            //    }
+
+            //    Console.WriteLine();
+            //}
             #endregion
 
             #region İçi Boş Çeyrek Baklava
+            //Console.WriteLine("Lütfen Baklavanın Büyüklüğünü Giriniz");
+            //int Size = Convert.ToInt32(Console.ReadLine());
 
+            //for (int i = 1; i <= Size / 2; i++)
+            //{
+            //    for (int j = 1; j <= i; j++)
+            //    {
+            //        Console.Write(" ");
+            //    }
+
+            //    for (int j = 1; j <= Size - i * 2 + 1; j++)
+            //    {
+            //        if (j == 1 || j == Size - i * 2 + 1)
+            //        {
+            //            Console.Write("*");
+            //        }
+            //        else
+            //        {
+            //            Console.Write(" ");
+            //        }
+            //    }
+
+            //    Console.WriteLine();
+            //}
             #endregion
 
             #region İçi Dolu Tam Baklava
+            //Console.WriteLine("Lütfen Baklavanın Büyüklüğünü Giriniz");
+            //int Size = Convert.ToInt32(Console.ReadLine());
+
+            //for (int i = 1; i <= Size; i++)
+            //{
+            //    for (int j = 1; j <= Size - i; j++)
+            //    {
+            //        Console.Write(" ");
+            //    }
+
+            //    for (int j = 1; j <= 2 * i - 1; j++)
+            //    {
+            //        Console.Write("*");
+            //    }
+
+            //    Console.WriteLine();
+            //}
+
+            //for (int i = Size - 1; i >= 1; i--)
+            //{
+            //    for (int j = 1; j <= Size - i; j++)
+            //    {
+            //        Console.Write(" ");
+            //    }
+
+            //    for (int j = 1; j <= 2 * i - 1; j++)
+            //    {
+            //        Console.Write("*");
+            //    }
+
+            //    Console.WriteLine();
+            //}
+            #endregion
+
+            #region Konsoldan Alınan Kelime Palindrom Mudur?
+
+            #region Yol 1
+            //Console.WriteLine("Lütfen Bir Kelime Giriniz");
+            //string Kelime = Console.ReadLine(); string TersKelime = "";
+
+            //Kelime = Kelime.ToLower();
+
+            //for (int i = Kelime.Length - 1; i >= 0; i--)
+            //{
+            //    TersKelime += Kelime[i];
+            //}
+
+            //if (Kelime == TersKelime)
+            //{
+            //    Console.WriteLine("Girmiş Olduğunuz Kelime Palidromdur");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Girmiş Olduğunuz Kelime Palidrom Değildir");
+            //}
+            #endregion
+
+            #region Yol 2
+            //Console.WriteLine("Lütfen Bir Kelime Giriniz");
+            //string Kelime = Console.ReadLine(); Kelime = Kelime.ToLower(); string TersKelime = new string(Kelime.Reverse().ToArray());
+
+            //if (Kelime == TersKelime)
+            //{
+            //    Console.WriteLine("Girmiş Olduğunuz Kelime Palidromdur");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Girmiş Olduğunuz Kelime Palidrom Değildir");
+            //}
+            #endregion
 
             #endregion
         }
