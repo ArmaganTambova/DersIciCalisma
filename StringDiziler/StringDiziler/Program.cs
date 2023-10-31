@@ -25,14 +25,67 @@ namespace StringDiziler
             //Console.WriteLine(Isim);
             #endregion
 
+
             #region İsminizi Karakterlerini Tek Tek Alarak Yazdırınız
-            //string Isim = "Armağan Tambova";
+            //Console.WriteLine("İsminiz Kaç Karakterli");
+            //int KarakterSayi = Convert.ToInt32(Console.ReadLine());
 
-            //Console.WriteLine(Isim + " Adı " + Isim.Length + " Karakterden Oluşmaktadır");
+            //string Isim = "";
 
-            //for (int i = 0; i < Isim.Length; i++)
+            //for (int i = 0; i < KarakterSayi; i++)
             //{
-            //    Console.WriteLine(Isim[i]);
+            //    Console.WriteLine((i + 1) + ". Karakteri Giriniz");
+            //    Isim += Console.ReadLine();
+            //}
+
+            //Console.WriteLine("İsminiz = " + Isim);
+            #endregion
+
+            #region Metnin İçerisindeki Kaç Adet Boşluk Olduğunu Yazdır
+            //Console.WriteLine("Lütfen Bir Metin Giriniz");
+            //string Metin = Console.ReadLine();
+
+            //int Sayac = 0;
+
+            //for (int i = 0; i < Metin.Length; i++)
+            //{
+            //    if (Metin[i] == ' ')
+            //    {
+            //        Sayac++;
+            //    }
+            //}
+
+            //if (Sayac > 0)
+            //{
+            //    Console.WriteLine($"Girdiğiniz Metinde {Sayac} Adet Boşluk Vardır");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Girdiğiniz Metinde Boşluk Bulunmamaktadır");
+            //}
+            #endregion
+
+            #region Konsoldan Alınan Metnin İçerisinde A/a Karakteri Var Mı?
+            //Console.WriteLine("Lütfen Bir Metin Giriniz");
+            //string Metin = Console.ReadLine();
+
+            //bool Kontrol = false;
+
+            //for (int i = 0; i < Metin.Length; i++)
+            //{
+            //    if (Metin[i] == 'a' || Metin[i] == 'A')
+            //    {
+            //        Kontrol = true;
+            //    }
+            //}
+
+            //if (Kontrol)
+            //{
+            //    Console.WriteLine("Girmiş Olduğunuz Metin İçerisinde a/A Karakteri Bulunmaktadır");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Girmiş Olduğunuz Metin İçerisinde a/A Karakteri Bulunmamaktadır");
             //}
             #endregion
         }
