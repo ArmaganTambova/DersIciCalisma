@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\StringDiziler\StringDiziler\bin\Debug\StringDiziler.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\StringDiziler\StringDiziler\bin\Debug\StringDiziler.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\StringDiziler\StringDiziler\bin\Debug\StringDiziler.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\StringDiziler\StringDiziler\obj\Debug\StringDiziler.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\StringDiziler\StringDiziler\obj\Debug\StringDiziler.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\StringDiziler\StringDiziler\obj\Debug\StringDiziler.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\StringDiziler\StringDiziler\obj\Debug\StringDiziler.pdb
