@@ -103,6 +103,54 @@ namespace StringDiziler
             #endregion
 
             #endregion
+
+            #region Konsoldan Alınan Metnin Tüm Karakterlerini Büyük Olarak Yazdırınız
+
+            #region Yol 1
+            //Console.WriteLine("Lütfen Bir Metin Giriniz");
+            //string Metin = Console.ReadLine();
+
+            //string BuyukHarfli = Metin.ToUpper(); //ToLower
+
+            //Console.WriteLine(BuyukHarfli);
+            #endregion
+
+            #region Yol 2
+            //Console.WriteLine("Lütfen Bir Metin Giriniz");
+            //string Metin = Console.ReadLine();
+
+            //string BuyukMetin = "";
+
+            //for (int i = 0; i < Metin.Length; i++)
+            //{
+            //    int Sayisal = (int)Metin[i];
+            //    if (Sayisal >= 97 && Sayisal <= 122)
+            //    {
+            //        int BuyukSayisal = Sayisal - 32;
+            //        BuyukMetin += (char)BuyukSayisal;
+            //    }
+            //    else
+            //    {
+            //        BuyukMetin += Metin[i];
+            //    }
+            //}
+
+            //Console.WriteLine(BuyukMetin);
+            #endregion
+
+            #endregion
+
+            #region İçi Dolu Çeyrek Baklava
+
+            #endregion
+
+            #region İçi Boş Çeyrek Baklava
+
+            #endregion
+
+            #region İçi Dolu Tam Baklava
+
+            #endregion
         }
     }
 }
