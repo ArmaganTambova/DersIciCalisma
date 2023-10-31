@@ -87,6 +87,21 @@ namespace StringDiziler
             //{
             //    Console.WriteLine("Girmiş Olduğunuz Metin İçerisinde a/A Karakteri Bulunmamaktadır");
             //}
+
+            #region Alternatif
+            //Console.WriteLine("Lütfen Bir Metin Giriniz");
+            //string Metin = Console.ReadLine();
+
+            //if (Metin.Contains('a') ||  Metin.Contains('A'))
+            //{
+            //    Console.WriteLine("Girmiş Olduğunuz Metin İçerisinde a/A Karakteri Bulunmaktadır");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Girmiş Olduğunuz Metin İçerisinde a/A Karakteri Bulunmamaktadır");
+            //}
+            #endregion
+
             #endregion
         }
     }
