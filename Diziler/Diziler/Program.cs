@@ -603,7 +603,7 @@ namespace Diziler
 
             //Console.WriteLine("*+*+* Tek Sayılar *+*+*");
 
-            //for (int i = 0; i <= TekSayilar.Length; i++)
+            //for (int i = 0; i < TekSayilar.Length; i++)
             //{
             //    Console.WriteLine(TekSayilar[i]);
             //}
