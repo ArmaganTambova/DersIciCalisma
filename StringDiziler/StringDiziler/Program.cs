@@ -140,7 +140,8 @@ namespace StringDiziler
 
             #endregion
 
-            #region İçi Dolu Çeyrek Baklava
+            // Ödev
+            #region İçi Dolu Yarım Baklava
             //Console.WriteLine("Lütfen Baklavanın Büyüklüğünü Giriniz");
             //int Size = Convert.ToInt32(Console.ReadLine());
 
@@ -160,7 +161,8 @@ namespace StringDiziler
             //}
             #endregion
 
-            #region İçi Boş Çeyrek Baklava
+            // Ödev
+            #region İçi Boş Yarım Baklava
             //Console.WriteLine("Lütfen Baklavanın Büyüklüğünü Giriniz");
             //int Size = Convert.ToInt32(Console.ReadLine());
 
@@ -187,6 +189,7 @@ namespace StringDiziler
             //}
             #endregion
 
+            // Ödev
             #region İçi Dolu Tam Baklava
             //Console.WriteLine("Lütfen Baklavanın Büyüklüğünü Giriniz");
             //int Size = Convert.ToInt32(Console.ReadLine());
@@ -222,6 +225,7 @@ namespace StringDiziler
             //}
             #endregion
 
+            // Ödev
             #region Konsoldan Alınan Kelime Palindrom Mudur?
 
             #region Yol 1
