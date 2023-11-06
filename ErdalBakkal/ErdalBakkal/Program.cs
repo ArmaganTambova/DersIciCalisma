@@ -52,35 +52,35 @@ namespace ErdalBakkal
             #endregion
 
             #region Uygulama 2
-            double Toplam = 0; bool Kontrol = true;
+            //double Toplam = 0; bool Kontrol = true;
 
-            while (Kontrol)
-            {
-                Console.WriteLine("Lütfen Ürün Numarasını Giriniz");
-                int UrunNo = Convert.ToInt32(Console.ReadLine());
+            //while (Kontrol)
+            //{
+            //    Console.WriteLine("Lütfen Ürün Numarasını Giriniz");
+            //    int UrunNo = Convert.ToInt32(Console.ReadLine());
 
-                if (UrunNo > Urunler.Length || UrunNo < 0)
-                {
-                    Console.WriteLine("Lütfen Geçerli Bir Sayı Giriniz");
-                }
-                else
-                {
-                    Toplam += Fiyatlar[UrunNo - 1];
-                    Console.WriteLine("Alışverişe Devam Edilsin Mi? e/h");
-                    string Secenek = Console.ReadLine();
+            //    if (UrunNo > Urunler.Length || UrunNo < 0)
+            //    {
+            //        Console.WriteLine("Lütfen Geçerli Bir Sayı Giriniz");
+            //    }
+            //    else
+            //    {
+            //        Toplam += Fiyatlar[UrunNo - 1];
+            //        Console.WriteLine("Alışverişe Devam Edilsin Mi? e/h");
+            //        string Secenek = Console.ReadLine();
 
-                    if (Secenek == "e" || Secenek == "E")
-                    {
-                        Kontrol = true;
-                    }
-                    else
-                    {
-                        Kontrol = false;
-                    }
-                }
-            }
+            //        if (Secenek == "e" || Secenek == "E")
+            //        {
+            //            Kontrol = true;
+            //        }
+            //        else
+            //        {
+            //            Kontrol = false;
+            //        }
+            //    }
+            //}
 
-            Console.WriteLine($"Toplam = {Toplam} TL");
+            //Console.WriteLine($"Toplam = {Toplam} TL");
             #endregion
         }
     }
