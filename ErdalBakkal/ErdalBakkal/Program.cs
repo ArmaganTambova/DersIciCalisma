@@ -48,6 +48,7 @@ namespace ErdalBakkal
             //    }
             //}
 
+            //Console.Clear();
             //Console.WriteLine($"Toplam {Toplam} TL");
             #endregion
 
@@ -80,6 +81,7 @@ namespace ErdalBakkal
             //    }
             //}
 
+            //Console.Clear();
             //Console.WriteLine($"Toplam = {Toplam} TL");
             #endregion
 
@@ -128,6 +130,7 @@ namespace ErdalBakkal
             //    }
             //}
 
+            //Console.Clear();
             //Console.WriteLine($"Toplam = {Toplam} TL");
             #endregion
         }
