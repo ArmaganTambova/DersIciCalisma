@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ErdalBakkal\ErdalBakkal\bin\Debug\ErdalBakkal.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ErdalBakkal\ErdalBakkal\bin\Debug\ErdalBakkal.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ErdalBakkal\ErdalBakkal\bin\Debug\ErdalBakkal.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ErdalBakkal\ErdalBakkal\obj\Debug\ErdalBakkal.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ErdalBakkal\ErdalBakkal\obj\Debug\ErdalBakkal.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ErdalBakkal\ErdalBakkal\obj\Debug\ErdalBakkal.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\ErdalBakkal\ErdalBakkal\obj\Debug\ErdalBakkal.pdb
