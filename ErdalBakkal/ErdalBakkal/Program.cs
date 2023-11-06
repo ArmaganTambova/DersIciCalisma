@@ -82,6 +82,54 @@ namespace ErdalBakkal
 
             //Console.WriteLine($"Toplam = {Toplam} TL");
             #endregion
+
+            #region Uygulama 3
+            //double Toplam = 0; bool Kontrol = true;
+
+            //while (Kontrol)
+            //{
+            //    Console.WriteLine("Lütfen Ürün Numarasını Giriniz");
+            //    int UrunNo = Convert.ToInt32(Console.ReadLine());
+
+            //    if (UrunNo > Urunler.Length || UrunNo < 0)
+            //    {
+            //        Console.WriteLine("Lütfen Geçerli Bir Sayı Giriniz");
+            //    }
+            //    else
+            //    {
+            //        bool KKontrol = false; int Adet = 0;
+            //        while (!KKontrol)
+            //        {
+            //            Console.WriteLine($"{Urunler[UrunNo - 1]} Adlı Üründen Kaç Adet Almak İstersiniz?");
+            //            Adet = Convert.ToInt32(Console.ReadLine());
+            //            if (Adet <= 0)
+            //            {
+            //                Console.WriteLine("Lütfen 0'dan Büyük Bir Sayı Giriniz");
+            //                KKontrol = false;
+            //            }
+            //            else
+            //            {
+            //                KKontrol = true;
+            //            }
+            //        }
+
+            //        Toplam += Fiyatlar[UrunNo - 1] * Adet;
+            //        Console.WriteLine("Alışverişe Devam Edilsin Mi? e/h");
+            //        string Secenek = Console.ReadLine();
+
+            //        if (Secenek == "e" || Secenek == "E")
+            //        {
+            //            Kontrol = true;
+            //        }
+            //        else
+            //        {
+            //            Kontrol = false;
+            //        }
+            //    }
+            //}
+
+            //Console.WriteLine($"Toplam = {Toplam} TL");
+            #endregion
         }
     }
 }
