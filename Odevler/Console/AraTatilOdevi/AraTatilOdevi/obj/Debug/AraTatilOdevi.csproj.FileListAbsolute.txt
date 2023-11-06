@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\AraTatilOdevi\AraTatilOdevi\bin\Debug\AraTatilOdevi.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\AraTatilOdevi\AraTatilOdevi\bin\Debug\AraTatilOdevi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\AraTatilOdevi\AraTatilOdevi\bin\Debug\AraTatilOdevi.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\AraTatilOdevi\AraTatilOdevi\obj\Debug\AraTatilOdevi.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\AraTatilOdevi\AraTatilOdevi\obj\Debug\AraTatilOdevi.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\AraTatilOdevi\AraTatilOdevi\obj\Debug\AraTatilOdevi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\AraTatilOdevi\AraTatilOdevi\obj\Debug\AraTatilOdevi.pdb
