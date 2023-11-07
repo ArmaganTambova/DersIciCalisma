@@ -20,6 +20,66 @@ namespace AraTatilOdevi
             string[] KitaplarinTurleri = { "Roman", "Araştırma-İnceleme", "Bilim-Kurgu", "Bilim-Teknoloji-Mühendislik", "Dünya Klasikleri" };
             string[] KitaplarinYazarlari = { "Jose Mauro De Vasconcelos", "Anthony Burgess", "Ahmet Cevizci", "Mark Wolynn", "Carl Sagan", "Akilah Azra Kohen", "Fyodor Dostoyevski", "Charles Darwin", "David Eagleman", "Miguel de Cervantes", "Tanol Türkoğlu", "Bernhard Kegel", "Stephen W. Hawking", "William Shakespeare", "Yuval Noah Harari" };
 
+            bool Kontrol = true; bool KKontrol = true; int Secim = 0;
+
+            Console.WriteLine("Hoşgeldiniz");
+
+            while (Kontrol)
+            {
+                while (KKontrol)
+                {
+                    Console.WriteLine("Lütfen Hangi Şekilde Listeleme Yapmak İstediğinizi Seçiniz\n1- Türe Göre\n2- Yazara Göre");
+                    Secim = Convert.ToInt32(Console.ReadLine());
+
+                    if (Secim == 1)
+                    {
+                        Console.Clear();
+                        for (int i = 0; i < KitaplarinTurleri.Length; i++)
+                        {
+                            Console.WriteLine($"{i + 1}) {KitaplarinTurleri[i]}");
+                        }
+                        KKontrol = false;
+                    }
+                    else if (Secim == 2)
+                    {
+                        Console.Clear();
+                        for (int i = 0; i < KitaplarinYazarlari.Length; i++)
+                        {
+                            Console.WriteLine($"{i + 1}) {KitaplarinYazarlari[i]}");
+                        }
+                        KKontrol = false;
+                    }
+                    else
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Lütfen Geçerli Bir Seçenek Giriniz");
+                        KKontrol = true;
+                    }
+                }
+                
+                if (Secim == 1)
+                {
+                    Console.WriteLine("Kitap Türü Seçiniz");
+                    int KSecim = Convert.ToInt32(Console.ReadLine());
+
+                    if (!(KSecim < 0 || KSecim > KitaplarinTurleri.Length))
+                    {
+                        int sayac = 1;
+                        for (int i = 0; i < KitabinTuru.Length; i++)
+                        {
+                            if (KitaplarinTurleri[KSecim - 1] == KitabinTuru[i])
+                            {
+                                Console.WriteLine($"{sayac}) {KitapAdi[i]} - {KitabinYazari[i]} / {KitabinYayinEvi[i]} / {KitabinFiyati[i]}");
+                                sayac++;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Geçerli Bir Değer Girmediniz");
+                    }
+                }
+            }
             #endregion
 
             #region İlaç Sistemi
