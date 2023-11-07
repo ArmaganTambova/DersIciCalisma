@@ -19,8 +19,10 @@ namespace AraTatilOdevi
 
             string[] KitaplarinTurleri = { "Roman", "Araştırma-İnceleme", "Bilim-Kurgu", "Bilim-Teknoloji-Mühendislik", "Dünya Klasikleri" };
             string[] KitaplarinYazarlari = { "Jose Mauro De Vasconcelos", "Anthony Burgess", "Ahmet Cevizci", "Mark Wolynn", "Carl Sagan", "Akilah Azra Kohen", "Fyodor Dostoyevski", "Charles Darwin", "David Eagleman", "Miguel de Cervantes", "Tanol Türkoğlu", "Bernhard Kegel", "Stephen W. Hawking", "William Shakespeare", "Yuval Noah Harari" };
+            List<string> ListelenenKitaplar = new List<string>();
 
-            bool Kontrol = true; bool KKontrol = true; int Secim = 0;
+
+            bool Kontrol = true; bool KKontrol = true; int Secim = 0; bool KSKontrol = true; int sayac = 1; bool SSKontrol = true; string Secenek = "";
 
             Console.WriteLine("Hoşgeldiniz");
 
@@ -59,27 +61,111 @@ namespace AraTatilOdevi
                 
                 if (Secim == 1)
                 {
-                    Console.WriteLine("Kitap Türü Seçiniz");
-                    int KSecim = Convert.ToInt32(Console.ReadLine());
-
-                    if (!(KSecim < 0 || KSecim > KitaplarinTurleri.Length))
+                    while (KSKontrol)
                     {
-                        int sayac = 1;
-                        for (int i = 0; i < KitabinTuru.Length; i++)
+                        Console.WriteLine("Kitap Türü Seçiniz");
+                        int KSecim = Convert.ToInt32(Console.ReadLine());
+
+                        if (!(KSecim <= 0 || KSecim > KitaplarinTurleri.Length))
                         {
-                            if (KitaplarinTurleri[KSecim - 1] == KitabinTuru[i])
+                            Console.Clear();
+                            sayac = 1;
+                            for (int i = 0; i < KitabinTuru.Length; i++)
                             {
-                                Console.WriteLine($"{sayac}) {KitapAdi[i]} - {KitabinYazari[i]} / {KitabinYayinEvi[i]} / {KitabinFiyati[i]}");
-                                sayac++;
+                                if (KitaplarinTurleri[KSecim - 1] == KitabinTuru[i])
+                                {
+                                    Console.WriteLine($"{sayac}) {KitapAdi[i]} - {KitabinYazari[i]} / {KitabinYayinEvi[i]} / {KitabinFiyati[i]}");
+                                    ListelenenKitaplar.Add(KitapAdi[i]);
+                                    sayac++;
+                                }
                             }
+                            KSKontrol = false;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Lütfen Geçerli Bir Seçenek Giriniz");
                         }
                     }
-                    else
+                    
+                    while (SSKontrol)
                     {
-                        Console.WriteLine("Geçerli Bir Değer Girmediniz");
+                        Console.WriteLine("Lütfen Hangi Kitabı Satın Almak İstediğinizi Seçiniz");
+                        int SSecim = Convert.ToInt32(Console.ReadLine());
+
+                        if (!(SSecim <= 0 || SSecim > ListelenenKitaplar.Count))
+                        {
+                            int Index = Array.IndexOf(KitapAdi, ListelenenKitaplar[SSecim - 1]);
+                            Console.WriteLine($"{ListelenenKitaplar[SSecim - 1]} / {KitabinFiyati[Index]} TL\nSatın Alım İşlemi Gerçekleştirildi");
+                            SSKontrol = false;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Lütfen Geçerli Bir Seçenek Giriniz");
+                        }
                     }
                 }
+                else
+                {
+                    while (KSKontrol)
+                    {
+                        Console.WriteLine("Yazar Seçiniz");
+                        int KSecim = Convert.ToInt32(Console.ReadLine());
+
+                        if (!(KSecim <= 0 || KSecim > KitabinYazari.Length))
+                        {
+                            Console.Clear();
+                            sayac = 1;
+                            for (int i = 0; i < KitabinYazari.Length; i++)
+                            {
+                                if (KitaplarinYazarlari[KSecim - 1] == KitabinYazari[i])
+                                {
+                                    Console.WriteLine($"{sayac}) {KitapAdi[i]} - {KitabinYazari[i]} / {KitabinYayinEvi[i]} / {KitabinFiyati[i]}");
+                                    ListelenenKitaplar.Add(KitapAdi[i]);
+                                    sayac++;
+                                }
+                            }
+                            KSKontrol = false;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Lütfen Geçerli Bir Seçenek Giriniz");
+                        }
+                    }
+
+                    while (SSKontrol)
+                    {
+                        Console.WriteLine("Lütfen Hangi Kitabı Satın Almak İstediğinizi Seçiniz");
+                        int SSecim = Convert.ToInt32(Console.ReadLine());
+
+                        if (!(SSecim <= 0 || SSecim > ListelenenKitaplar.Count))
+                        {
+                            int Index = Array.IndexOf(KitapAdi, ListelenenKitaplar[SSecim - 1]);
+                            Console.WriteLine($"{ListelenenKitaplar[SSecim - 1]} / {KitabinFiyati[Index]} TL\nSatın Alım İşlemi Gerçekleştirildi");
+                            SSKontrol = false;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Lütfen Geçerli Bir Seçenek Giriniz");
+                        }
+                    }
+                }
+
+                Console.WriteLine("Satın Alım İşlemine Devam Etmek İstiyor Musunuz? e/h");
+                Secenek = Console.ReadLine();
+
+                if (Secenek == "E" || Secenek == "e")
+                {
+                    Console.Clear();
+                    Kontrol = true; KKontrol = true; Secim = 0; Kontrol = true; Secim = 1; Kontrol = true; Secenek = "";
+                }
+                else
+                {
+                    Console.Clear();
+                    Kontrol = false;
+                }
             }
+
+            Console.WriteLine("Bizi Tercih Ettiğiniz İçin Teşekkürler");
             #endregion
 
             #region İlaç Sistemi
