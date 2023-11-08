@@ -170,8 +170,8 @@ namespace AraTatilOdevi
 
             #region İlaç Sistemi
             string[] IlacKategorileri = { "A", "B", "C", "D", "X" };
-            string[] Ilaclar = { };
-            string[] IlaclarinKategorileri = { };
+            string[] Ilaclar = { "Folik Asit (Folic Acid)", "Metformin", "Levotiroksin", "İnsülin", "Amoksisilin", "İbuprofen", "Parasetamol", "Zofran (Ondansetron)", "Diphenhydramine (Benadryl)", "Pseudoephedrine (Sudafed)", "Fluconazole (Diflucan)", "Venlafaxine (Effexor)", "Lisinopril", "İsotretinoin", "Warfarin", "Methotrexate", "Thalidomide", "İsofosfamid", "Warfarin", "Misoprostol" };
+            string[] IlaclarinKategorileri = { "A", "A", "A", "A", "B", "B", "B", "B", "C", "C", "C", "C", "D", "D", "D", "D", "X", "X", "X", "X"};
 
             Console.WriteLine("Hoşgeldiniz");
             Console.WriteLine("Kategorilendirme FDA Standartlarına Göre Yapılmıştır");
