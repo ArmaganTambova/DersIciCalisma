@@ -156,7 +156,7 @@ namespace AraTatilOdevi
                 if (Secenek == "E" || Secenek == "e")
                 {
                     Console.Clear();
-                    Kontrol = true; KKontrol = true; Secim = 0; KSKontrol = true; sayac = 1; SSKontrol = true; Secenek = ""; KSecim = 0; SSecim = 0;
+                    Kontrol = true; KKontrol = true; Secim = 0; KSKontrol = true; sayac = 1; SSKontrol = true; Secenek = ""; KSecim = 0; SSecim = 0; ListelenenKitaplar.Clear();
                 }
                 else
                 {
