@@ -58,7 +58,7 @@ namespace AraTatilOdevi
             //            KKontrol = true;
             //        }
             //    }
-                
+
             //    if (Secim == 1)
             //    {
             //        while (KSKontrol)
@@ -86,7 +86,7 @@ namespace AraTatilOdevi
             //                Console.WriteLine("Lütfen Geçerli Bir Seçenek Giriniz");
             //            }
             //        }
-                    
+
             //        while (SSKontrol)
             //        {
             //            Console.WriteLine("Lütfen Hangi Kitabı Satın Almak İstediğinizi Seçiniz");
@@ -169,7 +169,12 @@ namespace AraTatilOdevi
             #endregion
 
             #region İlaç Sistemi
+            string[] IlacKategorileri = { "A", "B", "C", "D", "X" };
+            string[] Ilaclar = { };
+            string[] IlaclarinKategorileri = { };
 
+            Console.WriteLine("Hoşgeldiniz");
+            Console.WriteLine("Kategorilendirme FDA Standartlarına Göre Yapılmıştır");
             #endregion
         }
     }
