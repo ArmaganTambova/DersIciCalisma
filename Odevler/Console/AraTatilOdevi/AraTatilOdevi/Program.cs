@@ -22,7 +22,7 @@ namespace AraTatilOdevi
             List<string> ListelenenKitaplar = new List<string>();
 
 
-            bool Kontrol = true; bool KKontrol = true; int Secim = 0; bool KSKontrol = true; int sayac = 1; bool SSKontrol = true; string Secenek = "";
+            bool Kontrol = true; bool KKontrol = true; int Secim = 0; bool KSKontrol = true; int sayac = 1; bool SSKontrol = true; string Secenek = ""; int KSecim = 0; int SSecim = 0;
 
             Console.WriteLine("Hoşgeldiniz");
 
@@ -64,7 +64,7 @@ namespace AraTatilOdevi
                     while (KSKontrol)
                     {
                         Console.WriteLine("Kitap Türü Seçiniz");
-                        int KSecim = Convert.ToInt32(Console.ReadLine());
+                        KSecim = Convert.ToInt32(Console.ReadLine());
 
                         if (!(KSecim <= 0 || KSecim > KitaplarinTurleri.Length))
                         {
@@ -90,7 +90,7 @@ namespace AraTatilOdevi
                     while (SSKontrol)
                     {
                         Console.WriteLine("Lütfen Hangi Kitabı Satın Almak İstediğinizi Seçiniz");
-                        int SSecim = Convert.ToInt32(Console.ReadLine());
+                        SSecim = Convert.ToInt32(Console.ReadLine());
 
                         if (!(SSecim <= 0 || SSecim > ListelenenKitaplar.Count))
                         {
@@ -109,7 +109,7 @@ namespace AraTatilOdevi
                     while (KSKontrol)
                     {
                         Console.WriteLine("Yazar Seçiniz");
-                        int KSecim = Convert.ToInt32(Console.ReadLine());
+                        KSecim = Convert.ToInt32(Console.ReadLine());
 
                         if (!(KSecim <= 0 || KSecim > KitabinYazari.Length))
                         {
@@ -135,7 +135,7 @@ namespace AraTatilOdevi
                     while (SSKontrol)
                     {
                         Console.WriteLine("Lütfen Hangi Kitabı Satın Almak İstediğinizi Seçiniz");
-                        int SSecim = Convert.ToInt32(Console.ReadLine());
+                        SSecim = Convert.ToInt32(Console.ReadLine());
 
                         if (!(SSecim <= 0 || SSecim > ListelenenKitaplar.Count))
                         {
@@ -156,7 +156,7 @@ namespace AraTatilOdevi
                 if (Secenek == "E" || Secenek == "e")
                 {
                     Console.Clear();
-                    Kontrol = true; KKontrol = true; Secim = 0; Kontrol = true; Secim = 1; Kontrol = true; Secenek = "";
+                    Kontrol = true; KKontrol = true; Secim = 0; KSKontrol = true; sayac = 1; SSKontrol = true; Secenek = ""; KSecim = 0; SSecim = 0;
                 }
                 else
                 {
