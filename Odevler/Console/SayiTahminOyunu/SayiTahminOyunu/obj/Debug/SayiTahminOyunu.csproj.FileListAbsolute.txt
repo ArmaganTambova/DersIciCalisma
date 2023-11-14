@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb
