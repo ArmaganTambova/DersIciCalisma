@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\NesneYonelimliProgramlamaIlac\NesneYonelimliProgramlamaIlac\bin\Debug\NesneYonelimliProgramlamaIlac.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\NesneYonelimliProgramlamaIlac\NesneYonelimliProgramlamaIlac\bin\Debug\NesneYonelimliProgramlamaIlac.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\NesneYonelimliProgramlamaIlac\NesneYonelimliProgramlamaIlac\bin\Debug\NesneYonelimliProgramlamaIlac.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\NesneYonelimliProgramlamaIlac\NesneYonelimliProgramlamaIlac\obj\Debug\NesneYonelimliProgramlamaIlac.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\NesneYonelimliProgramlamaIlac\NesneYonelimliProgramlamaIlac\obj\Debug\NesneYonelimliProgramlamaIlac.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\NesneYonelimliProgramlamaIlac\NesneYonelimliProgramlamaIlac\obj\Debug\NesneYonelimliProgramlamaIlac.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\NesneYonelimliProgramlamaIlac\NesneYonelimliProgramlamaIlac\obj\Debug\NesneYonelimliProgramlamaIlac.pdb
