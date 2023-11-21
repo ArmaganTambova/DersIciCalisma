@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DiziVeNesne\DiziVeNesne\bin\Debug\DiziVeNesne.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DiziVeNesne\DiziVeNesne\bin\Debug\DiziVeNesne.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DiziVeNesne\DiziVeNesne\bin\Debug\DiziVeNesne.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DiziVeNesne\DiziVeNesne\obj\Debug\DiziVeNesne.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DiziVeNesne\DiziVeNesne\obj\Debug\DiziVeNesne.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DiziVeNesne\DiziVeNesne\obj\Debug\DiziVeNesne.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\DiziVeNesne\DiziVeNesne\obj\Debug\DiziVeNesne.pdb
