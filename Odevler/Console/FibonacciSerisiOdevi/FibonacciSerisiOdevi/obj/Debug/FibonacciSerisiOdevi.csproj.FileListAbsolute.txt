@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\FibonacciSerisiOdevi\FibonacciSerisiOdevi\bin\Debug\FibonacciSerisiOdevi.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\FibonacciSerisiOdevi\FibonacciSerisiOdevi\bin\Debug\FibonacciSerisiOdevi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\FibonacciSerisiOdevi\FibonacciSerisiOdevi\bin\Debug\FibonacciSerisiOdevi.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\FibonacciSerisiOdevi\FibonacciSerisiOdevi\obj\Debug\FibonacciSerisiOdevi.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\FibonacciSerisiOdevi\FibonacciSerisiOdevi\obj\Debug\FibonacciSerisiOdevi.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\FibonacciSerisiOdevi\FibonacciSerisiOdevi\obj\Debug\FibonacciSerisiOdevi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\FibonacciSerisiOdevi\FibonacciSerisiOdevi\obj\Debug\FibonacciSerisiOdevi.pdb
