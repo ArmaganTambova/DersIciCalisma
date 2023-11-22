@@ -11,5 +11,6 @@ namespace NesneYonelimliProgramlamaListelemeOdevi
         public string Marka;
         public string Model;
         public double Fiyat;
+        public int Stok;
     }
 }
