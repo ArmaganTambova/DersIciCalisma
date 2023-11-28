@@ -1,0 +1,11 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\bin\Debug\WinFormsKontrolleri.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\bin\Debug\WinFormsKontrolleri.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\bin\Debug\WinFormsKontrolleri.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.TextBoxKontrolu.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.TextBoxKontroluOdev.resources

@@ -39,7 +39,14 @@ namespace FibonacciSerisiOdevi
 
             for (int i = 0; i < Sayilar.Count; i++)
             {
-                Console.Write($"{Sayilar[i]}, ");
+                if (i == Sayilar.Count - 1)
+                {
+                    Console.WriteLine($"{Sayilar[i]}");
+                }
+                else
+                {
+                    Console.Write($"{Sayilar[i]}, ");
+                }
             }
         }
     }

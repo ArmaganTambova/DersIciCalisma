@@ -84,7 +84,9 @@ namespace NesneYonelimliProgramlamaListelemeOdevi
             Urun[9] = Prf10;
             #endregion
 
-            bool Kontrol = true; int Sayac = 1; int Secim = 0;
+            string[] ListelenenModeller = { " ", " ", " ", " ", " ", " ", " ", " ", " ", " " };
+
+            bool Kontrol = true; bool SKontrol = true; bool AKontrol = true; int Sayac = 1; int Secim = 0; int Index = 0; int Adet = 0; string DSecim = " "; string Onay = " ";
 
             while (Kontrol)
             {
@@ -93,19 +95,90 @@ namespace NesneYonelimliProgramlamaListelemeOdevi
                     if (Urun[i].Stok != 0 && Urun[i].Stok >= 1)
                     {
                         Console.WriteLine($"{Sayac}) {Urun[i].Marka} - {Urun[i].Model} / {Urun[i].Fiyat}TL");
+                        ListelenenModeller[Sayac - 1] = Urun[i].Model;
                         Sayac++;
                     }
                 }
 
-                Console.WriteLine("Lütfen Hangi Ürünü Almak İstediğinizi Seçiniz");
-                Secim = Convert.ToInt32(Console.ReadLine());
+                Sayac--;
 
-                if (!(Secim <= 0 || Secim > Sayac))
+                while (SKontrol)
                 {
+                    Console.WriteLine("Lütfen Hangi Ürünü Almak İstediğinizi Seçiniz");
+                    Secim = Convert.ToInt32(Console.ReadLine());
 
+                    if (!(Secim <= 0 || Secim > Sayac))
+                    {
+                        Console.Clear();
+                        SKontrol = false;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Geçerli Bir Değer Girmediniz");
+                    }
                 }
 
+                while (AKontrol)
+                {
+                    for (int i = 0; i < Urun.Length; i++)
+                    {
+                        if (Urun[i].Model == ListelenenModeller[Secim - 1])
+                        {
+                            Index = i;
+                        }
+                    }
+
+                    Console.WriteLine($"Lütfen Seçmiş Olduğunuz Üründen ({Urun[Index].Marka} - {Urun[Index].Model}) Kaç Adet Almak İstediğinizi Giriniz");
+                    Adet = Convert.ToInt32(Console.ReadLine());
+
+                    if (Adet > Urun[Index].Stok)
+                    {
+                        Console.WriteLine($"Seçtiğiniz Üründen Elimizde {Urun[Index].Stok} Adet Kalmıştır, Lütfen Tekrar Miktar Bilgisi Giriniz");
+                    }
+                    else if (Adet <= 0)
+                    {
+                        Console.WriteLine("Lütfen 0'dan Büyük Bir Miktar Giriniz");
+                    }
+                    else
+                    {
+                        Console.Clear();
+                        Console.WriteLine($"Seçmiş Olduğunuz Üründen ({Adet}) Adet Satın Almak Üzeresiniz Onaylıyor Musunuz? e/h - {Urun[Index].Fiyat * Adet} TL");
+                        Onay = Console.ReadLine();
+
+                        if (Onay == "e" || Onay == "E")
+                        {
+                            Console.WriteLine("Satın Alım Başarıyla Gerçekleşmiştir");
+                            Urun[Index].Stok = Urun[Index].Stok - Adet;
+                            AKontrol = false;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Satın Alım İptal Edilmiştir");
+                            AKontrol = false;
+                        }
+                    }
+                }
+
+                Console.WriteLine("Ürün Almaya Devam Etmek İster Misiniz? e/h");
+                DSecim = Console.ReadLine();
+
+                if (DSecim == "e" || DSecim == "E")
+                {
+                    for (int i = 0; i < ListelenenModeller.Length; i++)
+                    {
+                        ListelenenModeller[i] = " ";
+                    }
+
+                    Kontrol = true; SKontrol = true; AKontrol = true; Sayac = 1; Secim = 0; Index = 0; Adet = 0; DSecim = " "; Onay = " ";
+                    Console.Clear();
+                }
+                else
+                {
+                    Console.Clear();
+                    Kontrol = false;
+                }
             }
+            Console.WriteLine("Bizi Tercih Ettiğiniz İçin Teşekkürler");
         }
     }
 }
