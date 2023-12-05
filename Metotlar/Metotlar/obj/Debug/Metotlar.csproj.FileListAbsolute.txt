@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Metotlar\Metotlar\obj\Debug\Metotlar.pdb
