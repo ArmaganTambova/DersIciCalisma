@@ -8,16 +8,16 @@ namespace Metotlar
 {
     public class Cirak
     {
-        //public void SelamVer()
-        //{
-            //Console.WriteLine("Ustamın Selamı Var");
-        //}
+        public void SelamVer()
+        {
+            Console.WriteLine("Ustamın Selamı Var");
+        }
 
         // Parametre Alan Metot
         // Parametre Nedir? Metodun Çağırıldığı Alandan Netoda Kullanması İçin Gönderilen Veriyi Tutan Değişkene Parametre Denir
-        //public void IsmeSelamVer(string Isim)
-        //{
-            //Console.WriteLine($"{Isim} Abi Ustamın Selamı Var");
-        //}
+        public void IsmeSelamVer(string Isim)
+        {
+            Console.WriteLine($"{Isim} Abi Ustamın Selamı Var");
+        }
     }
 }

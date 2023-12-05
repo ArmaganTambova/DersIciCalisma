@@ -18,15 +18,15 @@ namespace Metotlar
 
             #region Çıkar Sınıfı
             // "Cirak" Sınıfından Referans Alan Nesne Var Edildi
-            //Cirak cirak = new Cirak();
+            Cirak cirak = new Cirak();
 
             // Program "SelamVer" İsimli Metot'dan Devam Eder
-            //cirak.SelamVer();
+            cirak.SelamVer();
             // Metot İşlemi Bitince Bu Alandan Devam Eder
 
-            //cirak.IsmeSelamVer(); // Parametre Alan Metotlar, Parametre Olarak Veri Gönderilmeden Çalışamazlar
+            cirak.IsmeSelamVer(); // Parametre Alan Metotlar, Parametre Olarak Veri Gönderilmeden Çalışamazlar
 
-            //cirak.IsmeSelamVer("Armağan");
+            cirak.IsmeSelamVer("Armağan");
             #endregion
         }
     }
