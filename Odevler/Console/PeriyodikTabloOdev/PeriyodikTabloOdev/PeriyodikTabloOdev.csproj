@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8E302722-2D68-4A18-854B-C1FCD0F394F1}</ProjectGuid>
+    <ProjectGuid>{D285617D-EB68-47B8-A3F8-1CABB27A1B78}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Metotlar</RootNamespace>
-    <AssemblyName>Metotlar</AssemblyName>
+    <RootNamespace>PeriyodikTabloOdev</RootNamespace>
+    <AssemblyName>PeriyodikTabloOdev</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cirak.cs" />
-    <Compile Include="Matematik.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
