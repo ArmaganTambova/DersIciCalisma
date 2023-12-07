@@ -63,10 +63,11 @@ namespace Metotlar
             Console.WriteLine($"Sayınızın Kuvveti = {Mat.KuvvetHesaplama(Taban, Us)}");
 
             //
-            string IkizAsallar = Mat.IkizAsalKontrol();
+            string IkizAsallar = Mat.IkizAsalKontrol(2, 20);
 
             if (IkizAsallar != null)
             {
+                Console.WriteLine("** İkiz Asal Sayılar **");
                 Console.WriteLine(IkizAsallar);
             }
             else

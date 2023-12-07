@@ -39,7 +39,7 @@ namespace Metotlar
         // Kendisine Gönderilen Sayının Asal Olup Olmadığını Kontrol Eden Metot
         public bool AsalKontrol(int Sayi)
         {
-            if (Sayi == 0 || Sayi == 1)
+            if (Sayi < 2)
             {
                 return false;
             }
@@ -60,8 +60,26 @@ namespace Metotlar
 
         #region Ödev, 2-20
         // 2 İle 20 Arasındaki İkiz Asalları Bulan Metot
-        public string IkizAsalKontrol()
+        public string IkizAsalKontrol(int Baslangic, int Son)
         {
+            string IkızAsallar = "";
+
+            List<int> IkızAsalSayilar = new List<int>();
+
+            for (int i = Baslangic; i < Son; i++)
+            {
+                if (!IkızAsalSayilar.Contains(i) && !IkızAsalSayilar.Contains(i + 2))
+                {
+                    if (AsalKontrol(i) && AsalKontrol(i + 2))
+                    {
+                        IkızAsalSayilar.Add(i); IkızAsalSayilar.Add(i + 2);
+                        IkızAsallar += $"{i} - {i + 2}\n";
+                        i += 2;
+                    }
+                }
+            }
+
+            return IkızAsallar;
         }
         #endregion
 
