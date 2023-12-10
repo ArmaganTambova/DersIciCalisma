@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\PeriyodikTabloOdev\PeriyodikTabloOdev\bin\Debug\PeriyodikTabloOdev.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\PeriyodikTabloOdev\PeriyodikTabloOdev\bin\Debug\PeriyodikTabloOdev.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\PeriyodikTabloOdev\PeriyodikTabloOdev\bin\Debug\PeriyodikTabloOdev.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\PeriyodikTabloOdev\PeriyodikTabloOdev\obj\Debug\PeriyodikTabloOdev.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\PeriyodikTabloOdev\PeriyodikTabloOdev\obj\Debug\PeriyodikTabloOdev.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\PeriyodikTabloOdev\PeriyodikTabloOdev\obj\Debug\PeriyodikTabloOdev.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\PeriyodikTabloOdev\PeriyodikTabloOdev\obj\Debug\PeriyodikTabloOdev.pdb

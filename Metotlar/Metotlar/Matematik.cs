@@ -44,18 +44,15 @@ namespace Metotlar
                 return false;
             }
 
-            bool AsalMi = true;
-
             for (int i = 2; i < Sayi; i++)
             {
                 if (Sayi % i == 0)
                 {
-                    AsalMi = false;
-                    break;
+                    return false;
                 }
             }
 
-            return AsalMi;
+            return true;
         }
 
         #region Ödev, 2-20
@@ -66,7 +63,7 @@ namespace Metotlar
 
             List<int> IkızAsalSayilar = new List<int>();
 
-            for (int i = Baslangic; i < Son; i++)
+            for (int i = Baslangic; i <= Son; i++)
             {
                 if (!IkızAsalSayilar.Contains(i) && !IkızAsalSayilar.Contains(i + 2))
                 {
