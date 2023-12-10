@@ -1,7 +1,0 @@
-C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\MetotlarOdev\MetotlarOdev\bin\Debug\MetotlarOdev.exe.config
-C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\MetotlarOdev\MetotlarOdev\bin\Debug\MetotlarOdev.exe
-C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\MetotlarOdev\MetotlarOdev\bin\Debug\MetotlarOdev.pdb
-C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\MetotlarOdev\MetotlarOdev\obj\Debug\MetotlarOdev.csproj.AssemblyReference.cache
-C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\MetotlarOdev\MetotlarOdev\obj\Debug\MetotlarOdev.csproj.CoreCompileInputs.cache
-C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\MetotlarOdev\MetotlarOdev\obj\Debug\MetotlarOdev.exe
-C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\MetotlarOdev\MetotlarOdev\obj\Debug\MetotlarOdev.pdb
