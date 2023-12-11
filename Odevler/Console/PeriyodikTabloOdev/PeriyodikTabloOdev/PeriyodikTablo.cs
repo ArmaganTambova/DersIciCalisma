@@ -8,6 +8,7 @@ namespace PeriyodikTabloOdev
 {
     public class PeriyodikTablo
     {
+        public int AtomNumarasi;
         public string AtomAdi;
         public string AtomSembolu;
         public double KutleNumarasi;
