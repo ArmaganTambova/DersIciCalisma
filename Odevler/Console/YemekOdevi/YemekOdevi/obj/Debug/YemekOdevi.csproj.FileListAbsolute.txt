@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\YemekOdevi\YemekOdevi\bin\Debug\YemekOdevi.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\YemekOdevi\YemekOdevi\bin\Debug\YemekOdevi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\YemekOdevi\YemekOdevi\bin\Debug\YemekOdevi.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\YemekOdevi\YemekOdevi\obj\Debug\YemekOdevi.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\YemekOdevi\YemekOdevi\obj\Debug\YemekOdevi.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\YemekOdevi\YemekOdevi\obj\Debug\YemekOdevi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\YemekOdevi\YemekOdevi\obj\Debug\YemekOdevi.pdb
