@@ -253,6 +253,8 @@ namespace YemekOdevi
             ymk40.YemekSehiri = "Kayseri";
             YemeklerDizisi[39] = ymk40;
 
+            //
+
             Console.WriteLine("Lütfen Yemekleri Nasıl Aratmak Listelemek İstediğinizi Seçiniz\n1) Yemekler Türüne Göre\n2) Şehirine Göre");
             int Secim = Convert.ToInt32(Console.ReadLine());
 
