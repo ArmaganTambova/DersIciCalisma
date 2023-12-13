@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 
 namespace GenericKavrami
 {
+    #region Nedir?
     // Jenerik Kavramı 
     // Özellikle Metotlarda Kullanılacak Field Türünün Kod Yazım Esnasında Belirlenip Nesnenin İstenilen Türlerde Fieldlara Sahip Olması Sağlanır
     // Generic Türü Nesne Oluştururken Sınıf İle Beraber Tanımlanmalıdır
+    #endregion
 
     internal class Program
     {
