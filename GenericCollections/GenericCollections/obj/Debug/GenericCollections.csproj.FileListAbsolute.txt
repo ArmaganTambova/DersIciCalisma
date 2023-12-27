@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb

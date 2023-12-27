@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\ErdalBakkalGenericCollections\ErdalBakkalGenericCollections\bin\Debug\ErdalBakkalGenericCollections.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\ErdalBakkalGenericCollections\ErdalBakkalGenericCollections\bin\Debug\ErdalBakkalGenericCollections.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\ErdalBakkalGenericCollections\ErdalBakkalGenericCollections\bin\Debug\ErdalBakkalGenericCollections.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\ErdalBakkalGenericCollections\ErdalBakkalGenericCollections\obj\Debug\ErdalBakkalGenericCollections.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\ErdalBakkalGenericCollections\ErdalBakkalGenericCollections\obj\Debug\ErdalBakkalGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\ErdalBakkalGenericCollections\ErdalBakkalGenericCollections\obj\Debug\ErdalBakkalGenericCollections.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Console\ErdalBakkalGenericCollections\ErdalBakkalGenericCollections\obj\Debug\ErdalBakkalGenericCollections.pdb
