@@ -70,9 +70,11 @@
     <Content Include="HtmlKontrolleri\AlintiYapma.html" />
     <Content Include="HtmlKontrolleri\Basliklar.html" />
     <Content Include="HtmlKontrolleri\LinkOlusturma.html" />
+    <Content Include="HtmlKontrolleri\ListeOlusturma.html" />
     <Content Include="HtmlKontrolleri\MetinBicimlendirme.html" />
     <Content Include="HtmlKontrolleri\ResimEkleme.html" />
     <Content Include="HtmlKontrolleri\Resimler\Wallpaper.jpg" />
+    <Content Include="HtmlKontrolleri\TabloOlusturma.html" />
     <Content Include="HtmlKontrolleri\TemelKurallar.html" />
     <Content Include="Web.config" />
   </ItemGroup>
