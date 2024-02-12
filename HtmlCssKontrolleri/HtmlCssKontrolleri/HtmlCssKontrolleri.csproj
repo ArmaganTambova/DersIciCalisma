@@ -72,6 +72,7 @@
     <Content Include="HtmlKontrolleri\LinkOlusturma.html" />
     <Content Include="HtmlKontrolleri\ListeOlusturma.html" />
     <Content Include="HtmlKontrolleri\MetinBicimlendirme.html" />
+    <Content Include="HtmlKontrolleri\Odevler\SiniftakiOgrencilerinTablosu.html" />
     <Content Include="HtmlKontrolleri\ResimEkleme.html" />
     <Content Include="HtmlKontrolleri\Resimler\Wallpaper.jpg" />
     <Content Include="HtmlKontrolleri\TabloOlusturma.html" />
