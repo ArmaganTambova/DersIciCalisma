@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CssKontrolleri\CssNedir.html" />
+    <Content Include="CssKontrolleri\MetinBicimlendirme.html" />
     <Content Include="HtmlKontrolleri\AlintiYapma.html" />
     <Content Include="HtmlKontrolleri\Basliklar.html" />
     <Content Include="HtmlKontrolleri\LinkOlusturma.html" />
