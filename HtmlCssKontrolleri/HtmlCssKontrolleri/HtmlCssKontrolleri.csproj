@@ -68,7 +68,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CssKontrolleri\CssNedir.html" />
+    <Content Include="CssKontrolleri\divNedir.html" />
+    <Content Include="CssKontrolleri\FloatIleHizalamaVeDuzen.html" />
+    <Content Include="CssKontrolleri\KenarlıkKullanimi.html" />
+    <Content Include="CssKontrolleri\MarginIleDısBosluk.html" />
     <Content Include="CssKontrolleri\MetinBicimlendirme.html" />
+    <Content Include="CssKontrolleri\PaddingIleIcBosluk.html" />
+    <Content Include="CssKontrolleri\Renklendirmeler.html" />
     <Content Include="HtmlKontrolleri\AlintiYapma.html" />
     <Content Include="HtmlKontrolleri\Basliklar.html" />
     <Content Include="HtmlKontrolleri\LinkOlusturma.html" />

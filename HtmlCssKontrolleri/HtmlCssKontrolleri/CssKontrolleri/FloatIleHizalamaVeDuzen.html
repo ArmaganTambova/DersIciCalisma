@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Float İle Hizalama ve Düzen</title>
+</head>
+<body>
+    div Aksi Belirtilmedikçe Satır Atlama Eğlimindedir. <br />
+    Sayfada Hizalama Yapmak ve Yerleşim Düzeni Oluşturmak İçin Float Kullanılır.
+
+    <div style="width:150px; height:150px; background-color:aquamarine"></div>
+    <div style="width:150px; height:150px; background-color:coral"></div> <br />
+    Görüldüğü Üzere float Kullanılmazsa div'ler Alt Alta Yer Alır. Yan Yana Getirmek İçin Hizalanacak Tüm div'lere float Uygulanmalıdır. <br />
+    float Uygulanan Nesneler Aynı Satırda Yer Alacaktır.<br />float:left Sola Doğru Diz Anlamında Kullanılır. <br /> <br />
+    <div style="width:150px; height:150px; background-color:aquamarine; float:left"></div>
+    <div style="width:150px; height:150px; background-color:coral; float:left"></div> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+    Aynı İşlemi Sağa Hizalı Olarak Yapabiliriz. <br />
+    Arada Yazı Olmasına Rağmen float Uygulanan Tüm div'ler Aynı Satıra Yerleşti.<br />Bu Durumu Ortadan Kaldırmak İçin float Etkisini Temizlememiz Gerekir. Bu Yüzden Aşağıdaki Kodu Ekliyoruz.
+    <div style="clear:both"></div>
+    <div style="width:150px; height:150px; background-color:aquamarine; float:right"></div>
+    <div style="width:150px; height:150px; background-color:coral; float:right"></div>
+</body>
+</html>
