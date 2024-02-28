@@ -1,0 +1,28 @@
+﻿.AnaTasiyici {
+    height: 1000px;
+    width: 1200px;
+
+    /*Ortalamak İçin*/
+    margin-left:auto;
+    margin-right:auto;
+    /*Genişlik Verilmemişse margin-left:auto, margin-right:auto Çalışmaz*/
+}
+
+.AnaMenu {
+    min-height: 56px;
+    background-color: blue;
+}
+
+.YanMenu {
+   width: 200px;
+   background-color: yellow;
+   height: 1000px;
+   float: left;
+}
+
+.Icerik {
+    width: 1000px;
+    background-color: silver;
+    height: 1000px;
+    float: left;
+}

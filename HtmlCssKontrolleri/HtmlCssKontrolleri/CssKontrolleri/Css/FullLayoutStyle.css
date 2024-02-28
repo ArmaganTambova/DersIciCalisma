@@ -1,0 +1,18 @@
+﻿.UstMenu {
+    height:76px;
+    background-color:#0094ff;
+}
+
+.YanMenu {
+    min-height:500px;
+    background-color:#ffd800;
+    width:20%;
+    float:left;
+}
+
+.Icerik {
+    width:80%;
+    min-height:500px;
+    background-color:#ebebeb;
+    float:left;
+}

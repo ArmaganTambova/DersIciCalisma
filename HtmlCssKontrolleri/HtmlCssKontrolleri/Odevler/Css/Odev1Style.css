@@ -1,0 +1,24 @@
+﻿.AnaTasiyici {
+    height: 1000px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.AnaMenu {
+    min-height: 100px;
+    width: 1200px;
+    background-color: red;
+}
+
+.Icerik {
+    height: 800px;
+    width: 1200px;
+    background-color: blue;
+}
+
+.AltBisi {
+    min-height: 100px;
+    width: 1200px;
+    background-color: green;
+}

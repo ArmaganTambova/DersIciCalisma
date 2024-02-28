@@ -67,9 +67,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CssKontrolleri\BoxedLayoutDüzeni.html" />
     <Content Include="CssKontrolleri\CssNedir.html" />
+    <Content Include="CssKontrolleri\Css\BoxedLayoutStyle.css" />
+    <Content Include="CssKontrolleri\Css\FullLayoutStyle.css" />
     <Content Include="CssKontrolleri\divNedir.html" />
     <Content Include="CssKontrolleri\FloatIleHizalamaVeDuzen.html" />
+    <Content Include="CssKontrolleri\FullLayoutDüzeni.html" />
     <Content Include="CssKontrolleri\KenarlıkKullanimi.html" />
     <Content Include="CssKontrolleri\MarginIleDısBosluk.html" />
     <Content Include="CssKontrolleri\MetinBicimlendirme.html" />
@@ -80,7 +84,17 @@
     <Content Include="HtmlKontrolleri\LinkOlusturma.html" />
     <Content Include="HtmlKontrolleri\ListeOlusturma.html" />
     <Content Include="HtmlKontrolleri\MetinBicimlendirme.html" />
-    <Content Include="HtmlKontrolleri\Odevler\SiniftakiOgrencilerinTablosu.html" />
+    <Content Include="Odevler\Css\Odev1Style.css" />
+    <Content Include="Odevler\Css\Odev2Style.css" />
+    <Content Include="Odevler\Css\Odev3Style.css" />
+    <Content Include="Odevler\Css\Odev4Style.css" />
+    <Content Include="Odevler\Css\Odev5Style.css" />
+    <Content Include="Odevler\Odev1.html" />
+    <Content Include="Odevler\Odev2.html" />
+    <Content Include="Odevler\Odev3.html" />
+    <Content Include="Odevler\Odev4.html" />
+    <Content Include="Odevler\Odev5.html" />
+    <Content Include="Odevler\SiniftakiOgrencilerinTablosu.html" />
     <Content Include="HtmlKontrolleri\ResimEkleme.html" />
     <Content Include="HtmlKontrolleri\Resimler\Wallpaper.jpg" />
     <Content Include="HtmlKontrolleri\TabloOlusturma.html" />
