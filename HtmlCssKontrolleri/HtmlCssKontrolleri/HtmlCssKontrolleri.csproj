@@ -105,12 +105,12 @@
     <Content Include="Web.config" />
     <Content Include="WebSayfalari\Css\HepsiBuradaStyle.css" />
     <Content Include="WebSayfalari\HepsiBurada.html" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada_AramaCubugu.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada_Hesap.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada_Konum.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada_Logo.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada_Reklam.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada_Sepet.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_AramaCubugu.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Hesap.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Konum.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Logo.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Reklam.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Sepet.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
