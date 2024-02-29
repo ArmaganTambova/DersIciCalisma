@@ -1,0 +1,125 @@
+﻿body {
+    font-family: 'Calisto MT';
+}
+
+.AnaSecim {
+    min-height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Yazilar {
+    font-size: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+.AnaMenu {
+    min-height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.RenkliCizgiler {
+    height: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.Cizgi1 {
+    height: 10px;
+    width: 60%;
+    background-color: #FF6000;
+    float: left;
+}
+
+.Cizgi2 {
+    height: 10px;
+    width: 10%;
+    background-color: #49C7ED;
+    float: left;
+}
+
+.Cizgi3 {
+    height: 10px;
+    width: 10%;
+    background-color: #7723DB;
+    float: left;
+}
+
+.Cizgi4 {
+    height: 10px;
+    width: 10%;
+    background-color: #57B900;
+    float: left;
+}
+
+.Cizgi5 {
+    height: 10px;
+    width: 10%;
+    background-color: #5D196A;
+    float: left;
+}
+
+.Menuler {
+    min-height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.MenularYazi {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    border-right: 1px solid #ccc;
+    padding-right: 10px;
+}
+
+.MenularYazi:last-child {
+    border-right: none;
+}
+
+.RenkliArkaPlan {
+    height: 500px;
+    width: 100%;
+    background-image: linear-gradient(to right, #D72003, #7D08B8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.RenkliArkaPlanYazi {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    max-width: 200px;
+}
+
+.AnaTasiyici {
+    height: 2000px;
+    width: 60%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FF6000;
+}

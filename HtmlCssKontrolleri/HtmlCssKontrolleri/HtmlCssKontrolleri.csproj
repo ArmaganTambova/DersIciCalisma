@@ -74,11 +74,14 @@
     <Content Include="CssKontrolleri\divNedir.html" />
     <Content Include="CssKontrolleri\FloatIleHizalamaVeDuzen.html" />
     <Content Include="CssKontrolleri\FullLayoutDüzeni.html" />
+    <Content Include="CssKontrolleri\GenislikYukseklikVeBosluk.html" />
     <Content Include="CssKontrolleri\KenarlıkKullanimi.html" />
+    <Content Include="CssKontrolleri\LayoutOlusturma.html" />
     <Content Include="CssKontrolleri\MarginIleDısBosluk.html" />
     <Content Include="CssKontrolleri\MetinBicimlendirme.html" />
     <Content Include="CssKontrolleri\PaddingIleIcBosluk.html" />
     <Content Include="CssKontrolleri\Renklendirmeler.html" />
+    <Content Include="CssKontrolleri\SeciciTurleri.html" />
     <Content Include="HtmlKontrolleri\AlintiYapma.html" />
     <Content Include="HtmlKontrolleri\Basliklar.html" />
     <Content Include="HtmlKontrolleri\LinkOlusturma.html" />
@@ -100,6 +103,14 @@
     <Content Include="HtmlKontrolleri\TabloOlusturma.html" />
     <Content Include="HtmlKontrolleri\TemelKurallar.html" />
     <Content Include="Web.config" />
+    <Content Include="WebSayfalari\Css\HepsiBuradaStyle.css" />
+    <Content Include="WebSayfalari\HepsiBurada.html" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada_AramaCubugu.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada_Hesap.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada_Konum.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada_Logo.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada_Reklam.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada_Sepet.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
