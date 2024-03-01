@@ -107,6 +107,10 @@
     <Content Include="WebSayfalari\HepsiBurada.html" />
     <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_AramaCubugu.jpg" />
     <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Hesap.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Icerik1.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Icerik2.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Icerik3.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Icerik4.jpg" />
     <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Konum.jpg" />
     <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Logo.jpg" />
     <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Reklam.jpg" />
