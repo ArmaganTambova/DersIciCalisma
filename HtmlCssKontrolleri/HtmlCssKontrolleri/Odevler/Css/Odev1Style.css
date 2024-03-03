@@ -1,0 +1,29 @@
+﻿.MainCarrier {
+    height: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Header {
+    min-height: 100px;
+    width: 100%;
+    background-color: #FF0000;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.Content {
+    min-height: 800px;
+    width: 100%;
+    background-color: #ADD8E6;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.Footer {
+    min-height: 100px;
+    width: 100%;
+    background-color: #008000;
+    border-radius: 10px;
+}

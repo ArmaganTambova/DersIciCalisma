@@ -1,0 +1,40 @@
+﻿.MainCarrier {
+    height: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Header {
+    min-height: 100px;
+    width: 100%;
+    background-color: #FF0000;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.Aside {
+    min-height: 800px;
+    width: 29%;
+    margin-right: 2%;
+    background-color: #FFA500;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.Content {
+    min-height: 800px;
+    width: 69%;
+    background-color: #ADD8E6;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    float: left
+}
+
+.Footer {
+    min-height: 100px;
+    width: 100%;
+    background-color: #008000;
+    border-radius: 10px;
+}

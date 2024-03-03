@@ -87,6 +87,16 @@
     <Content Include="HtmlKontrolleri\LinkOlusturma.html" />
     <Content Include="HtmlKontrolleri\ListeOlusturma.html" />
     <Content Include="HtmlKontrolleri\MetinBicimlendirme.html" />
+    <Content Include="Odevler\Css\Odev1Style.css" />
+    <Content Include="Odevler\Css\Odev2Style.css" />
+    <Content Include="Odevler\Css\Odev3Style.css" />
+    <Content Include="Odevler\Css\Odev4Style.css" />
+    <Content Include="Odevler\Css\Odev5Style.css" />
+    <Content Include="Odevler\Odev1.html" />
+    <Content Include="Odevler\Odev2.html" />
+    <Content Include="Odevler\Odev3.html" />
+    <Content Include="Odevler\Odev4.html" />
+    <Content Include="Odevler\Odev5.html" />
     <Content Include="Odevler\SiniftakiOgrencilerinTablosu.html" />
     <Content Include="HtmlKontrolleri\ResimEkleme.html" />
     <Content Include="HtmlKontrolleri\Resimler\Wallpaper.jpg" />
@@ -118,9 +128,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Odevler\Css\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

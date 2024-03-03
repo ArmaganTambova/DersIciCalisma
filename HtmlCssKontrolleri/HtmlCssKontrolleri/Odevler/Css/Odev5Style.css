@@ -1,0 +1,75 @@
+﻿.Header {
+    min-height: 100px;
+    width: 100%;
+    background-color: #03BFB1;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Navigation {
+    min-height: 100px;
+    width: 100%;
+    background-color: #33C361;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Aside {
+    min-height: 800px;
+    width: 29%;
+    background-color: #6EDB6E;
+    margin-bottom: 10px;
+    margin-right: 2%;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.MainContent {
+    min-height: 800px;
+    width: 69%;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.Content {
+    min-height: 395px;
+    width: 100%;
+    background-color: #0F98C6;
+    margin-bottom: 10px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Section {
+    min-height: 395px;
+    width: 100%;
+    background-color: #005B92;
+    margin-bottom: 10px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Footer {
+    min-height: 100px;
+    width: 100%;
+    background-color: #03BFB1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color: white;
+}
