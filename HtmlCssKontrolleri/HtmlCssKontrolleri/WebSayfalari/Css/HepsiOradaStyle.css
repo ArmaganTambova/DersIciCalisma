@@ -1,0 +1,106 @@
+﻿.Reklam {
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.UstSecenekler {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.UstSecenekler a {
+    font-size: 11px;
+    color: silver;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+.UstSecenekler a:last-child {
+    margin-right: 0px;
+}
+
+.UstSecenekler a:first-child {
+    margin-left: 200px;
+}
+
+.Header {
+    min-height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+ /*Logo*/
+.LogoHeader {
+    min-height: 100px;
+}
+
+.LogoHeader a {
+    text-decoration: none;
+}
+
+.LogoHeader a:hover{
+    text-decoration: underline;
+}
+
+ /*Arama Kutusu*/
+.AramaKutusu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.AramaKutusuKutu {
+    float: left;
+    min-width: 200px;
+    min-height: 50px;
+    padding: 5px 10px;
+    border: 2px solid #919191;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    font-size: 12px;
+}
+
+.AramaKutusuAramaButonu {
+    float: left;
+    min-width: 50px;
+    min-height: 64px;
+    color: white;
+    background-color: #919191;
+    font-size: 14px;
+    text-decoration: none;
+    border: none;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 7px;
+    cursor: pointer;
+}
+ /*Konum*/
+.Konum {
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.Konum h2 {
+    font-size: 12px;
+}
+
+.Konum h1 {
+    font-size: 10px;
+    color: #FF6000;
+}

@@ -87,6 +87,9 @@
     <Content Include="HtmlKontrolleri\LinkOlusturma.html" />
     <Content Include="HtmlKontrolleri\ListeOlusturma.html" />
     <Content Include="HtmlKontrolleri\MetinBicimlendirme.html" />
+    <Content Include="WebSayfalari\Css\HepsiOrada404Style.css" />
+    <Content Include="WebSayfalari\Css\HepsiOradaStyle.css" />
+    <Content Include="WebSayfalari\HepsiOrada.html" />
     <Content Include="Odevler\Css\Odev1Style.css" />
     <Content Include="Odevler\Css\Odev2Style.css" />
     <Content Include="Odevler\Css\Odev3Style.css" />
@@ -103,18 +106,11 @@
     <Content Include="HtmlKontrolleri\TabloOlusturma.html" />
     <Content Include="HtmlKontrolleri\TemelKurallar.html" />
     <Content Include="Web.config" />
-    <Content Include="WebSayfalari\Css\HepsiBuradaStyle.css" />
-    <Content Include="WebSayfalari\HepsiBurada.html" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_AramaCubugu.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Hesap.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Icerik1.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Icerik2.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Icerik3.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Icerik4.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Konum.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Logo.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Reklam.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiBurada\HepsiBurada_Sepet.jpg" />
+    <Content Include="WebSayfalari\HepsiOrada404.html" />
+    <Content Include="WebSayfalari\Resimler\HepsiOrada\HepsiBurada_Logo.png" />
+    <Content Include="WebSayfalari\Resimler\HepsiOrada\HepsiBurada_Reklam.png" />
+    <Content Include="WebSayfalari\Resimler\HepsiOrada\HepsiOrada_404.jpg" />
+    <Content Include="WebSayfalari\Resimler\HepsiOrada\Location_Icon.svg" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
