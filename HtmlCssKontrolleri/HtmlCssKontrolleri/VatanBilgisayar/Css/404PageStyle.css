@@ -1,0 +1,87 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.Header {
+    min-height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Content {
+    min-height: 400px;
+    width: 100%;
+    border-top: 1px solid #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #333333;
+}
+
+.Content h1 {
+    font-size: 36px;
+    margin-bottom: -10px;
+    font-weight: normal;
+}
+
+.Content h2 {
+    font-size: 20px;
+    margin-bottom: -8px;
+    font-weight: normal;
+}
+
+.Content h3 {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.ContentButton {
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 15px 60px 15px 60px;
+    border-radius: 25px;
+    background-color: #003177;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-weight: bold;
+}
+
+.ContentButton:hover {
+    background-color: #002556;
+}
+
+.Footer {
+    min-height: 250px;
+    width: 100%;
+    background-color: #003177;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.FooterContent {
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-size: 8px;
+    font-weight: bold;  
+}
+
+.FooterContent:first-child {
+    margin-left: 12%;
+}
+
+.FooterContent:last-child {
+    margin-right: 12%;
+}
+

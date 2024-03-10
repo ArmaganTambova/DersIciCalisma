@@ -1,106 +1,252 @@
-﻿.Reklam {
-    height: auto;
-    width: auto;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
 }
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
+.anaTasiyici {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.UstSecenekler {
-    height: auto;
-    width: 100%;
-    display: flex;
-    justify-content: center;
+.ustReklam {
     text-align: center;
 }
 
-.UstSecenekler a {
-    font-size: 11px;
-    color: silver;
-    margin-right: 10px;
-    margin-bottom: 20px;
+    .ustReklam img {
+        width: 970px;
+    }
+
+body {
+    font-family: Calibri;
+}
+
+.ustMenu {
+    padding-top: 9px;
+}
+
+    .ustMenu a {
+        text-decoration: none;
+        margin-left: 23px;
+        float: right;
+        color: #7b7b7b;
+        font-size: 10pt;
+        font-weight: 900;
+    }
+
+.header {
+    margin-top: 25px;
+}
+
+.logoTasiyici {
+    width: 260px;
+    float: left;
+}
+
+    .logoTasiyici img {
+        width: 191px;
+    }
+
+    .logoTasiyici label {
+        margin-left: 60px;
+        color: #7b7b7b;
+        font-weight: 600;
+    }
+
+        .logoTasiyici label a {
+            margin-left: 5px;
+            color: #FF6000;
+            text-decoration: none;
+        }
+
+            .logoTasiyici label a:hover {
+                text-decoration: underline;
+            }
+
+.aramakutusu {
+    float: left;
+    width: 440px;
+}
+
+    .aramakutusu .metinkutusu {
+        border: 2px solid #919191;
+        padding: 13px;
+        border-radius: 7px;
+        border-top-right-radius: unset;
+        border-bottom-right-radius: unset;
+        font-size: 12pt;
+        width: 350px;
+        margin-top: 10px;
+    }
+
+        .aramakutusu .metinkutusu:focus {
+            border: 2px solid #FF6000;
+            outline: none;
+        }
+
+    .aramakutusu .araButton {
+        border: 2px solid #919191;
+        padding: 9.5px 10px 11.7px 10px;
+        height: 46px;
+        color: White;
+        background-color: #919191;
+        border-top-right-radius: 7px;
+        border-bottom-right-radius: 7px;
+        text-decoration: none;
+        font-size: 14pt;
+        margin-top: 20px;
+        margin-bottom: -2px;
+        margin-left: -7px
+    }
+
+.araButtonfocus {
+    border: 2px solid #FF6000;
+    background-color: #FF6000;
+    padding: 9.5px 10px 11.7px 10px;
+    color: White;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
     text-decoration: none;
+    font-size: 14pt;
+    margin-left: -7px
 }
 
-.UstSecenekler a:last-child {
-    margin-right: 0px;
+.konumkutusu {
+    width: 113px;
+    padding: 10px;
+    color: #919191;
+    text-align: center;
+    float: left;
 }
 
-.UstSecenekler a:first-child {
-    margin-left: 200px;
+    .konumkutusu img {
+        width: 30px;
+        float: left;
+        margin-top: 5px;
+    }
+
+    .konumkutusu .konum {
+        float: left;
+        text-align: left;
+    }
+
+        .konumkutusu .konum .ust {
+            font-weight: 900;
+        }
+
+        .konumkutusu .konum .alt {
+            color: #FF6000;
+        }
+
+.girisSepetKutusu {
+    padding-top: 10px;
 }
 
-.Header {
-    min-height: auto;
+    .girisSepetKutusu a img {
+        width: 24px;
+    }
+
+    .girisSepetKutusu .kullanici {
+        padding: 15px 30px;
+        border: 2px solid #919191;
+        border-radius: 10px;
+        text-decoration: none;
+        color: #919191;
+    }
+
+    .girisSepetKutusu .Sepet {
+        padding: 15px 30px;
+        border: 2px solid #919191;
+        border-radius: 10px;
+        margin-left: 15px;
+        text-decoration: none;
+        color: white;
+        background-color: #919191;
+    }
+
+    .girisSepetKutusu .kullanici span {
+        margin-left: 7px;
+    }
+
+    .girisSepetKutusu .Sepet span {
+        margin-left: 7px;
+    }
+
+.gokkusagi {
+    margin-top: 25px;
+    height: 10px;
     width: 100%;
-    display: flex;
-    justify-content: center;
 }
 
- /*Logo*/
-.LogoHeader {
-    min-height: 100px;
-}
+    .gokkusagi .bir {
+        background-color: #FF7600;
+        height: 10px;
+        width: 40%;
+        float: left;
+    }
 
-.LogoHeader a {
-    text-decoration: none;
-}
+    .gokkusagi .iki {
+        background-color: #49C7ED;
+        height: 10px;
+        width: 15%;
+        float: left;
+    }
 
-.LogoHeader a:hover{
-    text-decoration: underline;
-}
+    .gokkusagi .uc {
+        background-color: #772308;
+        height: 10px;
+        width: 15%;
+        float: left;
+    }
 
- /*Arama Kutusu*/
-.AramaKutusu {
+    .gokkusagi .dort {
+        background-color: #57B900;
+        height: 10px;
+        width: 15%;
+        float: left;
+    }
+
+    .gokkusagi .bes {
+        background-color: #5D196A;
+        height: 10px;
+        width: 15%;
+        float: left;
+    }
+
+.kategoribg {
+    background-color: #F5F5F5;
+    height: 50px;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.kategoriler {
+    margin-right: auto;
+    margin-left: auto;
     width: auto;
-    height: auto;
+    height: 70px;
+    margin-top: 50px;
 }
 
-.AramaKutusuKutu {
-    float: left;
-    min-width: 200px;
-    min-height: 50px;
-    padding: 5px 10px;
-    border: 2px solid #919191;
-    border-bottom-left-radius: 7px;
-    border-top-left-radius: 7px;
-    font-size: 12px;
-}
+    .kategoriler a {
+        text-decoration: none;
+        padding-left: 10px;
+        color: #919191;
+        font-weight: 900;
+        font-size: 12pt;
+        border-right: 1px solid #E5E5E5;
+        padding-right: 10px;
+        white-space: nowrap;
+    }
 
-.AramaKutusuAramaButonu {
-    float: left;
-    min-width: 50px;
-    min-height: 64px;
-    color: white;
-    background-color: #919191;
-    font-size: 14px;
-    text-decoration: none;
-    border: none;
-    border-bottom-right-radius: 7px;
-    border-top-right-radius: 7px;
-    cursor: pointer;
-}
- /*Konum*/
-.Konum {
-    height: auto;
-    width: auto;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
+        .kategoriler a:hover {
+            color: #FF6000;
+            border-color: #E5E5E5;
+        }
 
-.Konum h2 {
-    font-size: 12px;
-}
-
-.Konum h1 {
-    font-size: 10px;
-    color: #FF6000;
-}
+        .kategoriler a:last-child {
+            border-right: none;
+            padding-right: 0;
+        }
