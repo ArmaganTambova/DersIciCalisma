@@ -90,6 +90,8 @@
     <Content Include="VatanBilgisayar\404Page.html" />
     <Content Include="VatanBilgisayar\Css\404PageStyle.css" />
     <Content Include="VatanBilgisayar\Css\VatanBilgisayarStyle.css" />
+    <Content Include="VatanBilgisayar\Resimler\QuestionMark.png" />
+    <Content Include="VatanBilgisayar\Resimler\QuestionMarkB.jpg" />
     <Content Include="VatanBilgisayar\Resimler\VatanBilgisayar_404PageLogo.png" />
     <Content Include="VatanBilgisayar\Resimler\VatanBilgisayar_404PageHızlıTeslimat.png" />
     <Content Include="VatanBilgisayar\Resimler\VatanBilgisayar_IcoLogo.ico" />

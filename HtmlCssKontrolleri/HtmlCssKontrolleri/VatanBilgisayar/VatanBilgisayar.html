@@ -31,26 +31,147 @@
 
     <div class="Header">
         <div class="HeaderLogo">
-            <a href="https://www.vatanbilgisayar.com">
+            <a href="https://www.vatanbilgisayar.com" target="_blank">
                 <img src="Resimler/VatanBilgisayar_Logo.jpg" style="width: 80%"/>
             </a>
         </div>
 
         <div class="HeaderArama">
-            <input type="text" class="HeaderAramaMetinKutu" placeholder="Aramak İstediğiniz Ürünü Yazın" />
+            <input type="text" class="HeaderAramaMetinKutu" placeholder="Aramak İstediğiniz Ürünü Yazın" id="HeaderArama" onfocus="BorderEkle()" onfocusout="BorderSil()"/>
 
-            <button class="HeaderAramaButton" onclick="window.location.href='404Page.html'">
+            <button class="HeaderAramaButton" onclick="window.location.href='404Page.html'" id="HeaderAramaButton">
                 <img src="Resimler/VatanBilgisayar_Search.png"/>
             </button>
         </div>
 
-        <div class="HeaderGirisYap">
+        <div class="HeaderUserShopContainer">
+            <div class="HeaderGirisYap">
+                <div class="HeaderGirisYapLogo">
+                    <a href="404Page.html">
+                        <img src="Resimler/VatanBilgisayar_User.png" />
+                    </a>
+                </div>
 
-        </div>
+                <div class="HeaderGirisYapYazi">
+                    <a href="404Page.html" style="text-decoration: none; color: #000000">Giriş Yap</a>
+                </div>
+            </div>
 
-        <div class="Sepetim">
+            <div class="HeaderSepetim">
+                <div class="HeaderSepetimLogo">
+                    <a href="404Page.html">
+                        <img src="Resimler/VatanBilgisayar_Shopping.png" />
+                    </a>
+                </div>
 
+                <div class="HeaderSepetimYazi">
+                    <a href="404Page.html" style="text-decoration: none; color: #000000">Sepetim</a>
+                </div>
+            </div>
         </div>
     </div>
+
+    <div class="BottomHeader">
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Telefon</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Bilgisayar</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Tv, Görüntü ve Ses</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Bilgisayar Parçaları</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Ev, Mutfak</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Kişisel Bakım</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Foto, Kamera</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Ofis, Kırtasiye</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Aksesuar</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Oyun, Hobi</a>
+            </div>
+        </div>
+
+        <div class="BottomHeaderYaziContainer">
+            <div class="BottomHeaderYazi">
+                <a href="404Page.html">Soğutma, Isıtma</a>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script>
+        /*Ararken Enter'e Basınca*/
+        var input = document.getElementById("HeaderArama");
+        input.addEventListener("keypress", function (event) {
+            if (event.key === "Enter") {
+                document.getElementById("HeaderAramaButton").click();
+            }
+        });
+
+        /*Arama Kutusu Focus*/
+        function BorderEkle() {
+            const Element1 = document.getElementById("HeaderArama");
+            const Element2 = document.getElementById("HeaderAramaButton");
+
+            Element1.classList.remove("HeaderAramaMetinKutu");
+            Element1.classList.add("HeaderAramaMetinKutufocus");
+
+            Element2.classList.remove("HeaderAramaButton");
+            Element2.classList.add("HeaderAramaButtonfocus");
+        }
+
+        function BorderSil() {
+            const Element1 = document.getElementById("HeaderArama");
+            const Element2 = document.getElementById("HeaderAramaButton");
+
+            Element1.classList.remove("HeaderAramaMetinKutufocus");
+            Element1.classList.add("HeaderAramaMetinKutu");
+
+            Element2.classList.remove("HeaderAramaButtonfocus");
+            Element2.classList.add("HeaderAramaButton");
+        }
+    </script>
 </body>
 </html>

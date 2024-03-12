@@ -77,6 +77,10 @@
     font-weight: bold;  
 }
 
+.FooterContent img {
+    height: 30px;
+}
+
 .FooterContent:first-child {
     margin-left: 12%;
 }

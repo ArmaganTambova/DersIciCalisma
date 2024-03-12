@@ -20,6 +20,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 25px;
 }
 
 .TopHeader a {
@@ -41,30 +42,34 @@
 
 /*Header*/
 .Header {
-    min-height: 100px;
+    min-height: 52px; 
     width: 100%;
-    margin-top: 10px;
+    margin-top: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 15px;
 }
 
 .HeaderLogo {
-    margin-right: 20%;
+    margin-right: 10%;
 }
 
 .HeaderArama {
-    margin-right: 20%;
+    margin-right: 10%;
 }
 
 .HeaderAramaMetinKutu {
     background-color: #F5F5F5;
-    padding: 15px 200px 15px 15px;
-    border: none;
+    padding: 12.5px 150px 12.5px 12.5px;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
-    height: 20px;
+    height: 24px;
     float: left;
+    width: 300px;
+    outline: none;
+    border: 1px solid white;
+    border-right: none;
 }
 
 .HeaderAramaButton {
@@ -72,14 +77,117 @@
     border: none;
     border-bottom-right-radius: 20px;
     border-top-right-radius: 20px;
-    height: 50px;
+    height: 51px;
     float: left;
+    border: 1px solid white;
+    border-left: none;
+    outline: none;
+}
+
+.HeaderAramaMetinKutufocus {
+    background-color: #F5F5F5;
+    padding: 12.5px 150px 12.5px 12.5px;
+    border: none;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    height: 24px;
+    float: left;
+    width: 300px;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+    border-left: 1px solid silver;
+    outline: none;
+}
+
+.HeaderAramaButtonfocus {
+    background-color: #F5F5F5;
+    border: none;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 51px;
+    float: left;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+    border-right: 1px solid silver;
+    outline: none;
+}
+
+.HeaderUserShopContainer {
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
 }
 
 .HeaderGirisYap {
-
+    min-height: 25px;
+    width: 47.5%;
+    padding: 10px 10px 10px 10px;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    margin-right: 5%;
 }
 
-.Sepetim {
+.HeaderSepetimLogo,
+.HeaderGirisYapLogo {
+    width: 20%;
+}
 
+.HeaderSepetimYazi,
+.HeaderGirisYapYazi {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.HeaderSepetim {
+    min-height: 25px;
+    width: 47.5%;
+    padding: 10px 10px 10px 10px;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+}
+
+/*BottomHeader*/
+.BottomHeader {
+    min-height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+
+.BottomHeaderYaziContainer {
+    min-height: 40px;
+    width:  auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1.5%;
+}
+
+.BottomHeaderYazi {
+    min-height: 40px;
+    width: auto;
+    border-top: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.BottomHeaderYazi a {
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.BottomHeaderYazi:hover {
+    border-top: 2px solid #337AB7;
 }
