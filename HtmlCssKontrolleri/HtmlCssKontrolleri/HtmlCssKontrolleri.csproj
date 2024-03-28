@@ -82,6 +82,21 @@
     <Content Include="CssKontrolleri\PaddingIleIcBosluk.html" />
     <Content Include="CssKontrolleri\Renklendirmeler.html" />
     <Content Include="CssKontrolleri\SeciciTurleri.html" />
+    <Content Include="HepsiOrada\404Page.html" />
+    <Content Include="HepsiOrada\Css\404PageStyle.css" />
+    <Content Include="HepsiOrada\Css\HepsiOradaStyle.css" />
+    <Content Include="HepsiOrada\HepsiOrada.html" />
+    <Content Include="HepsiOrada\Resimler\HepsiBurada_Logo.png" />
+    <Content Include="HepsiOrada\Resimler\HepsiBurada_Reklam.png" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_404.jpg" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_404HomeButton.jpg" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_404Page.jpg" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_404PageHome.png" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_SuperFiyatSuperTeklif.jpg" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_TeknolojiRuzgari.jpg" />
+    <Content Include="HepsiOrada\Resimler\Location_Icon.svg" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_Shopping.png" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_User.png" />
     <Content Include="HtmlKontrolleri\AlintiYapma.html" />
     <Content Include="HtmlKontrolleri\Basliklar.html" />
     <Content Include="HtmlKontrolleri\LinkOlusturma.html" />
@@ -106,9 +121,6 @@
     <Content Include="VatanBilgisayar\Resimler\VatanBilgisayar_Shopping.png" />
     <Content Include="VatanBilgisayar\Resimler\VatanBilgisayar_User.png" />
     <Content Include="VatanBilgisayar\VatanBilgisayar.html" />
-    <Content Include="WebSayfalari\Css\HepsiOrada404Style.css" />
-    <Content Include="WebSayfalari\Css\HepsiOradaStyle.css" />
-    <Content Include="WebSayfalari\HepsiOrada.html" />
     <Content Include="Odevler\Css\Odev1Style.css" />
     <Content Include="Odevler\Css\Odev2Style.css" />
     <Content Include="Odevler\Css\Odev3Style.css" />
@@ -125,14 +137,6 @@
     <Content Include="HtmlKontrolleri\TabloOlusturma.html" />
     <Content Include="HtmlKontrolleri\TemelKurallar.html" />
     <Content Include="Web.config" />
-    <Content Include="WebSayfalari\HepsiOrada404.html" />
-    <Content Include="WebSayfalari\Resimler\HepsiOrada\HepsiBurada_Logo.png" />
-    <Content Include="WebSayfalari\Resimler\HepsiOrada\HepsiBurada_Reklam.png" />
-    <Content Include="WebSayfalari\Resimler\HepsiOrada\HepsiOrada_404.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiOrada\HepsiOrada_404HomeButton.jpg" />
-    <Content Include="WebSayfalari\Resimler\HepsiOrada\HepsiOrada_CartShoppingIcon.svg" />
-    <Content Include="WebSayfalari\Resimler\HepsiOrada\HepsiOrada_UserIcon.svg" />
-    <Content Include="WebSayfalari\Resimler\HepsiOrada\Location_Icon.svg" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />

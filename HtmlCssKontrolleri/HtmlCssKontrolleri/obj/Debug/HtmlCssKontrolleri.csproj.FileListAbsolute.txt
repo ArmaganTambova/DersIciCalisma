@@ -54,6 +54,6 @@ C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\HtmlCssKontrolleri\HtmlCs
 C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\HtmlCssKontrolleri\HtmlCssKontrolleri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\HtmlCssKontrolleri\HtmlCssKontrolleri\obj\Debug\HtmlCssKontrolleri.csproj.AssemblyReference.cache
 C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\HtmlCssKontrolleri\HtmlCssKontrolleri\obj\Debug\HtmlCssKontrolleri.csproj.CoreCompileInputs.cache
-C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\HtmlCssKontrolleri\HtmlCssKontrolleri\obj\Debug\HtmlCssKontrolleri.csproj.CopyComplete
 C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\HtmlCssKontrolleri\HtmlCssKontrolleri\obj\Debug\HtmlCssKontrolleri.dll
 C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\HtmlCssKontrolleri\HtmlCssKontrolleri\obj\Debug\HtmlCssKontrolleri.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\HtmlCssKontrolleri\HtmlCssKontrolleri\obj\Debug\HtmlCssK.CC96D0B1.Up2Date
