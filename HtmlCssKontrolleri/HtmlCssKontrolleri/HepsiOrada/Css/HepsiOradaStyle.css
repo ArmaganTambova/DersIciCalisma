@@ -561,3 +561,124 @@ input::placeholder {
     font-weight: bold;
     cursor: pointer;
 }
+
+/*TopFooter*/
+.TopFooter {
+    min-height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid silver;
+    margin-top: 20px;
+}
+
+.TopFooterContent {
+    height: auto;
+    width: 18%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2%;
+}
+
+.TopFooterContent:last-child {
+    margin-right: 0;
+}
+
+.TopFooterContentImg {
+    width: 40%;
+}
+
+.TopFooterContentImg img {
+    height: 76px;
+    width: 76px;
+}
+
+.TopFooterContentYazi {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.TopFooterContentYazi h1 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.TopFooterContentYazi h2 {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+/*BottomFooter*/
+.BottomFooter {
+    height: auto;
+    width: 100%;
+    background-color: #FFF2EA;
+}
+
+.BottomFooterContainer {
+    height: auto;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.BottomFooterYaziContainer {
+    height: auto;
+    width: 23%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-right: 2%;
+}
+
+.BottomFooterYaziContainer h1 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #FF6000;
+}
+
+.BottomFooterYaziContainer a {
+    font-size: 12px;
+    font-weight: normal;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.BottomFooterYaziContainer a:hover {
+    text-decoration: underline;
+}
+
+.BottomFooterYaziContainer span {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px;
+    border: 1.5px solid #E5E5E5;
+    border-radius: 10px;
+}
+
+.BottomFooterYaziContainer h3 {
+    font-size: 9px;
+    font-weight: normal;
+}
+
+.BottomFooterYaziContainer h2 {
+    font-size: 12px;
+    font-weight: normal;
+    margin-top: -1px;
+}
+
+.BottomFooterYaziContainer h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: -1px;
+}

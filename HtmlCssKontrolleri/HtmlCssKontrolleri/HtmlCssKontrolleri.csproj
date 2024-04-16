@@ -82,6 +82,8 @@
     <Content Include="CssKontrolleri\PaddingIleIcBosluk.html" />
     <Content Include="CssKontrolleri\Renklendirmeler.html" />
     <Content Include="CssKontrolleri\SeciciTurleri.html" />
+    <Content Include="DisneyPlus\Css\DisneyPlusStyle.css" />
+    <Content Include="DisneyPlus\DisneyPlus.html" />
     <Content Include="HepsiOrada\404Page.html" />
     <Content Include="HepsiOrada\Css\404PageStyle.css" />
     <Content Include="HepsiOrada\Css\HepsiOradaStyle.css" />
@@ -92,8 +94,12 @@
     <Content Include="HepsiOrada\Resimler\HepsiOrada_404HomeButton.jpg" />
     <Content Include="HepsiOrada\Resimler\HepsiOrada_404Page.jpg" />
     <Content Include="HepsiOrada\Resimler\HepsiOrada_404PageHome.png" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_Kapindaİade.jpg" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_Mobil.jpg" />
     <Content Include="HepsiOrada\Resimler\HepsiOrada_SuperFiyatSuperTeklif.jpg" />
     <Content Include="HepsiOrada\Resimler\HepsiOrada_TeknolojiRuzgari.jpg" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_TekTik.jpg" />
+    <Content Include="HepsiOrada\Resimler\HepsiOrada_YarinKapında.jpg" />
     <Content Include="HepsiOrada\Resimler\Location_Icon.svg" />
     <Content Include="HepsiOrada\Resimler\HepsiOrada_Shopping.png" />
     <Content Include="HepsiOrada\Resimler\HepsiOrada_User.png" />
@@ -150,7 +156,9 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="DisneyPlus\Pictures\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

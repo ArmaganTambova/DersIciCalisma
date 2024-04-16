@@ -89,10 +89,12 @@
     </div>
 
     <script>
-        const Box = document.querySelector(".CategoriesContentItem");
+        const Boxes = Array.from(document.querySelectorAll(".CategoriesContentItem"));
 
-        Box.addEventListener("click", function () {
-            alert("Sayfa Bulunamadı");
+        Boxes.forEach(Box => {
+            Box.addEventListener("click", function () {
+                alert("Sayfa Bulunamadı");
+            });
         });
     </script>
 </body>

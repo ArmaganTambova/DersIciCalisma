@@ -1,0 +1,13 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\bin\Debug\OgrenciKayıtSistemi.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\bin\Debug\OgrenciKayıtSistemi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\bin\Debug\OgrenciKayıtSistemi.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.Main.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciK.1BB11B44.Up2Date
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\WinForm\OgrenciKayıtSistemi\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.pdb
