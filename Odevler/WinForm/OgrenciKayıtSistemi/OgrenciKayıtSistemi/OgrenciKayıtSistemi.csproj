@@ -85,6 +85,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Kayitlar\" />
+    <Folder Include="OgrenciResimleri\" />
+    <Folder Include="Siniflar\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

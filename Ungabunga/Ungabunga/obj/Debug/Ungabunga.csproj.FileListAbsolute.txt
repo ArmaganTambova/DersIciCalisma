@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\bin\Debug\Ungabunga.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\bin\Debug\Ungabunga.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\bin\Debug\Ungabunga.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\obj\Debug\Ungabunga.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\obj\Debug\Ungabunga.Main.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\obj\Debug\Ungabunga.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\obj\Debug\Ungabunga.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\obj\Debug\Ungabunga.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\obj\Debug\Ungabunga.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Ungabunga\Ungabunga\obj\Debug\Ungabunga.pdb

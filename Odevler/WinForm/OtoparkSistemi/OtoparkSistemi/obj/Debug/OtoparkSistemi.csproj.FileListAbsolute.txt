@@ -1,0 +1,11 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\bin\Debug\OtoparkSistemi.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\bin\Debug\OtoparkSistemi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\bin\Debug\OtoparkSistemi.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\obj\Debug\OtoparkSistemi.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\obj\Debug\OtoparkSistemi.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\obj\Debug\OtoparkSistemi.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\obj\Debug\OtoparkSistemi.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\obj\Debug\OtoparkSistemi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\obj\Debug\OtoparkSistemi.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\obj\Debug\OtoparkSistemi.Main.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\Projelerim\OtoparkSistemi\OtoparkSistemi\obj\Debug\OtoparkSistemi.ParkAlanlariniDuzenle.resources

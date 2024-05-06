@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ungabunga", "Ungabunga\Ungabunga.csproj", "{9719A7E2-BCC7-4F2D-9124-9500FA4000EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9719A7E2-BCC7-4F2D-9124-9500FA4000EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9719A7E2-BCC7-4F2D-9124-9500FA4000EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9719A7E2-BCC7-4F2D-9124-9500FA4000EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9719A7E2-BCC7-4F2D-9124-9500FA4000EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6EF0DBF-3566-40F9-BDBA-ACC7022DD7A5}
+	EndGlobalSection
+EndGlobal

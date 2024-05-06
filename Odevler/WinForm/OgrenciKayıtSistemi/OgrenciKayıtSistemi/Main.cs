@@ -11,12 +11,15 @@ using System.IO;
 using System.Drawing.Text;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading;
+using System.Net.NetworkInformation;
+using System.Drawing.Imaging;
 
 namespace OgrenciKayıtSistemi
 {
     public partial class Main : Form
     {
         private List<string> Ogrenciler = new List<string>();
+        private string OgrenciResmiDosyaUzantisi = "";
 
         public Main()
         {
@@ -26,7 +29,7 @@ namespace OgrenciKayıtSistemi
             LB_KayitliOgrenciler.SelectedItem = null;
             Ogrenciler.Clear();
 
-            DirectoryInfo DosyaIsimleri = new DirectoryInfo("C://Users/armif/OneDrive/Belgeler/GitHub/DersIciCalisma/Odevler/WinForm/OgrenciKayıtSistemi/OgrenciKayıtSistemi/Kayitlar/");
+            DirectoryInfo DosyaIsimleri = new DirectoryInfo("../../Kayitlar/");
             FileInfo[] Dosya = DosyaIsimleri.GetFiles();
 
             if (Dosya.Length > 0 )
@@ -38,13 +41,77 @@ namespace OgrenciKayıtSistemi
             }
 
             ListeYenile();
+
+            StreamReader Sinif = new StreamReader("../../Siniflar/Sinif.txt");
+            List<string> SinifListesi = new List<string>();
+
+            while (true)
+            {
+                string Deger = Sinif.ReadLine();
+                if (Deger != null)
+                {
+                    SinifListesi.Add(Deger);
+                }
+                else
+                {
+                    break;
+                }
+            }
+
+            Sinif.Close();
+
+            foreach (string Item in SinifListesi)
+            {
+                CB_Sinif.Items.Add(Item);
+            }
+
+            StreamReader Sube = new StreamReader("../../Siniflar/Sube.txt");
+            List<string> SubeListesi = new List<string>();
+
+            while (true)
+            {
+                string Deger = Sube.ReadLine();
+                if (Deger != null)
+                {
+                    SubeListesi.Add(Deger);
+                }
+                else
+                {
+                    break;
+                }
+            }
+
+            Sube.Close();
+
+            foreach(string Item in SubeListesi)
+            {
+                CB_Sube.Items.Add(Item);
+            }
+
+            TB_Isim.TabIndex = 0;
+            TB_SoyIsim.TabIndex = 1;
+            TB_TC.TabIndex = 2;
+            TB_Telefon.TabIndex = 3;
+            TB_Adres.TabIndex = 4;
+            TB_Okul.TabIndex = 5;
+            CB_Sinif.TabIndex = 6;
+            CB_Sube.TabIndex = 7;
+            BTN_Temizle.TabIndex = 8;
+            BTN_Kaydet.TabIndex = 9;
+            BTN_Getir.TabIndex = 10;
+            BTN_Sil.TabIndex = 11;
+        }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            OgrenciResmiOpenFileDialog.Filter = "Resim |*.jpg";
         }
 
         private void ListeYenile()
         {
             LB_KayitliOgrenciler.Items.Clear();
 
-            string DosyaYolu = "C://Users/armif/OneDrive/Belgeler/GitHub/DersIciCalisma/Odevler/WinForm/OgrenciKayıtSistemi/OgrenciKayıtSistemi/Kayitlar/";
+            string DosyaYolu = "../../Kayitlar/";
 
             foreach (string Item in Ogrenciler)
             {
@@ -56,7 +123,7 @@ namespace OgrenciKayıtSistemi
                 LB_KayitliOgrenciler.Items.Add(Isim + " " + Soyad);
                 AdSoyad.Close();
 
-                DosyaYolu = "C://Users/armif/OneDrive/Belgeler/GitHub/DersIciCalisma/Odevler/WinForm/OgrenciKayıtSistemi/OgrenciKayıtSistemi/Kayitlar/";
+                DosyaYolu = "../../Kayitlar/";
             }
         }
 
@@ -65,28 +132,34 @@ namespace OgrenciKayıtSistemi
             TB_Isim.Clear();
             TB_SoyIsim.Clear();
             TB_TC.Clear();
+            TB_Telefon.Clear();
             TB_Adres.Clear();
             TB_Okul.Clear();
-            TB_Sinif.Clear();
+            CB_Sinif.Text = null; CB_Sube.Text= null;
+            PB_OgrenciResmi.Image = null;
 
             LB_KayitliOgrenciler.SelectedItem = null;
+
+            OgrenciResmiDosyaUzantisi = "";
         }
 
         private void BTN_Kaydet_Click(object sender, EventArgs e)
         {
+            string TelefonNumarasi = TB_Telefon.Text.Replace("(", "").Replace(")", "").Replace("-", "").Replace(" ", "").Trim();
+
             if (TB_Isim.Text != "" && TB_Isim.Text != null)
             {
                 if (TB_SoyIsim.Text != "" && TB_SoyIsim.Text != null)
                 {
-                    if (TB_TC.Text != "" && TB_TC.Text != null)
+                    if (TelefonNumarasi.Length == 10)
                     {
                         if (TB_Adres.Text != "" && TB_Adres.Text != null)
                         {
                             if (TB_Okul.Text != "" && TB_Okul.Text != null)
                             {
-                                if (TB_Sinif.Text != "" && TB_Sinif.Text != null)
+                                if (CB_Sube.Text != "" && CB_Sube.Text != null || CB_Sinif.Text != "" && CB_Sinif.Text != null || PB_OgrenciResmi.Image != null)
                                 {
-                                    string DosyaYolu = "C://Users/armif/OneDrive/Belgeler/GitHub/DersIciCalisma/Odevler/WinForm/OgrenciKayıtSistemi/OgrenciKayıtSistemi/Kayitlar/" + TB_TC.Text + ".txt";
+                                    string DosyaYolu = "../../Kayitlar/" + TB_TC.Text + ".txt";
 
                                     if (File.Exists(DosyaYolu))
                                     {
@@ -94,7 +167,7 @@ namespace OgrenciKayıtSistemi
                                     }
                                     else
                                     {
-                                        if (TB_TC.Text.Length == 11)
+                                        if (TB_TC.Text.Replace("_", "").Trim().Length == 11)
                                         {
                                             string Isim = TB_Isim.Text;
                                             string[] Isimler = Isim.Split(' ');
@@ -113,6 +186,7 @@ namespace OgrenciKayıtSistemi
                                                     }
                                                     else
                                                     {
+                                                        // Eğer İkinci İsmin Sonunda Boşluk Varsa Hata Veriyor
                                                         GIsim = GIsim[0].ToString().ToUpper() + GIsim.Substring(1).ToLower();
                                                     }
                                                     
@@ -160,11 +234,14 @@ namespace OgrenciKayıtSistemi
                                             string KayitMetni = "";
                                             KayitMetni += TB_Isim.Text + "\n" + TB_SoyIsim.Text + "\n";
                                             KayitMetni += TB_TC.Text + "\n";
+                                            KayitMetni += TelefonNumarasi + "\n";
                                             KayitMetni += TB_Adres.Text + "\n";
                                             KayitMetni += TB_Okul.Text + "\n";
-                                            KayitMetni += TB_Sinif.Text;
+                                            KayitMetni += CB_Sinif.Text + "/" + CB_Sube.Text;
                                             OgrenciKayit.Write(KayitMetni);
                                             OgrenciKayit.Close();
+
+                                            File.Copy(OgrenciResmiDosyaUzantisi, "../../OgrenciResimleri/" + TB_TC.Text + ".jpg");
 
                                             Ogrenciler.Add(TB_TC.Text + ".txt");
                                             ListeYenile();
@@ -225,9 +302,11 @@ namespace OgrenciKayıtSistemi
                 KontrolListesi.Add(TB_Isim.Text);
                 KontrolListesi.Add(TB_SoyIsim.Text);
                 KontrolListesi.Add(TB_TC.Text);
+                KontrolListesi.Add(TB_Telefon.Text.Replace("(", "").Replace(")", "").Replace("-", "").Replace(" ", "").Trim());
                 KontrolListesi.Add(TB_Adres.Text);
                 KontrolListesi.Add(TB_Okul.Text);
-                KontrolListesi.Add(TB_Sinif.Text);
+                KontrolListesi.Add(CB_Sube.Text);
+                KontrolListesi.Add(CB_Sinif.Text);
 
                 foreach (string Item in KontrolListesi)
                 {
@@ -240,18 +319,36 @@ namespace OgrenciKayıtSistemi
 
                 if (Kontrol)
                 {
-                    string DosyaYolu = "C://Users/armif/OneDrive/Belgeler/GitHub/DersIciCalisma/Odevler/WinForm/OgrenciKayıtSistemi/OgrenciKayıtSistemi/Kayitlar/";
+                    string DosyaYolu = "../../Kayitlar/";
 
-                    DosyaYolu = DosyaYolu + Ogrenciler[LB_KayitliOgrenciler.SelectedIndex];
+                    DosyaYolu += Ogrenciler[LB_KayitliOgrenciler.SelectedIndex];
 
                     StreamReader Ogrenci = new StreamReader(DosyaYolu);
                     TB_Isim.Text = Ogrenci.ReadLine();
                     TB_SoyIsim.Text = Ogrenci.ReadLine();
                     TB_TC.Text = Ogrenci.ReadLine();
+                    TB_Telefon.Text = Ogrenci.ReadLine();
                     TB_Adres.Text = Ogrenci.ReadLine();
                     TB_Okul.Text = Ogrenci.ReadLine();
-                    TB_Sinif.Text = Ogrenci.ReadLine();
+                    string Sinif = Ogrenci.ReadLine(); string SinifD = ""; string SubeD = "";
+
+                    for (int i = 0; i < Sinif.Length; i++)
+                    {
+                        if (Sinif[i].ToString() == "/")
+                        {
+                            SinifD = Sinif.Substring(0, i);
+                            SubeD = Sinif.Substring(Sinif.Length - 1);
+                        }
+                    }
+
+                    CB_Sinif.Text = SinifD;
+                    CB_Sube.Text = SubeD;
                     Ogrenci.Close();
+
+                    string DosyaYoluResim = "../../OgrenciResimleri/";
+                    DosyaYoluResim += Ogrenciler[LB_KayitliOgrenciler.SelectedIndex].Substring(0, 11) + ".jpg";
+
+                    PB_OgrenciResmi.Load(DosyaYoluResim);
 
                     LB_KayitliOgrenciler.SelectedItem = null;
                 }
@@ -261,7 +358,7 @@ namespace OgrenciKayıtSistemi
 
                     if (Getir == DialogResult.OK)
                     {
-                        string DosyaYolu = "C://Users/armif/OneDrive/Belgeler/GitHub/DersIciCalisma/Odevler/WinForm/OgrenciKayıtSistemi/OgrenciKayıtSistemi/Kayitlar/";
+                        string DosyaYolu = "../../Kayitlar/";
 
                         DosyaYolu = DosyaYolu + Ogrenciler[LB_KayitliOgrenciler.SelectedIndex];
 
@@ -269,10 +366,28 @@ namespace OgrenciKayıtSistemi
                         TB_Isim.Text = Ogrenci.ReadLine();
                         TB_SoyIsim.Text = Ogrenci.ReadLine();
                         TB_TC.Text = Ogrenci.ReadLine();
+                        TB_Telefon.Text = Ogrenci.ReadLine();
                         TB_Adres.Text = Ogrenci.ReadLine();
                         TB_Okul.Text = Ogrenci.ReadLine();
-                        TB_Sinif.Text = Ogrenci.ReadLine();
+                        string Sinif = Ogrenci.ReadLine(); string SinifD = ""; string SubeD = "";
+
+                        for (int i = 0; i < Sinif.Length; i++)
+                        {
+                            if (Sinif[i].ToString() == "/")
+                            {
+                                SinifD = Sinif.Substring(0, i);
+                                SubeD = Sinif.Substring(Sinif.Length - 1);
+                            }
+                        }
+
+                        CB_Sinif.Text = SinifD;
+                        CB_Sube.Text = SubeD;
                         Ogrenci.Close();
+
+                        string DosyaYoluResim = "../../OgrenciResimleri/";
+                        DosyaYoluResim += Ogrenciler[LB_KayitliOgrenciler.SelectedIndex].Substring(0, 11) + ".jpg";
+
+                        PB_OgrenciResmi.Load(DosyaYoluResim);
 
                         LB_KayitliOgrenciler.SelectedItem = null;
                     }
@@ -292,12 +407,15 @@ namespace OgrenciKayıtSistemi
         {
             if (LB_KayitliOgrenciler.SelectedItem != null)
             {
-                string DosyaYolu = "C://Users/armif/OneDrive/Belgeler/GitHub/DersIciCalisma/Odevler/WinForm/OgrenciKayıtSistemi/OgrenciKayıtSistemi/Kayitlar/";
+                string DosyaYolu = "../../Kayitlar/";
+                DosyaYolu += Ogrenciler[LB_KayitliOgrenciler.SelectedIndex];
 
-                DosyaYolu = DosyaYolu + Ogrenciler[LB_KayitliOgrenciler.SelectedIndex];
+                File.Delete(DosyaYolu);
 
-                FileInfo OgrenciSil = new FileInfo(DosyaYolu);
-                OgrenciSil.Delete();
+                string DosyaYoluResim = "../../OgrenciResimleri/";
+                DosyaYoluResim += Ogrenciler[LB_KayitliOgrenciler.SelectedIndex].Substring(0, 11) + ".jpg";
+
+                File.Delete(DosyaYoluResim);
 
                 Ogrenciler.RemoveAt(LB_KayitliOgrenciler.SelectedIndex);
 
@@ -312,11 +430,12 @@ namespace OgrenciKayıtSistemi
             }
         }
 
-        private void TB_TC_KeyPress(object sender, KeyPressEventArgs e)
+        private void PB_OgrenciResmi_Click(object sender, EventArgs e)
         {
-            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) || TB_TC.Text.Length >= 11 && !char.IsControl(e.KeyChar))
+            if (OgrenciResmiOpenFileDialog.ShowDialog() == DialogResult.OK)
             {
-                e.Handled = true;
+                PB_OgrenciResmi.Load(OgrenciResmiOpenFileDialog.FileName);
+                OgrenciResmiDosyaUzantisi = OgrenciResmiOpenFileDialog.FileName;
             }
         }
     }
