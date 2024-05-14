@@ -280,10 +280,6 @@
             this.LBL_OgrenciResmi.TabIndex = 26;
             this.LBL_OgrenciResmi.Text = "Öğrenci Resmi:";
             // 
-            // OgrenciResmiOpenFileDialog
-            // 
-            this.OgrenciResmiOpenFileDialog.FileName = "Öğrenci Kayıt Sistemi";
-            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
