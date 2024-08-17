@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\bin\Debug\KisiselBilgilerLabel.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\bin\Debug\KisiselBilgilerLabel.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\bin\Debug\KisiselBilgilerLabel.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\obj\Debug\KisiselBilgilerLabel.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\obj\Debug\KisiselBilgilerLabel.Form1.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\obj\Debug\KisiselBilgilerLabel.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\obj\Debug\KisiselBilgilerLabel.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\obj\Debug\KisiselBilgilerLabel.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\obj\Debug\KisiselBilgilerLabel.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Odevler\Dershane\WinForm\KisiselBilgilerLabel\KisiselBilgilerLabel\obj\Debug\KisiselBilgilerLabel.pdb
