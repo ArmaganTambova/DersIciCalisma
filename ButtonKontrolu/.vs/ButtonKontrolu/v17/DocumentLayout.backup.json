@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\buttonkontrolu\\buttonkontrolu\\textboxcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|solutionrelative:buttonkontrolu\\textboxcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\buttonkontrolu\\buttonkontrolu\\textboxcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|solutionrelative:buttonkontrolu\\textboxcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\buttonkontrolu\\buttonkontrolu\\textboxcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|solutionrelative:buttonkontrolu\\textboxcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\buttonkontrolu\\buttonkontrolu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|solutionrelative:buttonkontrolu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\buttonkontrolu\\buttonkontrolu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|solutionrelative:buttonkontrolu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\buttonkontrolu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|solutionrelative:buttonkontrolu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\buttonkontrolu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDCC0C-38C1-49A2-B5E6-A7BAEA67A09D}|ButtonKontrolu\\ButtonKontrolu.csproj|solutionrelative:buttonkontrolu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextBoxControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\TextBoxControl.cs",
+              "RelativeDocumentMoniker": "ButtonKontrolu\\TextBoxControl.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\TextBoxControl.cs [Design]*",
+              "RelativeToolTip": "ButtonKontrolu\\TextBoxControl.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:45:58.692Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextBoxControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\TextBoxControl.Designer.cs",
+              "RelativeDocumentMoniker": "ButtonKontrolu\\TextBoxControl.Designer.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\TextBoxControl.Designer.cs*",
+              "RelativeToolTip": "ButtonKontrolu\\TextBoxControl.Designer.cs*",
+              "ViewState": "AgIAAGoAAAAAAAAAAAD4v/QAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:50:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextBoxControl.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\TextBoxControl.cs",
+              "RelativeDocumentMoniker": "ButtonKontrolu\\TextBoxControl.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\TextBoxControl.cs*",
+              "RelativeToolTip": "ButtonKontrolu\\TextBoxControl.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vx8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:50:15.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\Program.cs",
+              "RelativeDocumentMoniker": "ButtonKontrolu\\Program.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\Program.cs",
+              "RelativeToolTip": "ButtonKontrolu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:46:00.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\Form1.cs",
+              "RelativeDocumentMoniker": "ButtonKontrolu\\Form1.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\Form1.cs",
+              "RelativeToolTip": "ButtonKontrolu\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:45:18.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ButtonKontrolu\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\Form1.Designer.cs",
+              "RelativeToolTip": "ButtonKontrolu\\Form1.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAD4vzIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:45:28.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\Form1.cs",
+              "RelativeDocumentMoniker": "ButtonKontrolu\\Form1.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\ButtonKontrolu\\ButtonKontrolu\\Form1.cs [Design]",
+              "RelativeToolTip": "ButtonKontrolu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:43:59.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
