@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\armif\\source\\repos\\WinFormKontrolleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|c:\\users\\armif\\source\\repos\\winformkontrolleri\\winformkontrolleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\source\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\armif\\source\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormKontrolleri\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:29:31.733Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
