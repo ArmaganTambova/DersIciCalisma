@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\bin\Debug\RichTextBoxKontrolu.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\bin\Debug\RichTextBoxKontrolu.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\bin\Debug\RichTextBoxKontrolu.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\obj\Debug\RichTextBoxKontrolu.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\obj\Debug\RichTextBoxKontrolu.MainForm.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\obj\Debug\RichTextBoxKontrolu.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\obj\Debug\RichTextBoxKontrolu.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\obj\Debug\RichTextBoxKontrolu.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\obj\Debug\RichTextBoxKontrolu.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\RichTextBoxKontrolu\RichTextBoxKontrolu\obj\Debug\RichTextBoxKontrolu.pdb

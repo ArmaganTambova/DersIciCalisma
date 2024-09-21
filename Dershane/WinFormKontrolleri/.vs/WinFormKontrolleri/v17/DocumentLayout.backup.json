@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\armif\\source\\repos\\WinFormKontrolleri\\",
+  "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\WinFormKontrolleri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|c:\\users\\armif\\source\\repos\\winformkontrolleri\\winformkontrolleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\winformkontrolleri\\winformkontrolleri\\imagewiever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\imagewiever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\winformkontrolleri\\winformkontrolleri\\imagewiever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\imagewiever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\WinFormKontrolleri\\winformkontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C56C4FA-48D2-4885-9F2E-1047075D9B83}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\armif\\source\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormKontrolleri\\Form1.cs",
-              "ToolTip": "C:\\Users\\armif\\source\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\Form1.cs [Design]",
-              "RelativeToolTip": "WinFormKontrolleri\\Form1.cs [Design]",
+              "Title": "ImageWiever.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\WinFormKontrolleri\\WinFormKontrolleri\\ImageWiever.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\ImageWiever.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\WinFormKontrolleri\\WinFormKontrolleri\\ImageWiever.cs",
+              "RelativeToolTip": "WinFormKontrolleri\\ImageWiever.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T19:29:31.733Z",
+              "WhenOpened": "2024-09-21T09:00:04.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageWiever.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\WinFormKontrolleri\\WinFormKontrolleri\\ImageWiever.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\ImageWiever.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\WinFormKontrolleri\\WinFormKontrolleri\\ImageWiever.cs [Design]",
+              "RelativeToolTip": "WinFormKontrolleri\\ImageWiever.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:58:25.364Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\WinFormKontrolleri\\WinFormKontrolleri\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\Program.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\WinFormKontrolleri\\WinFormKontrolleri\\Program.cs",
+              "RelativeToolTip": "WinFormKontrolleri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:57:52.718Z",
+              "EditorCaption": ""
             }
           ]
         }

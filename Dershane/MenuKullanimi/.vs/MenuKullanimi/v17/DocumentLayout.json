@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\MenuKullanimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A383B2C-CBB8-4335-8A0B-5BA8A33927E1}|MenuKullanimi\\MenuKullanimi.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\MenuKullanimi\\menukullanimi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A383B2C-CBB8-4335-8A0B-5BA8A33927E1}|MenuKullanimi\\MenuKullanimi.csproj|solutionrelative:menukullanimi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A383B2C-CBB8-4335-8A0B-5BA8A33927E1}|MenuKullanimi\\MenuKullanimi.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\MenuKullanimi\\menukullanimi\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A383B2C-CBB8-4335-8A0B-5BA8A33927E1}|MenuKullanimi\\MenuKullanimi.csproj|solutionrelative:menukullanimi\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A383B2C-CBB8-4335-8A0B-5BA8A33927E1}|MenuKullanimi\\MenuKullanimi.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\menukullanimi\\menukullanimi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A383B2C-CBB8-4335-8A0B-5BA8A33927E1}|MenuKullanimi\\MenuKullanimi.csproj|solutionrelative:menukullanimi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\MenuKullanimi\\MenuKullanimi\\MainForm.cs",
+              "RelativeDocumentMoniker": "MenuKullanimi\\MainForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\MenuKullanimi\\MenuKullanimi\\MainForm.cs [Design]",
+              "RelativeToolTip": "MenuKullanimi\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:11:25.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\MenuKullanimi\\MenuKullanimi\\MainForm.cs",
+              "RelativeDocumentMoniker": "MenuKullanimi\\MainForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\MenuKullanimi\\MenuKullanimi\\MainForm.cs",
+              "RelativeToolTip": "MenuKullanimi\\MainForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:13:11.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\MenuKullanimi\\MenuKullanimi\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MenuKullanimi\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\MenuKullanimi\\MenuKullanimi\\MainForm.Designer.cs",
+              "RelativeToolTip": "MenuKullanimi\\MainForm.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAwIwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:13:18.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

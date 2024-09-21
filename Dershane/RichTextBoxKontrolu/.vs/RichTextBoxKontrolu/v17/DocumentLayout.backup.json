@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\RichTextBoxKontrolu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06850CA5-AFB9-46B9-A35F-7DDDA8D4EEB1}|RichTextBoxKontrolu\\RichTextBoxKontrolu.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\richtextboxkontrolu\\richtextboxkontrolu\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06850CA5-AFB9-46B9-A35F-7DDDA8D4EEB1}|RichTextBoxKontrolu\\RichTextBoxKontrolu.csproj|solutionrelative:richtextboxkontrolu\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06850CA5-AFB9-46B9-A35F-7DDDA8D4EEB1}|RichTextBoxKontrolu\\RichTextBoxKontrolu.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\richtextboxkontrolu\\richtextboxkontrolu\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06850CA5-AFB9-46B9-A35F-7DDDA8D4EEB1}|RichTextBoxKontrolu\\RichTextBoxKontrolu.csproj|solutionrelative:richtextboxkontrolu\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\RichTextBoxKontrolu\\RichTextBoxKontrolu\\MainForm.cs",
+              "RelativeDocumentMoniker": "RichTextBoxKontrolu\\MainForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\RichTextBoxKontrolu\\RichTextBoxKontrolu\\MainForm.cs*",
+              "RelativeToolTip": "RichTextBoxKontrolu\\MainForm.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:09:15.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\RichTextBoxKontrolu\\RichTextBoxKontrolu\\MainForm.cs",
+              "RelativeDocumentMoniker": "RichTextBoxKontrolu\\MainForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\RichTextBoxKontrolu\\RichTextBoxKontrolu\\MainForm.cs [Design]*",
+              "RelativeToolTip": "RichTextBoxKontrolu\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:06:02.739Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

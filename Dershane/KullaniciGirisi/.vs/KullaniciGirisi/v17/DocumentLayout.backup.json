@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\kullanicigirisi\\kullanicigirisi\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|solutionrelative:kullanicigirisi\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\kullanicigirisi\\kullanicigirisi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|solutionrelative:kullanicigirisi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\kullanicigirisi\\kullanicigirisi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|solutionrelative:kullanicigirisi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\kullanicigirisi\\kullanicigirisi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|solutionrelative:kullanicigirisi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\kullanicigirisi\\kullanicigirisi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1915040A-C6B2-4E15-8284-2752A47C1F22}|KullaniciGirisi\\KullaniciGirisi.csproj|solutionrelative:kullanicigirisi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\LoginUser.cs",
+              "RelativeDocumentMoniker": "KullaniciGirisi\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\LoginUser.cs",
+              "RelativeToolTip": "KullaniciGirisi\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:29:12.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\MainForm.cs",
+              "RelativeDocumentMoniker": "KullaniciGirisi\\MainForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\MainForm.cs",
+              "RelativeToolTip": "KullaniciGirisi\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:27:27.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\MainForm.cs",
+              "RelativeDocumentMoniker": "KullaniciGirisi\\MainForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\MainForm.cs [Design]",
+              "RelativeToolTip": "KullaniciGirisi\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:27:03.296Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\Giris.cs",
+              "RelativeDocumentMoniker": "KullaniciGirisi\\Giris.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\Giris.cs",
+              "RelativeToolTip": "KullaniciGirisi\\Giris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:25:23.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Giris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\Giris.cs",
+              "RelativeDocumentMoniker": "KullaniciGirisi\\Giris.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\KullaniciGirisi\\KullaniciGirisi\\Giris.cs [Design]",
+              "RelativeToolTip": "KullaniciGirisi\\Giris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:20:51.94Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

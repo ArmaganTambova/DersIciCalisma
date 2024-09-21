@@ -1,0 +1,14 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\bin\Debug\WinFormKontrolleri.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\bin\Debug\WinFormKontrolleri.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\bin\Debug\WinFormKontrolleri.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.MaskedTextBox.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.TakvimKontolleri.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.RadioButton.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.ComboBox.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.ImageWiever.resources

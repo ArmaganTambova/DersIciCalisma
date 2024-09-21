@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\bin\Debug\MenuKullanimi.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\bin\Debug\MenuKullanimi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\bin\Debug\MenuKullanimi.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\obj\Debug\MenuKullanimi.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\obj\Debug\MenuKullanimi.MainForm.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\obj\Debug\MenuKullanimi.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\obj\Debug\MenuKullanimi.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\obj\Debug\MenuKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\obj\Debug\MenuKullanimi.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\MenuKullanimi\MenuKullanimi\obj\Debug\MenuKullanimi.pdb
