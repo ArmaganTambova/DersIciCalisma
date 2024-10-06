@@ -1,0 +1,11 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\bin\Debug\NorthWindWindowsApp.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\bin\Debug\NorthWindWindowsApp.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\bin\Debug\NorthWindWindowsApp.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\obj\Debug\NorthWindWindowsApp.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\obj\Debug\NorthWindWindowsApp.CategoriesForm.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\obj\Debug\NorthWindWindowsApp.MainForm.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\obj\Debug\NorthWindWindowsApp.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\obj\Debug\NorthWindWindowsApp.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\obj\Debug\NorthWindWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\obj\Debug\NorthWindWindowsApp.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\NorthWindWindowsApp\NorthWindWindowsApp\obj\Debug\NorthWindWindowsApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\obj\Debug\JsonSeri.2D0B9DEB.Up2Date
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\Odevler\Console\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.pdb

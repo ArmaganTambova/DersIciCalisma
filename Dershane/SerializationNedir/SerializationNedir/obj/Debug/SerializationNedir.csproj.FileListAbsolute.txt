@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\bin\Debug\SerializationNedir.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\bin\Debug\SerializationNedir.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\bin\Debug\SerializationNedir.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\obj\Debug\SerializationNedir.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\obj\Debug\SerializationNedir.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\obj\Debug\SerializationNedir.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\obj\Debug\SerializationNedir.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\bin\Debug\Newtonsoft.Json.dll
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\bin\Debug\Newtonsoft.Json.xml
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\SerializationNedir\SerializationNedir\obj\Debug\Serializ.2C8FE433.Up2Date

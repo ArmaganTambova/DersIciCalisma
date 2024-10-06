@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindwindowsapp\\northwindwindowsapp\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|solutionrelative:northwindwindowsapp\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindwindowsapp\\northwindwindowsapp\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|solutionrelative:northwindwindowsapp\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindwindowsapp\\northwindwindowsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|solutionrelative:northwindwindowsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindwindowsapp\\northwindwindowsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|solutionrelative:northwindwindowsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindwindowsapp\\northwindwindowsapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D365D38-D24B-4A0F-9478-09B7D4538EB9}|NorthWindWindowsApp\\NorthWindWindowsApp.csproj|solutionrelative:northwindwindowsapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "NorthWindWindowsApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\MainForm.cs",
+              "RelativeToolTip": "NorthWindWindowsApp\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:20:26.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesForm.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\CategoriesForm.cs",
+              "RelativeDocumentMoniker": "NorthWindWindowsApp\\CategoriesForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\CategoriesForm.cs",
+              "RelativeToolTip": "NorthWindWindowsApp\\CategoriesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:18:52.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\CategoriesForm.cs",
+              "RelativeDocumentMoniker": "NorthWindWindowsApp\\CategoriesForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\CategoriesForm.cs [Design]",
+              "RelativeToolTip": "NorthWindWindowsApp\\CategoriesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:15:33.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "NorthWindWindowsApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "NorthWindWindowsApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:11:26.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "NorthWindWindowsApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindWindowsApp\\NorthWindWindowsApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "NorthWindWindowsApp\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:14:19.749Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\AttributeKavrami\AttributeKavrami\bin\Release\AttributeKavrami.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\AttributeKavrami\AttributeKavrami\bin\Release\AttributeKavrami.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\AttributeKavrami\AttributeKavrami\bin\Release\AttributeKavrami.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\AttributeKavrami\AttributeKavrami\obj\Release\AttributeKavrami.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\AttributeKavrami\AttributeKavrami\obj\Release\AttributeKavrami.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\AttributeKavrami\AttributeKavrami\obj\Release\AttributeKavrami.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\AttributeKavrami\AttributeKavrami\obj\Release\AttributeKavrami.pdb
