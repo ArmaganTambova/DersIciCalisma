@@ -1,0 +1,33 @@
+﻿@model MerhabaMVC.Models.Ogrenci
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ekle</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <div>
+                <label>İsim</label> <br />
+                <input type="text" name="Isim" />
+            </div>
+
+            <div>
+                <label>Soyisim</label> <br />
+                <input type="text" name="Soyisim" />
+            </div>
+
+            <div>
+                <input type="submit" value="Ogrenci Ekle" />
+            </div>
+        }
+    </div>
+</body>
+</html>

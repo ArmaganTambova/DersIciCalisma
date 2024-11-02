@@ -1,0 +1,17 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\bin\Debug\ErdalSuperMarket.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\bin\Debug\ErdalSuperMarket.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\bin\Debug\ErdalSuperMarket.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\bin\Debug\EntityFramework.dll
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\bin\Debug\EntityFramework.xml
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSuperMarket.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSuperMarket.Properties.Resources.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSuperMarket.csproj.GenerateResource.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSup.E1373940.Up2Date
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSuperMarket.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSuperMarket.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSuperMarket.MainForm.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSuperMarket.Kategoriler.resources
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Dershane\ErdalSuperMarket\ErdalSuperMarket\obj\Debug\ErdalSuperMarket.ProductForm.resources

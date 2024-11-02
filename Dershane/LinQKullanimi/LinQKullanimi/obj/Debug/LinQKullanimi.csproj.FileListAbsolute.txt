@@ -1,0 +1,7 @@
+C:\Users\oguzc\source\repos\LinQKullanimi\LinQKullanimi\bin\Debug\LinQKullanimi.exe.config
+C:\Users\oguzc\source\repos\LinQKullanimi\LinQKullanimi\bin\Debug\LinQKullanimi.exe
+C:\Users\oguzc\source\repos\LinQKullanimi\LinQKullanimi\bin\Debug\LinQKullanimi.pdb
+C:\Users\oguzc\source\repos\LinQKullanimi\LinQKullanimi\obj\Debug\LinQKullanimi.csproj.AssemblyReference.cache
+C:\Users\oguzc\source\repos\LinQKullanimi\LinQKullanimi\obj\Debug\LinQKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\oguzc\source\repos\LinQKullanimi\LinQKullanimi\obj\Debug\LinQKullanimi.exe
+C:\Users\oguzc\source\repos\LinQKullanimi\LinQKullanimi\obj\Debug\LinQKullanimi.pdb

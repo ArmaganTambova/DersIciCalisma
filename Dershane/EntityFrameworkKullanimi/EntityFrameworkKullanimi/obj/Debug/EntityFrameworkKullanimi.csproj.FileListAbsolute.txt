@@ -1,0 +1,12 @@
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFrameworkKullanimi.exe.config
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFrameworkKullanimi.exe
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFrameworkKullanimi.pdb
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFramework.dll
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFramework.xml
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.csproj.AssemblyReference.cache
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFr.2D86E407.Up2Date
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.exe
+C:\Users\oguzc\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.pdb

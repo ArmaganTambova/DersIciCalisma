@@ -1,0 +1,35 @@
+﻿@model MerhabaMVC.Models.Kategori
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ekle</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <div>
+                @Html.LabelFor(x => x.Name) <br />
+                @Html.EditorFor(x => x.Name)
+                @Html.ValidationMessageFor(x => x.Name, "", new {@style="color:red"})
+            </div>
+
+            <div>
+                @Html.LabelFor(x => x.Description) <br />
+                @Html.EditorFor(x => x.Description)
+                @Html.ValidationMessageFor(x => x.Description, "", new {@style="color:red"})
+            </div>
+
+            <div>
+                <input type="submit" value="Kategori Ekle" />
+            </div>
+        }
+    </div>
+</body>
+</html>

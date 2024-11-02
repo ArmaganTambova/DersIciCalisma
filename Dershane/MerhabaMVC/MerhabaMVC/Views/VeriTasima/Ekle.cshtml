@@ -1,0 +1,32 @@
+﻿@model MerhabaMVC.Models.Ogrenci
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ekle</title>
+</head>
+<body>
+    <div> 
+        <label>@Model.Isim</label> <label>@Model.Soyisim</label>
+        <br />
+
+        <label>@ViewBag.IsimSoyad</label>
+
+        <br />
+
+        <label>@TempData["İsim Soyad"]</label>
+
+        <br />
+
+        @{ 
+            MerhabaMVC.Models.Ogrenci ogr = (MerhabaMVC.Models.Ogrenci)ViewBag.Ogrenci; // Unboxing
+        }
+        <label>@ogr.Isim</label> <label>@ogr.Soyisim</label>
+    </div>
+</body>
+</html>

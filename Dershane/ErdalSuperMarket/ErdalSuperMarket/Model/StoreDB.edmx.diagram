@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="25b369cc6f1644e3b0fa218e19e90da1" Name="Diagram1">
+        <EntityTypeShape EntityType="EHupifey_Store_DBModel.Brands" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="EHupifey_Store_DBModel.Categories" Width="1.5" PointX="0.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="EHupifey_Store_DBModel.Employees" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EHupifey_Store_DBModel.Products" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="EHupifey_Store_DBModel.Purchases" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EHupifey_Store_DBModel.Sales" Width="1.5" PointX="8.25" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EHupifey_Store_DBModel.Suppliers" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="EHupifey_Store_DBModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EHupifey_Store_DBModel.AllProducts" Width="1.5" PointX="7.75" PointY="8.5" IsExpanded="true" />
+        <AssociationConnector Association="EHupifey_Store_DBModel.FK_ProductsBrands" ManuallyRouted="false" />
+        <AssociationConnector Association="EHupifey_Store_DBModel.FK_ProductsCategories" ManuallyRouted="false" />
+        <AssociationConnector Association="EHupifey_Store_DBModel.FK_PurchasesEmployees" ManuallyRouted="false" />
+        <AssociationConnector Association="EHupifey_Store_DBModel.FK_SalesEmployees" ManuallyRouted="false" />
+        <AssociationConnector Association="EHupifey_Store_DBModel.FK_PurchasesProduct" ManuallyRouted="false" />
+        <AssociationConnector Association="EHupifey_Store_DBModel.FK_SalesProducts" ManuallyRouted="false" />
+        <AssociationConnector Association="EHupifey_Store_DBModel.FK_PurchasesSuppliers" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

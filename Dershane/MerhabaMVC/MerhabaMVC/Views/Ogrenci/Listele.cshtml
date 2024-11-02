@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MerhabaMVC.Models.Ogrenci>
+@using MerhabaMVC.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Listele</title>
+</head>
+<body>
+    <div>
+        @foreach (Ogrenci item in Model)
+        {
+            <label>@item.Id</label>
+            <label>@item.Isim</label>
+            <label>@item.Soyisim</label>
+            <br />
+        }
+
+        <h3>Tablo Olarak Listeliyelim</h3>
+        <table cellpadding="0" cellspacing="0" border="1">
+            <tr>
+                <th>ID</th>
+                <th>İsim</th>
+                <th>Soyisim</th>
+            </tr>
+            @foreach (Ogrenci item in Model)
+            {
+                if (item.Id % 2 == 0)
+                {
+                    <tr>
+                        <td style="background-color:#ff0000">@item.Id</td>
+                        <td style="background-color:#ff0000">@item.Isim</td>
+                        <td style="background-color:#ff0000">@item.Soyisim</td>
+                    </tr>
+                }
+                else
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Isim</td>
+                        <td>@item.Soyisim</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</body>
+</html>
