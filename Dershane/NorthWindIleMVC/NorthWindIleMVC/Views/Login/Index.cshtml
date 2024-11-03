@@ -1,0 +1,51 @@
+﻿@model NorthWindIleMVC.Models.ViewModels.LoginViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Assets/CSS/LoginPage.css" rel="stylesheet" />
+    <title>NorthWind İle Eğlenmece</title>
+</head>
+<body>
+    <div class="BackgroundTop">
+        
+    </div>
+
+    <div class="LoginPanel">
+        <div class="LockIcon"></div>
+
+        <h2 class="PanelTitle">Giriş Yapın</h2>
+
+        @using (Html.BeginForm())
+        {
+            if (ViewBag.Error != null)
+            {
+                <div class="ErrorPanel">
+                    <label>Kullanıcı Bulunamadı</label>
+                </div>
+            }
+
+            <div class="Row">
+                <label>Kullanıcı Adı</label>
+                @Html.EditorFor(x => x.Username, new { htmlAttributes = new { @class = "textBox" } })
+                @Html.ValidationMessageFor(x => x.Username, "", new { @class = "ErrorMessage" })
+            </div>
+
+            <div class="Row">
+                <label>Şifre</label>
+                @Html.EditorFor(x => x.Password, new { htmlAttributes = new { @class = "textBox" } })
+                @Html.ValidationMessageFor(x => x.Password, "", new { @class = "ErrorMessage" })
+            </div>
+
+            <div class="Row" style="text-align:center">
+                <input type="submit" class="LoginButton" value="Giriş Yap" />
+            </div>
+        }
+    </div>
+</body>
+</html>

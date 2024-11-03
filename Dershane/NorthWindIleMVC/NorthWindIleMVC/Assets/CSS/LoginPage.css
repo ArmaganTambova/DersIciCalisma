@@ -1,0 +1,93 @@
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #560FB3;
+    font-family: Calibri;
+}
+
+.BackgroundTop {
+    height: 300px;
+    background-image: url(../Images/login_bg.jpg);
+    background-size: cover;
+}
+
+.LoginPanel {
+    border-radius : 20px;
+    background-color: white;
+    width: 400px;
+    min-height: 400px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -150px;
+    text-align: center;
+}
+
+.LockIcon {
+    width: 120px;
+    height: 120px;
+    border: 5px solid white;
+    border-radius: 65px;
+    background-image: url(../Images/lock.jpg);
+    background-size: cover;
+    margin-top: -100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.PanelTitle {
+    color: #5ED7FF;
+    margin: 10px 0 0 0;
+}
+
+.Row {
+    margin: 20px 0;
+    text-align: left;
+    margin: 50px 0 0 0;
+}
+
+.Row label {
+    color: dimgray;
+    margin-left: 7px;
+}
+
+.Row .textBox {
+    background-color: #EEEEEE;
+    width: 100%;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+}
+
+.LoginButton {
+    background-color: #5ED7FF;
+    color: white;
+    padding: 10px 100px;
+    border-radius: 50px;
+    font-weight: 900;
+    border: none;
+}
+
+.LoginButton:hover {
+    background-color: #0CA6D8;
+    cursor: pointer;
+}
+
+.ErrorMessage {
+    color: red;
+    margin-left: 10px;
+}
+
+.ErrorPanel {
+    background-color: #C82D2D;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 25px;
+    color: white;
+}
