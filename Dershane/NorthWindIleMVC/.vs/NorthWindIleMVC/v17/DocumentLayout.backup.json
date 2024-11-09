@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindilemvc\\northwindilemvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|solutionrelative:northwindilemvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindilemvc\\northwindilemvc\\views\\kategori\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|solutionrelative:northwindilemvc\\views\\kategori\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\northwindilemvc\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|solutionrelative:northwindilemvc\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindilemvc\\northwindilemvc\\views\\kategori\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|solutionrelative:northwindilemvc\\views\\kategori\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindilemvc\\northwindilemvc\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|solutionrelative:northwindilemvc\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindilemvc\\northwindilemvc\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|solutionrelative:northwindilemvc\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindilemvc\\northwindilemvc\\assets\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|solutionrelative:northwindilemvc\\assets\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\northwindilemvc\\northwindilemvc\\assets\\css\\mainstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A3C4073-BB5B-43A0-88A9-42A92CA51ECC}|NorthWindIleMVC\\NorthWindIleMVC.csproj|solutionrelative:northwindilemvc\\assets\\css\\mainstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +55,98 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "NorthWindIleMVC\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "NorthWindIleMVC\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Kategori\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NorthWindIleMVC\\Views\\Kategori\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Kategori\\Edit.cshtml",
+              "RelativeToolTip": "NorthWindIleMVC\\Views\\Kategori\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T09:36:53.318Z",
+              "WhenOpened": "2024-11-09T09:38:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "NorthWindIleMVC\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "NorthWindIleMVC\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T09:08:13.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Kategori\\Create.cshtml",
+              "RelativeDocumentMoniker": "NorthWindIleMVC\\Views\\Kategori\\Create.cshtml",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Kategori\\Create.cshtml",
+              "RelativeToolTip": "NorthWindIleMVC\\Views\\Kategori\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:09:47.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "NorthWindIleMVC\\Controllers\\KategoriController.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "NorthWindIleMVC\\Controllers\\KategoriController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:22:21.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "NorthWindIleMVC\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "NorthWindIleMVC\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T07:32:09.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainStyle.css",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Assets\\CSS\\MainStyle.css",
+              "RelativeDocumentMoniker": "NorthWindIleMVC\\Assets\\CSS\\MainStyle.css",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Assets\\CSS\\MainStyle.css",
+              "RelativeToolTip": "NorthWindIleMVC\\Assets\\CSS\\MainStyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-09T07:30:25.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormStyle.css",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Assets\\CSS\\FormStyle.css",
+              "RelativeDocumentMoniker": "NorthWindIleMVC\\Assets\\CSS\\FormStyle.css",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\NorthWindIleMVC\\NorthWindIleMVC\\Assets\\CSS\\FormStyle.css",
+              "RelativeToolTip": "NorthWindIleMVC\\Assets\\CSS\\FormStyle.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-09T08:14:33.309Z",
               "EditorCaption": ""
             }
           ]

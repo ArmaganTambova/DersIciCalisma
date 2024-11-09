@@ -1,0 +1,47 @@
+﻿@model NorthWindIleMVC.Models.Categories
+@{
+    ViewBag.Title = "Kategori Ekle";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="PageTitle">
+    <h1>Kategori Ekle</h1>
+</div>
+
+<div class="FormController">
+    @using (Html.BeginForm())
+    {
+        if (ViewBag.Status != null)
+        {
+            if (ViewBag.Status == "1")
+            {
+                <div class="Success">
+                    @ViewBag.Message
+                </div>
+            }
+
+            if (ViewBag.Status == "0")
+            {
+                <div class="Error">
+                    @ViewBag.Message
+                </div>
+            }
+        }
+
+        <div class="Row">
+            <label class="ControllerLabel">Kategori Adı</label>
+            @Html.EditorFor(C => C.CategoryName, new { htmlAttributes = new { @class = "textbox" } })
+        </div>
+        <div class="Row">
+            <label class="ControllerLabel">Açıklama</label>
+            @Html.EditorFor(C => C.Description, new { htmlAttributes = new { @class = "textbox" } })
+        </div>
+        <div class="Row">
+            <input type="submit" value="Kategori Ekle" class="SubmitButton"/>
+        </div>
+    }
+</div>
+
+@section styles {
+    <link href="~/Assets/CSS/FormStyle.css" rel="stylesheet" />
+}

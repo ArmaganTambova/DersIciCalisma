@@ -3,11 +3,28 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
+    <link href="~/Assets/CSS/MainStyle.css" rel="stylesheet" />
     <title>@ViewBag.Title</title>
+    @RenderSection("styles", false)
 </head>
 <body>
-    <div>
-        @RenderBody()
+    <div class="MainContainer">
+        <div class="TopBar">
+            <h1>NorthWind Ticaret</h1> <h4>Admin Panel</h4>
+        </div>
+
+        <div class="MenuBar">
+            <a href="@Url.Action("Index", "Home")">Anasayfa</a>
+            <a href="@Url.Action("Create", "Kategori")">Kategori İşlemleri</a>
+            <a href="#">Tedarikçi İşlemleri</a>
+            <a href="#">Ürün İşlemleri</a>
+            <a href="#">Müşteriler</a>
+            <a href="#">Satışlar</a>
+        </div>
+
+        <div class="ContentContainer">
+            @RenderBody()
+        </div>
     </div>
 </body>
 </html>

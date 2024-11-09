@@ -1,0 +1,106 @@
+﻿body {
+}
+
+.PageTitle {
+    color: dimgray;
+    font-weight: 900;
+    border-bottom: 1px solid silver;
+    padding: 10px;
+}
+
+.FormContainer {
+
+}
+
+.Row {
+    margin: 15px 0;
+}
+
+.ControllerLabel {
+    color: dimgray;
+}
+
+.textbox {
+    width: 100%;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 7px;
+    border-radius: 10px;
+    border: 1px solid dimgray;
+}
+
+.SubmitButton {
+    background-color: #C600FF;
+    color: white;
+    padding: 7px 50px;
+    border-radius: 25px;
+    border: none;
+    font-weight: 900;
+}
+
+.SubmitButton:hover {
+    background-color: #AE5BC6;
+    cursor: pointer;
+}
+
+.Success {
+    padding: 15px;
+    margin-top: 10px;
+    background-color: lightseagreen;
+    color: white;
+    border-radius: 15px;
+}
+
+.Error {
+    padding: 15px;
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+}
+
+.FormTable {
+    width: 100%;
+}
+
+.FormTable tr {
+
+}
+
+.FormTable tr th {
+    border-bottom: 2px solid silver;
+    padding: 5px;
+    text-align: left;
+    background-color: #C600FF;
+    color: white;
+}
+
+.FormTable tr td {
+    border-bottom: 1px solid silver;
+    padding: 5px;
+}
+
+.TableButton {
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.Duzenle {
+    background-color: #1caa2c;
+    padding: 3px 6px 3px 6px;
+}
+
+.Duzenle:hover {
+    background-color: #24725a;
+}
+
+.Sil {
+    background-color: #a00f0f;
+    padding: 3px 10px 3px 10px;
+}
+
+.Sil:hover {
+    background-color: #960f0f;
+}
