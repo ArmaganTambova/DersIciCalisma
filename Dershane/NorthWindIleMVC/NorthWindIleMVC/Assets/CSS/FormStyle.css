@@ -104,3 +104,50 @@
 .Sil:hover {
     background-color: #960f0f;
 }
+
+.DeleteAccess {
+    padding: 15px;
+    margin-top: 10px;
+    color: white;
+    background-color: #1caa2c;
+    border-radius: 15px;
+}
+
+.DeleteNotAccess {
+    padding: 15px;
+    margin-top: 10px;
+    color: white;
+    background-color: #a00f0f;
+    border-radius: 15px;
+}
+
+.DeleteBase {
+    margin-top: 10px;
+    height: 33px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.DeleteBase a {
+    margin-left: 10px;
+    padding: 7px 50px;
+    background-color: #C600FF;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: 900;
+}
+
+.PageTitleUrl {
+    color: dimgray;
+    margin-top: 10px;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.PageTitleUrl:hover {
+    color: #C600FF;
+    text-decoration: underline;
+}

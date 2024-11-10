@@ -44,3 +44,21 @@ body {
 .ContentContainer {
     padding: 15px;
 }
+
+.Title {
+    float: left
+}
+
+.User {
+    float: right;
+    font-weight: 900;
+}
+
+.User a {
+    text-decoration: none;
+    padding: 7px 20px;
+    margin-left: 5px;
+    background-color: #C600FF;
+    color: white;
+    border-radius: 25px;
+}

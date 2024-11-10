@@ -1,5 +1,12 @@
 ﻿<!DOCTYPE html>
+@*@if (Session["Employee"] == null)
+{
+    Response.Redirect("~/Login/Index");
+}*@
 
+@{ 
+    NorthWindIleMVC.Models.Employees user = (NorthWindIleMVC.Models.Employees)Session["Employee"];
+}
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
@@ -10,12 +17,19 @@
 <body>
     <div class="MainContainer">
         <div class="TopBar">
-            <h1>NorthWind Ticaret</h1> <h4>Admin Panel</h4>
+            <div class="Title">
+                <h1>NorthWind Ticaret</h1> <h4>Admin Panel</h4>
+            </div>
+            <div class="User">
+                <label>@user.FirstName @user.LastName (@user.UserName)</label>
+                <a href="@Url.Action("LogOut", "Login")">Güvenli Çıkış</a>
+            </div>
+            <div style="clear:both"></div>
         </div>
 
         <div class="MenuBar">
             <a href="@Url.Action("Index", "Home")">Anasayfa</a>
-            <a href="@Url.Action("Create", "Kategori")">Kategori İşlemleri</a>
+            <a href="@Url.Action("Index", "Kategori")">Kategori İşlemleri</a>
             <a href="#">Tedarikçi İşlemleri</a>
             <a href="#">Ürün İşlemleri</a>
             <a href="#">Müşteriler</a>

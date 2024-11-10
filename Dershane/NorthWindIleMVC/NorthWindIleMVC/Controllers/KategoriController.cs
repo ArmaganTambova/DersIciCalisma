@@ -1,4 +1,5 @@
-﻿using NorthWindIleMVC.Models;
+﻿using NorthWindIleMVC.Filters;
+using NorthWindIleMVC.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -8,6 +9,7 @@ using System.Web.Mvc;
 
 namespace NorthWindIleMVC.Controllers
 {
+    [LoginControl]
     public class KategoriController : Controller
     {
         NORTHWNDEntities DB = new NORTHWNDEntities();
@@ -80,6 +82,31 @@ namespace NorthWindIleMVC.Controllers
             }
 
             return View();
+        }
+
+        [HttpGet]
+        public ActionResult Delete(int Id)
+        {
+            Categories c = DB.Categories.Find(Id);
+            if (c == null)
+            {
+                return RedirectToAction("Index", "Kategori");
+            }
+
+            return View(c);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public ActionResult DeleteConfirmed(int Id)
+        {
+            Categories c = DB.Categories.Find(Id);
+            if (c != null)
+            {
+                DB.Categories.Remove(c);
+                DB.SaveChanges();
+            }
+
+            return RedirectToAction("Index", "Kategori");
         }
     }
 }

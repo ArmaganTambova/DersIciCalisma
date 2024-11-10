@@ -39,5 +39,11 @@ namespace NorthWindIleMVC.Controllers
 
             return View();
         }
+
+        public ActionResult LogOut()
+        {
+            Session["Employee"] = null;
+            return RedirectToAction("Index", "Login");
+        }
     }
 }

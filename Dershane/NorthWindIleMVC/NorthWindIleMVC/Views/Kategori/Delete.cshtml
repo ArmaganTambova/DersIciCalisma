@@ -1,0 +1,57 @@
+﻿@model NorthWindIleMVC.Models.Categories
+@{
+    ViewBag.Title = "Kategori Sil";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="PageTitle">
+    <h1>Kategori Sil</h1>
+</div>
+
+<div class="FormContainer">
+    <table class="FormTable" cellpadding="0" cellspacing="0" style="margin-top: 10px; border-top: 1px solid silver; border-right: 1px solid silver; border-left: 1px solid silver ">
+        <tr>
+            <th>ID</th>
+            <td>@Model.CategoryID</td>
+        </tr>
+
+        <tr>
+            <th>İsim</th>
+            <td>@Model.CategoryName</td>
+        </tr>
+
+        <tr>
+            <th>Açıklama</th>
+            <td>@Model.Description</td>
+        </tr>
+    </table>
+
+    @if (Model.Products.Count == 0)
+    {
+        <div class="DeleteAccess">
+            <label><strong>Bağlı Ürün Sayısı = @Model.Products.Count</strong> Bu Kategori Silme İşlemi İçin Uygundur</label>
+        </div>
+        <div class="DeleteBase">
+            @using (Html.BeginForm())
+            {
+                <input type="submit" value="Sil" class="SubmitButton" style="background-color: #a00f0f"/>
+
+                <a href="@Url.Action("Index", "Kategori")">Listeye Geri Gön</a>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="DeleteNotAccess">
+            <label><strong>Bağlı Ürün Sayısı = @Model.Products.Count</strong> Bu Kategori Silme İşlemi İçin Uygun Değildir</label>
+        </div>
+
+        <div class="DeleteBase">
+            <a href="@Url.Action("Index", "Kategori")">Listeye Geri Gön</a>
+        </div>
+    }
+</div>
+
+@section styles{
+    <link href="~/Assets/CSS/FormStyle.css" rel="stylesheet" />
+}
