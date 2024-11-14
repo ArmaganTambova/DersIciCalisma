@@ -1,0 +1,54 @@
+﻿@model TechLib.Models.ModelView.LoginViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Assets/CSS/LoginPage.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" sizes="120x104" href="~/Assets/Images/TechLibLogo.png" />
+    <title>TechLib</title>
+</head>
+<body>
+    <div class="MainContainer">
+        <div class="LoginContainer">
+            <div class="LoginHeader">
+                Welcome
+            </div>
+            
+            <div class="Login">
+                @using (Html.BeginForm())
+                {
+                    if (ViewBag.Message != null)
+                    {
+                        <div class="ErrorMessage">
+                            @ViewBag.Message
+                        </div>
+                    }
+
+                    <div class="LoginInput">
+                        @Html.EditorFor(X => X.ID, new { htmlAttributes = new { @class = "TextBox" } })
+                        @Html.ValidationMessageFor(X => X.ID, "", new { @class = "ErrorMessageLogin" })
+                    </div>
+
+                    <div class="LoginInput">
+                        @Html.EditorFor(X => X.UserPassword, new { htmlAttributes = new { @class = "TextBox" } })
+                        @Html.ValidationMessageFor(X => X.UserPassword, "", new { @class = "ErrorMessageLogin" })
+                    </div>
+
+                    <div class="SubmitButtonContainer">
+                        <input type="submit" value="Login" class="SubmitButton"/>
+                    </div>
+                }
+            </div>
+
+            <div class="ForgotPassword">
+                <a href="@Url.Action("ForgotPassword", "Login")">I Forgot My Password</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

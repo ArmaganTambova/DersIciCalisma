@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cbae41dd11c646df8fe24ae00614cdcd" Name="Diagram1">
+        <EntityTypeShape EntityType="TechLib_DBModel.ActivityLogs" Width="1.5" PointX="5.25" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Alerts" Width="1.5" PointX="5.25" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Authors" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Books" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Genres" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Languages" Width="1.5" PointX="0.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Loans" Width="1.5" PointX="5.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.PublishingHouses" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Reservations" Width="1.5" PointX="8.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Students" Width="1.5" PointX="3" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Suspensions" Width="1.5" PointX="5.25" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="TechLib_DBModel.Users" Width="1.5" PointX="3" PointY="13.25" IsExpanded="true" />
+        <AssociationConnector Association="TechLib_DBModel.FK_UsersActivityLogs" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_StudentsAlerts" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_BooksLoans" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_BooksReservations" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_GenresBooks" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_LanguagesBooks" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_PublishingHousesBooks" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_StudentsLoans" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_UsersLoans" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_StudentsReservations" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_UsersReservations" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.FK_StudentsSuspensions" ManuallyRouted="false" />
+        <AssociationConnector Association="TechLib_DBModel.BooksAndAuthors" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

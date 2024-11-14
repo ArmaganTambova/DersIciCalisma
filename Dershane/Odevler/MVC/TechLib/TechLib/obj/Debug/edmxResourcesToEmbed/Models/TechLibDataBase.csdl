@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TechLib_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ActivityLogs">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="UserAction" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ActionTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Details" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_UsersActivityLogs" FromRole="ActivityLogs" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Alerts">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="AlertType" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AlertDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_StudentsAlerts" FromRole="Alerts" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Authors">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AuthorName" Type="String" MaxLength="75" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AuthorSurname" Type="String" MaxLength="75" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Books" Relationship="Self.BooksAndAuthors" FromRole="Authors" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Books">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BookName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GenreID" Type="Int32" Nullable="false" />
+    <Property Name="LanguageID" Type="Int32" Nullable="false" />
+    <Property Name="PublishingHouseID" Type="Int32" Nullable="false" />
+    <Property Name="BookNumber" Type="Int16" Nullable="false" />
+    <Property Name="Barcode" Type="String" MaxLength="13" FixedLength="false" Unicode="false" />
+    <Property Name="BookImage" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+    <Property Name="Active" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Loans" Relationship="Self.FK_BooksLoans" FromRole="Books" ToRole="Loans" />
+    <NavigationProperty Name="Reservations" Relationship="Self.FK_BooksReservations" FromRole="Books" ToRole="Reservations" />
+    <NavigationProperty Name="Genres" Relationship="Self.FK_GenresBooks" FromRole="Books" ToRole="Genres" />
+    <NavigationProperty Name="Languages" Relationship="Self.FK_LanguagesBooks" FromRole="Books" ToRole="Languages" />
+    <NavigationProperty Name="PublishingHouses" Relationship="Self.FK_PublishingHousesBooks" FromRole="Books" ToRole="PublishingHouses" />
+    <NavigationProperty Name="Authors" Relationship="Self.BooksAndAuthors" FromRole="Books" ToRole="Authors" />
+  </EntityType>
+  <EntityType Name="Genres">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GenreName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Books" Relationship="Self.FK_GenresBooks" FromRole="Genres" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Languages">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BookLanguage" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Books" Relationship="Self.FK_LanguagesBooks" FromRole="Languages" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Loans">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BookID" Type="Int32" Nullable="false" />
+    <Property Name="ProcessedByID" Type="Int32" Nullable="false" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="LoanDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ReturnDate" Type="DateTime" Precision="3" />
+    <Property Name="ActualReturnDate" Type="DateTime" Precision="3" />
+    <Property Name="Details" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Books" Relationship="Self.FK_BooksLoans" FromRole="Loans" ToRole="Books" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_StudentsLoans" FromRole="Loans" ToRole="Students" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_UsersLoans" FromRole="Loans" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="PublishingHouses">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PublishingHouseName" Type="String" MaxLength="75" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Books" Relationship="Self.FK_PublishingHousesBooks" FromRole="PublishingHouses" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Reservations">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BookID" Type="Int32" Nullable="false" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="ProcessedByID" Type="Int32" Nullable="false" />
+    <Property Name="ReservationsDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ExpirationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Status" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Details" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Books" Relationship="Self.FK_BooksReservations" FromRole="Reservations" ToRole="Books" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_StudentsReservations" FromRole="Reservations" ToRole="Students" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_UsersReservations" FromRole="Reservations" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="75" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="75" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EMail" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Grade" Type="String" MaxLength="2" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Section" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="SchoolNumber" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Active" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Alerts" Relationship="Self.FK_StudentsAlerts" FromRole="Students" ToRole="Alerts" />
+    <NavigationProperty Name="Loans" Relationship="Self.FK_StudentsLoans" FromRole="Students" ToRole="Loans" />
+    <NavigationProperty Name="Reservations" Relationship="Self.FK_StudentsReservations" FromRole="Students" ToRole="Reservations" />
+    <NavigationProperty Name="Suspensions" Relationship="Self.FK_StudentsSuspensions" FromRole="Students" ToRole="Suspensions" />
+  </EntityType>
+  <EntityType Name="Suspensions">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="SuspensionStartDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="SuspensionEndDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Reason" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_StudentsSuspensions" FromRole="Suspensions" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="75" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="75" FixedLength="false" Unicode="true" />
+    <Property Name="UserEmail" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="UserPassword" Type="Binary" MaxLength="32" FixedLength="false" Nullable="false" />
+    <Property Name="UserRole" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CreateTime" Type="DateTime" Precision="3" />
+    <Property Name="LastLogin" Type="DateTime" Precision="3" />
+    <Property Name="Active" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="ActivityLogs" Relationship="Self.FK_UsersActivityLogs" FromRole="Users" ToRole="ActivityLogs" />
+    <NavigationProperty Name="Loans" Relationship="Self.FK_UsersLoans" FromRole="Users" ToRole="Loans" />
+    <NavigationProperty Name="Reservations" Relationship="Self.FK_UsersReservations" FromRole="Users" ToRole="Reservations" />
+  </EntityType>
+  <Association Name="FK_UsersActivityLogs">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="ActivityLogs" Type="Self.ActivityLogs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ActivityLogs">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentsAlerts">
+    <End Role="Students" Type="Self.Students" Multiplicity="1" />
+    <End Role="Alerts" Type="Self.Alerts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Alerts">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BooksLoans">
+    <End Role="Books" Type="Self.Books" Multiplicity="1" />
+    <End Role="Loans" Type="Self.Loans" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Loans">
+        <PropertyRef Name="BookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BooksReservations">
+    <End Role="Books" Type="Self.Books" Multiplicity="1" />
+    <End Role="Reservations" Type="Self.Reservations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Reservations">
+        <PropertyRef Name="BookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GenresBooks">
+    <End Role="Genres" Type="Self.Genres" Multiplicity="1" />
+    <End Role="Books" Type="Self.Books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genres">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="GenreID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LanguagesBooks">
+    <End Role="Languages" Type="Self.Languages" Multiplicity="1" />
+    <End Role="Books" Type="Self.Books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Languages">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="LanguageID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PublishingHousesBooks">
+    <End Role="PublishingHouses" Type="Self.PublishingHouses" Multiplicity="1" />
+    <End Role="Books" Type="Self.Books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PublishingHouses">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="PublishingHouseID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentsLoans">
+    <End Role="Students" Type="Self.Students" Multiplicity="1" />
+    <End Role="Loans" Type="Self.Loans" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Loans">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UsersLoans">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Loans" Type="Self.Loans" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Loans">
+        <PropertyRef Name="ProcessedByID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentsReservations">
+    <End Role="Students" Type="Self.Students" Multiplicity="1" />
+    <End Role="Reservations" Type="Self.Reservations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Reservations">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UsersReservations">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Reservations" Type="Self.Reservations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Reservations">
+        <PropertyRef Name="ProcessedByID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentsSuspensions">
+    <End Role="Students" Type="Self.Students" Multiplicity="1" />
+    <End Role="Suspensions" Type="Self.Suspensions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Suspensions">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BooksAndAuthors">
+    <End Role="Authors" Type="Self.Authors" Multiplicity="*" />
+    <End Role="Books" Type="Self.Books" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="TechLib_DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ActivityLogs" EntityType="Self.ActivityLogs" />
+    <EntitySet Name="Alerts" EntityType="Self.Alerts" />
+    <EntitySet Name="Authors" EntityType="Self.Authors" />
+    <EntitySet Name="Books" EntityType="Self.Books" />
+    <EntitySet Name="Genres" EntityType="Self.Genres" />
+    <EntitySet Name="Languages" EntityType="Self.Languages" />
+    <EntitySet Name="Loans" EntityType="Self.Loans" />
+    <EntitySet Name="PublishingHouses" EntityType="Self.PublishingHouses" />
+    <EntitySet Name="Reservations" EntityType="Self.Reservations" />
+    <EntitySet Name="Students" EntityType="Self.Students" />
+    <EntitySet Name="Suspensions" EntityType="Self.Suspensions" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+    <AssociationSet Name="FK_UsersActivityLogs" Association="Self.FK_UsersActivityLogs">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="ActivityLogs" EntitySet="ActivityLogs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentsAlerts" Association="Self.FK_StudentsAlerts">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Alerts" EntitySet="Alerts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BooksLoans" Association="Self.FK_BooksLoans">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Loans" EntitySet="Loans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BooksReservations" Association="Self.FK_BooksReservations">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Reservations" EntitySet="Reservations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GenresBooks" Association="Self.FK_GenresBooks">
+      <End Role="Genres" EntitySet="Genres" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LanguagesBooks" Association="Self.FK_LanguagesBooks">
+      <End Role="Languages" EntitySet="Languages" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PublishingHousesBooks" Association="Self.FK_PublishingHousesBooks">
+      <End Role="PublishingHouses" EntitySet="PublishingHouses" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentsLoans" Association="Self.FK_StudentsLoans">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Loans" EntitySet="Loans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UsersLoans" Association="Self.FK_UsersLoans">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Loans" EntitySet="Loans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentsReservations" Association="Self.FK_StudentsReservations">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Reservations" EntitySet="Reservations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UsersReservations" Association="Self.FK_UsersReservations">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Reservations" EntitySet="Reservations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentsSuspensions" Association="Self.FK_StudentsSuspensions">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Suspensions" EntitySet="Suspensions" />
+    </AssociationSet>
+    <AssociationSet Name="BooksAndAuthors" Association="Self.BooksAndAuthors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

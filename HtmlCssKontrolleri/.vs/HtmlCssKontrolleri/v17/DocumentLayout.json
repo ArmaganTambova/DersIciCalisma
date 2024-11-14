@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\HtmlCssKontrolleri\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{882E395A-8631-4484-9D91-A3B96B669EF4}|HtmlCssKontrolleri\\HtmlCssKontrolleri.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\htmlcsskontrolleri\\htmlcsskontrolleri\\hepsiorada\\hepsiorada.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{882E395A-8631-4484-9D91-A3B96B669EF4}|HtmlCssKontrolleri\\HtmlCssKontrolleri.csproj|solutionrelative:htmlcsskontrolleri\\hepsiorada\\hepsiorada.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882E395A-8631-4484-9D91-A3B96B669EF4}|HtmlCssKontrolleri\\HtmlCssKontrolleri.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\htmlcsskontrolleri\\htmlcsskontrolleri\\hepsiorada\\css\\hepsioradastyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{882E395A-8631-4484-9D91-A3B96B669EF4}|HtmlCssKontrolleri\\HtmlCssKontrolleri.csproj|solutionrelative:htmlcsskontrolleri\\hepsiorada\\css\\hepsioradastyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -31,38 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 393,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HepsiOrada.html",
-              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\HtmlCssKontrolleri\\HtmlCssKontrolleri\\HepsiOrada\\HepsiOrada.html",
-              "RelativeDocumentMoniker": "HtmlCssKontrolleri\\HepsiOrada\\HepsiOrada.html",
-              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\HtmlCssKontrolleri\\HtmlCssKontrolleri\\HepsiOrada\\HepsiOrada.html",
-              "RelativeToolTip": "HtmlCssKontrolleri\\HepsiOrada\\HepsiOrada.html",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-19T15:56:33.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HepsiOradaStyle.css",
-              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\HtmlCssKontrolleri\\HtmlCssKontrolleri\\HepsiOrada\\Css\\HepsiOradaStyle.css",
-              "RelativeDocumentMoniker": "HtmlCssKontrolleri\\HepsiOrada\\Css\\HepsiOradaStyle.css",
-              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\HtmlCssKontrolleri\\HtmlCssKontrolleri\\HepsiOrada\\Css\\HepsiOradaStyle.css",
-              "RelativeToolTip": "HtmlCssKontrolleri\\HepsiOrada\\Css\\HepsiOradaStyle.css",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-14T20:03:49.836Z",
-              "EditorCaption": ""
             }
           ]
         }
