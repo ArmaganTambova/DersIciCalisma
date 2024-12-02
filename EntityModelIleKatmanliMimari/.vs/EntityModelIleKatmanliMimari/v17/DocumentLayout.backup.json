@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\EntityModelIleKatmanliMimari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{564B2D38-BCEE-4258-9FD7-9F6BB452CCF9}|EntityModelIleKatmanliMimari\\EntityModelIleKatmanliMimari.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\EntityModelIleKatmanliMimari\\entitymodelilekatmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564B2D38-BCEE-4258-9FD7-9F6BB452CCF9}|EntityModelIleKatmanliMimari\\EntityModelIleKatmanliMimari.csproj|solutionrelative:entitymodelilekatmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF7C221-B27D-4E46-ADF4-2FF3DC9D9F9E}|VeriErisimKatmani\\VeriErisimKatmani.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\entitymodelilekatmanlimimari\\verierisimkatmani\\veriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF7C221-B27D-4E46-ADF4-2FF3DC9D9F9E}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\veriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 493,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeriIslem.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\EntityModelIleKatmanliMimari\\VeriErisimKatmani\\VeriIslem.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\VeriIslem.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\EntityModelIleKatmanliMimari\\VeriErisimKatmani\\VeriIslem.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\VeriIslem.cs",
+              "ViewState": "AgIAAC4CAAAAAAAAAAAIwDwCAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:25:56.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\EntityModelIleKatmanliMimari\\EntityModelIleKatmanliMimari\\Program.cs",
+              "RelativeDocumentMoniker": "EntityModelIleKatmanliMimari\\Program.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\EntityModelIleKatmanliMimari\\EntityModelIleKatmanliMimari\\Program.cs",
+              "RelativeToolTip": "EntityModelIleKatmanliMimari\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:00:35.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\bin\Release\EntityModelIleKatmanliMimari.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\bin\Release\EntityModelIleKatmanliMimari.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\bin\Release\EntityModelIleKatmanliMimari.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\bin\Release\VeriErisimKatmani.dll
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\bin\Release\VeriErisimKatmani.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\obj\Release\EntityModelIleKatmanliMimari.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\obj\Release\EntityModelIleKatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\obj\Release\EntityMo.6FA3C8C4.Up2Date
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\obj\Release\EntityModelIleKatmanliMimari.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\EntityModelIleKatmanliMimari\EntityModelIleKatmanliMimari\obj\Release\EntityModelIleKatmanliMimari.pdb

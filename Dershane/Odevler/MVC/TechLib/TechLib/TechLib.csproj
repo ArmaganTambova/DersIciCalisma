@@ -96,7 +96,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\CSS\ForgotPassword.css" />
     <Content Include="Assets\CSS\LoginPage.css" />
     <Content Include="Global.asax" />
     <Content Include="Models\TechLibDataBase.Context.tt">
@@ -187,7 +186,6 @@
     </Content>
     <None Include="packages.config" />
     <Content Include="Views\Login\Index.cshtml" />
-    <Content Include="Views\Login\ForgotPassword.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

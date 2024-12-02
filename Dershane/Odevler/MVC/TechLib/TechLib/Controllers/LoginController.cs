@@ -46,22 +46,5 @@ namespace TechLib.Controllers
 
             return View();
         }
-
-        [HttpGet]
-        public ActionResult ForgotPassword()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public ActionResult ForgotPassword(ForgotPasswordViewModel model)
-        {
-            if (ModelState.IsValid)
-            {
-                ViewBag.ForgotMessage = "Message";
-            }
-
-            return View();
-        }
     }
 }

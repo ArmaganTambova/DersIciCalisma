@@ -30,23 +30,19 @@
                     }
 
                     <div class="LoginInput">
-                        @Html.EditorFor(X => X.ID, new { htmlAttributes = new { @class = "TextBox" } })
-                        @Html.ValidationMessageFor(X => X.ID, "", new { @class = "ErrorMessageLogin" })
+                        @Html.EditorFor(X => X.ID, new { htmlAttributes = new { @class = "TextBox", @placeholder = "User Number" } })
                     </div>
 
                     <div class="LoginInput">
-                        @Html.EditorFor(X => X.UserPassword, new { htmlAttributes = new { @class = "TextBox" } })
-                        @Html.ValidationMessageFor(X => X.UserPassword, "", new { @class = "ErrorMessageLogin" })
+                        @Html.EditorFor(X => X.UserPassword, new { htmlAttributes = new { @class = "TextBox", @placeholder = "User Password" } })
                     </div>
 
                     <div class="SubmitButtonContainer">
                         <input type="submit" value="Login" class="SubmitButton"/>
                     </div>
-                }
-            </div>
 
-            <div class="ForgotPassword">
-                <a href="@Url.Action("ForgotPassword", "Login")">I Forgot My Password</a>
+                    @Html.ValidationSummary()
+                }
             </div>
         </div>
     </div>
