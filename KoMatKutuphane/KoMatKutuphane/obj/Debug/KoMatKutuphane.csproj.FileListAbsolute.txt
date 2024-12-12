@@ -1,0 +1,11 @@
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\bin\Debug\KoMatKutuphane.exe.config
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\bin\Debug\KoMatKutuphane.exe
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\bin\Debug\KoMatKutuphane.pdb
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\obj\Debug\KoMatKutuphane.csproj.AssemblyReference.cache
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\obj\Debug\KoMatKutuphane.anaForm.resources
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\obj\Debug\KoMatKutuphane.dilIslemleri.resources
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\obj\Debug\KoMatKutuphane.Properties.Resources.resources
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\obj\Debug\KoMatKutuphane.csproj.GenerateResource.cache
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\obj\Debug\KoMatKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\obj\Debug\KoMatKutuphane.exe
+C:\Users\przsl\source\repos\KoMatKutuphane\KoMatKutuphane\obj\Debug\KoMatKutuphane.pdb

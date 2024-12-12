@@ -585,5 +585,131 @@ namespace VeriErisimKatmani
                 baglanti.Close();
             }
         }
+
+        public bool TurlerSil(int ID)
+        {
+            try
+            {
+                komut.CommandText = "DELETE FROM Turler WHERE ID = @ID";
+                komut.Parameters.Clear();
+                komut.Parameters.AddWithValue("@ID", ID);
+                baglanti.Open();
+                komut.ExecuteNonQuery();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+            finally
+            {
+                baglanti.Close();
+            }
+        }
+
+        public bool DilSil(int ID)
+        {
+            try
+            {
+                komut.CommandText = "DELETE FROM Diller WHERE ID = @ID";
+                komut.Parameters.Clear();
+                komut.Parameters.AddWithValue("@ID", ID);
+                baglanti.Open();
+                komut.ExecuteNonQuery();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+            finally
+            {
+                baglanti.Close();
+            }
+        }
+
+        public bool YazarSil(int ID)
+        {
+            try
+            {
+                komut.CommandText = "DELETE FROM Yazarlar WHERE ID = @ID";
+                komut.Parameters.Clear();
+                komut.Parameters.AddWithValue("@ID", ID);
+                baglanti.Open();
+                komut.ExecuteNonQuery();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+            finally
+            {
+                baglanti.Close();
+            }
+        }
+
+        public bool YayinEviSil(int ID)
+        {
+            try
+            {
+                komut.CommandText = "DELETE FROM YayinEvleri WHERE ID = @ID";
+                komut.Parameters.Clear();
+                komut.Parameters.AddWithValue("@ID", ID);
+                baglanti.Open();
+                komut.ExecuteNonQuery();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+            finally
+            {
+                baglanti.Close();
+            }
+        }
+
+        public bool KitaplarSil(int ID)
+        {
+            try
+            {
+                komut.CommandText = "DELETE FROM Kitaplar WHERE ID = @ID";
+                komut.Parameters.Clear();
+                komut.Parameters.AddWithValue("@ID", ID);
+                baglanti.Open();
+                komut.ExecuteNonQuery();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+            finally
+            {
+                baglanti.Close();
+            }
+        }
+
+        public bool KiralamaSil(int ID)
+        {
+            try
+            {
+                komut.CommandText = "DELETE FROM Kiralamalar WHERE ID = @ID";
+                komut.Parameters.Clear();
+                komut.Parameters.AddWithValue("@ID", ID);
+                baglanti.Open();
+                komut.ExecuteNonQuery();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+            finally
+            {
+                baglanti.Close();
+            }
+        }
     }
 }
