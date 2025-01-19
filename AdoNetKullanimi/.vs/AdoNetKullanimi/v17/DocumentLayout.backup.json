@@ -13,8 +13,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 318,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 1572,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,6 +29,10 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -36,9 +40,9 @@
               "RelativeDocumentMoniker": "AdoNetKullanimi\\Program.cs",
               "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\AdoNetKullanimi\\AdoNetKullanimi\\Program.cs",
               "RelativeToolTip": "AdoNetKullanimi\\Program.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T06:18:51.164Z",
+              "WhenOpened": "2025-01-09T05:50:36.643Z",
               "EditorCaption": ""
             }
           ]

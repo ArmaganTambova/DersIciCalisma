@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\komatkutuphane\\komatkutuphane\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|solutionrelative:komatkutuphane\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4296D813-6BA4-4EE8-974A-6D73AAD3E2B4}|veriErisimKatmani\\veriErisimKatmani.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\verierisimkatmani\\verimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4296D813-6BA4-4EE8-974A-6D73AAD3E2B4}|veriErisimKatmani\\veriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\verimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4296D813-6BA4-4EE8-974A-6D73AAD3E2B4}|veriErisimKatmani\\veriErisimKatmani.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\verierisimkatmani\\dil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4296D813-6BA4-4EE8-974A-6D73AAD3E2B4}|veriErisimKatmani\\veriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\dil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\komatkutuphane\\dilislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|solutionrelative:komatkutuphane\\dilislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\komatkutuphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|solutionrelative:komatkutuphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\komatkutuphane\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|solutionrelative:komatkutuphane\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\komatkutuphane\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\komatkutuphane\\anaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|solutionrelative:komatkutuphane\\anaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\komatkutuphane\\komatkutuphane\\dilislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|solutionrelative:komatkutuphane\\dilislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\komatkutuphane\\komatkutuphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADB3F5F-5470-4EF8-AEF4-52EE8538D748}|KoMatKutuphane\\KoMatKutuphane.csproj|solutionrelative:komatkutuphane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +33,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 1572,
           "SelectedChildIndex": 9,
           "Children": [
             {
@@ -58,57 +54,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dil.cs",
-              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\veriErisimKatmani\\Dil.cs",
-              "RelativeDocumentMoniker": "veriErisimKatmani\\Dil.cs",
-              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\veriErisimKatmani\\Dil.cs",
-              "RelativeToolTip": "veriErisimKatmani\\Dil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "dilIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\dilIslemleri.cs",
+              "RelativeDocumentMoniker": "KoMatKutuphane\\dilIslemleri.cs",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\dilIslemleri.cs",
+              "RelativeToolTip": "KoMatKutuphane\\dilIslemleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T06:21:36.915Z"
+              "WhenOpened": "2025-01-09T06:08:46.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "veriModel.cs",
-              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\veriErisimKatmani\\veriModel.cs",
-              "RelativeDocumentMoniker": "veriErisimKatmani\\veriModel.cs",
-              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\veriErisimKatmani\\veriModel.cs",
-              "RelativeToolTip": "veriErisimKatmani\\veriModel.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T06:16:43.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "anaForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\anaForm.Designer.cs",
               "RelativeDocumentMoniker": "KoMatKutuphane\\anaForm.Designer.cs",
               "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\anaForm.Designer.cs",
               "RelativeToolTip": "KoMatKutuphane\\anaForm.Designer.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowGIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T07:10:17.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "anaForm.cs",
               "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\anaForm.cs",
               "RelativeDocumentMoniker": "KoMatKutuphane\\anaForm.cs",
               "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\anaForm.cs",
               "RelativeToolTip": "KoMatKutuphane\\anaForm.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwCIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T06:57:11.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\Program.cs",
               "RelativeDocumentMoniker": "KoMatKutuphane\\Program.cs",
@@ -116,11 +101,12 @@
               "RelativeToolTip": "KoMatKutuphane\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:46:14.322Z"
+              "WhenOpened": "2024-12-05T06:46:14.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "anaForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\anaForm.cs",
               "RelativeDocumentMoniker": "KoMatKutuphane\\anaForm.cs",
@@ -132,14 +118,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dilIslemleri.cs [Tasar\u0131m]",
+              "DocumentIndex": 0,
+              "Title": "dilIslemleri.cs [Design]",
               "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\dilIslemleri.cs",
               "RelativeDocumentMoniker": "KoMatKutuphane\\dilIslemleri.cs",
-              "ToolTip": "C:\\Users\\przsl\\source\\repos\\KoMatKutuphane\\KoMatKutuphane\\dilIslemleri.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\przsl\\source\\repos\\KoMatKutuphane\\KoMatKutuphane\\dilIslemleri.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\KoMatKutuphane\\KoMatKutuphane\\dilIslemleri.cs [Design]",
+              "RelativeToolTip": "KoMatKutuphane\\dilIslemleri.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:34:54.092Z"
+              "WhenOpened": "2024-12-05T07:34:54.092Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

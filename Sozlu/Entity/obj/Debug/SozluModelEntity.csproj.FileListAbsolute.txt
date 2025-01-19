@@ -1,0 +1,7 @@
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Sozlu\Entity\bin\Debug\Entity.dll.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Sozlu\Entity\bin\Debug\Entity.dll
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Sozlu\Entity\bin\Debug\Entity.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Sozlu\Entity\obj\Debug\SozluModelEntity.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Sozlu\Entity\obj\Debug\SozluModelEntity.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Sozlu\Entity\obj\Debug\Entity.dll
+C:\Users\armif\OneDrive\Belgeler\GitHub\DersIciCalisma\Sozlu\Entity\obj\Debug\Entity.pdb
