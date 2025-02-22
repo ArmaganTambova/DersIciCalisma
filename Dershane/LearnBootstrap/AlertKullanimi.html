@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <title>Alert Kullanımı</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="bootstrap-5.3.3/css/bootstrap.min.css" rel="stylesheet">
+
+        <style>
+            button:active{border:none !important;}
+            button:focus {
+                outline: none !important;
+                box-shadow: none !important;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2>Standart Alert</h2>
+
+                    <div class="alert alert-success">
+                        <strong>Başarılı! </strong> Ekleme İşlemi Başarıyla Gerçekleşti
+                    </div>
+
+                    <div class="alert alert-info">
+                        <strong>Bilgi! </strong> Sunucu Bakımı 23/02/2025 Tarihinde Gerçekleştirilecektir
+                    </div>
+
+                    <div class="alert alert-warning">
+                        <strong>Dikkat! </strong> EMail Hesabınız Aktif Değil
+                    </div>
+
+                    <div class="alert alert-danger">
+                        <strong>Hata! </strong> Ekleme İşlemi Sırasında Bir Hata Oluştu
+                    </div>
+
+                    <div class="alert alert-primary">
+                        <strong>Armağan Tambova </strong> Kullanıcısı İle Giriş Yapıldı
+                    </div>
+
+                    <div class="alert alert-secondary">
+                        <strong>Başarılı! </strong> Çok Da Önemli Değil
+                    </div>
+
+                    <div class="alert alert-light">
+                        <strong>Başarılı! </strong> Ekleme İşlemi Başarıyla Gerçekleşti
+                    </div>
+
+                    <div class="alert alert-dark">
+                        <strong>Batman! </strong> Bu Gün İşe Gitmeyecek
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <h2>Alert Link</h2>
+
+                    <div class="alert alert-success">
+                        <strong>Başarılı! </strong> Ekleme İşlemi Başarıyla Gerçekleşti
+                        <a href="#" class="alert-link">Listeye Git</a>
+                    </div>
+
+                    <div class="alert alert-info">
+                        <strong>Bilgi! </strong> Sunucu Bakımı 23/02/2025 Tarihinde Gerçekleştirilecektir
+                        <a href="#" class="alert-link">Listeye Git</a>
+                    </div>
+
+                    <div class="alert alert-warning">
+                        <strong>Dikkat! </strong> EMail Hesabınız Aktif Değil
+                        <a href="#" class="alert-link">Listeye Git</a>
+                    </div>
+
+                    <div class="alert alert-danger">
+                        <strong>Hata! </strong> Ekleme İşlemi Sırasında Bir Hata Oluştu
+                        <a href="#" class="alert-link">Listeye Git</a>
+                    </div>
+
+                    <div class="alert alert-primary">
+                        <strong>Armağan Tambova </strong> Kullanıcısı İle Giriş Yapıldı
+                        <a href="#" class="alert-link">Listeye Git</a>
+                    </div>
+
+                    <div class="alert alert-secondary">
+                        <strong>Başarılı! </strong> Çok Da Önemli Değil
+                        <a href="#" class="alert-link">Listeye Git</a>
+                    </div>
+
+                    <div class="alert alert-light">
+                        <strong>Başarılı! </strong> Ekleme İşlemi Başarıyla Gerçekleşti
+                        <a href="#" class="alert-link">Listeye Git</a>
+                    </div>
+
+                    <div class="alert alert-dark">
+                        <strong>Batman! </strong> Bu Gün İşe Gitmeyecek
+                        <a href="#" class="alert-link">Listeye Git</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2>Ek Alertlar</h2>
+
+                    <div class="alert alert-success alert-dismissible">
+                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        <strong>Başarılı! </strong> Ekleme İşlemi Başarılı
+                    </div>
+
+                    <div class="alert alert-danger alert-dismissible fade show">
+                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        <strong>Hata! </strong> Ekleme İşlemi Başarısız
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="bootstrap-5.3.3/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>
