@@ -1,0 +1,105 @@
+<html>
+    <head>
+        <title>Select Menü</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="../bootstrap-5.3.3/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../fontawesome-free-6.7.2/css/all.min.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="container mt-3">
+            <h2>Tek Seçim</h2>
+            <p>Birden Çok Eleman Arasından Bir Eleman Seçin</p>
+
+            <div class="mb-3 mt-3">
+                <label for="teksecim">Eleman Seçiniz</label>
+
+                <select name="teksecim" id="teksecim" class="form-select">
+                    <option>Eleman 1</option>
+                    <option>Eleman 2</option>
+                    <option>Eleman 3</option>
+                    <option>Eleman 4</option>
+                    <option>Eleman 5</option>
+                    <option>Eleman 6</option>
+                </select>
+            </div>
+
+            <h2>Çok Seçim</h2>
+            <p>Birden Çok Eleman Arasından Birden Çok Eleman Seçin</p>
+
+            <div class="mt-3 mb-3">
+                <label for="coklusecim">Elemanları Seçiniz</label>
+
+                <select name="coklusecim" id="coklusecim" class="form-select" multiple>
+                    <option>Eleman 1</option>
+                    <option>Eleman 2</option>
+                    <option>Eleman 3</option>
+                    <option>Eleman 4</option>
+                    <option>Eleman 5</option>
+                    <option>Eleman 6</option>
+                </select>
+            </div>
+        </div>
+        
+        <div class="container mt-3">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="mb-3 mt-3">
+                        <label for="teksecim">Eleman Seçiniz - Large</label>
+        
+                        <select name="teksecim" id="teksecim" class="form-select form-select-lg">
+                            <option>Eleman 1</option>
+                            <option>Eleman 2</option>
+                            <option>Eleman 3</option>
+                            <option>Eleman 4</option>
+                            <option>Eleman 5</option>
+                            <option>Eleman 6</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3 mt-3">
+                        <label for="teksecim">Eleman Seçiniz - Standart</label>
+        
+                        <select name="teksecim" id="teksecim" class="form-select">
+                            <option>Eleman 1</option>
+                            <option>Eleman 2</option>
+                            <option>Eleman 3</option>
+                            <option>Eleman 4</option>
+                            <option>Eleman 5</option>
+                            <option>Eleman 6</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3 mt-3">
+                        <label for="teksecim">Eleman Seçiniz - Small</label>
+        
+                        <select name="teksecim" id="teksecim" class="form-select form-select-sm">
+                            <option>Eleman 1</option>
+                            <option>Eleman 2</option>
+                            <option>Eleman 3</option>
+                            <option>Eleman 4</option>
+                            <option>Eleman 5</option>
+                            <option>Eleman 6</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <label for="sehir" class="form-label">Şehir Giriniz</label>
+                    <input name="sehir" id="sehir" class="form-control" list="sehirler">
+                    <datalist id="sehirler">
+                        <option value="Ankara"></option>
+                        <option value="İstanbul"></option>
+                        <option value="Adana"></option>
+                        <option value="Eskişehir"></option>
+                        <option value="İzmir"></option>
+                        <option value="Antalya"></option>
+                    </datalist>
+                </div>
+            </div>
+        </div>
+
+        <script src="../bootstrap-5.3.3/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>
