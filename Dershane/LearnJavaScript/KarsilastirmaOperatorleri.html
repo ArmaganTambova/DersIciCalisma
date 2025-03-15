@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <title>Karşılaştırma Operatörleri</title>
+    </head>
+
+    <body>
+        <h3>Karşılaştırma Operatörleri</h3>
+
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var s1 = 2;
+            var s2 = 15;
+
+            document.getElementById("lbl_sonuc").innerHTML = "Eşit Mi?: " + (s1 == s2);
+            console.log("Eşit Mi?:" + (s1 == s2));
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br> Eşit Değil Mi?: " + (s1 != s2);
+            console.log("Eşit Değil Mi?:" + (s1 != s2));
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br> Küçük Mü?: " + (s1 < s2);
+            console.log("Küçük Mü?:" + (s1 < s2));
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br> Küçük Eşit Mi?: " + (s1 <= s2);
+            console.log("Küçük Eşit Mi?:" + (s1 <= s2));
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br> Büyük Mü?: " + (s1 > s2);
+            console.log("Büyük Mü?:" + (s1 > s2));
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br> Büyük Eşit Mi?: " + (s1 >= s2);
+            console.log("Büyük Eşit Mi?:" + (s1 >= s2));
+
+            console.log("Selam" == "Sanada Selam"); // false
+
+            console.log("Selam" != "Sanada Selam"); // true
+
+            console.log("Selam" == "Selam"); // true
+
+            console.log("46" === 46); // === => Hem değer hem de tür kontrolü yapar.
+
+            console.log("46" == 46); // == => Sadece değer kontrolü yapar.
+
+            console.log("46" !== 46); // !== => Hem değer hem de tür kontrolü yapar.
+
+            console.log("46" != 46); // != => Sadece değer kontrolü yapar.
+
+            //
+
+            var s3 = "A";
+            var s4 = "B";
+
+            console.log("A B'den Büyük Mü?: " + (s3 > s4)); // false
+            console.log("A B'den Küçük Mü?: " + (s3 < s4)); // true
+
+            var s5 = "Adana";
+            var s6 = "Ankara";
+
+            console.log("Adana Ankara'dan Küçük Mü?: " + (s5 < s6)); // true
+            console.log("Adana Ankaradan'dan Büyük Mü?: " + (s5 > s6)); // false
+
+            var s7 = "Armağan";
+            var s8 = "armağan";
+
+            console.log("Armağan armağandan Küçük Mü?: " + (s7 < s8)); // true
+            console.log("Armağan armağandan Büyük Mü?: " + (s7 > s8)); // false
+
+            var s7 = s5 + 3;
+            console.log(s7); // Adana3
+        </script>
+    </body>
+</html>

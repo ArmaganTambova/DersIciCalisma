@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <title>Operatörler</title>
+    </head>
+
+    <body>
+        <h3>Operatörler</h3>
+
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var s1 = 3;
+            var s2 = 5;
+
+            var toplam = s1 + s2;
+            document.getElementById("lbl_sonuc").innerHTML = "Toplam: " + toplam;
+            console.log("Toplam: " + toplam);
+
+            var fark = s1 - s2;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>Fark: " + fark;
+            console.log("Fark: " + fark);
+
+            var carpim = s1 * s2;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>Çarpım: " + carpim;
+            console.log("Çarpım: " + carpim);
+
+            var bolum = s1 / s2;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>Bölüm: " + bolum;
+            console.log("Bölüm: " + bolum);
+
+            var us = s1 ** s2;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>Üs: " + us;
+            console.log("Üs: " + us);
+
+            var mod = s1 % s2;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>Mod: " + mod;
+            console.log("Mod: " + mod);
+
+            s1++;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>s1++: " + s1;
+            console.log("s1++: " + s1);
+
+            s1--;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>s1--: " + s1;
+            console.log("s1--: " + s1);
+
+            s1 += 5;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>s1+=5: " + s1;
+            console.log("s1+=5: " + s1);
+
+            s1 -= 5;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>s1-=5: " + s1;
+            console.log("s1-=5: " + s1);
+
+            s1 *= 5;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>s1*=5: " + s1;
+            console.log("s1*=5: " + s1);
+
+            s1 /= 5;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>s1/=5: " + s1;
+            console.log("s1/=5: " + s1);
+
+            s1 **= 5;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>s1**=5: " + s1;
+            console.log("s1**=5: " + s1);
+
+            s1 %= 5;
+            document.getElementById("lbl_sonuc").innerHTML += "<br>s1%=5: " + s1;
+            console.log("s1%=5: " + s1);
+
+            
+        </script>
+    </body>
+</html>

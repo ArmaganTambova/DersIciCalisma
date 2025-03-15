@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>Değişken Oluşturma Ve Kullanımı</title>
+    </head>
+
+    <body>
+        <h3>Değişkenler</h3>
+
+        <label id="lbl_sonuc"></label>
+
+        <label id="lbl_sonuc2"></label>
+
+        <script>
+            var sayi1;
+            var sayi2;
+
+            sayi1 = 5;
+            sayi2 = 52;
+
+            var toplam = sayi1 + sayi2;
+
+            document.getElementById("lbl_sonuc").innerText = "Toplam = " + toplam;
+        </script>
+        
+        <script>
+            // var Parantez Dışında da Erişilebilir => global-scope
+            {var s1 = 1;}
+            console.log(s1);
+
+            // let Parantez Dışında Erişilemez => block-scope
+            {let s2 = 2;}
+            console.log(s2);
+        </script>
+
+        <script>
+            var tamsayi = 40;
+            var ondaliklisayi = 45.9;
+            var metinsel = "Selam";
+
+            console.log("Tam Sayı" + tamsayi);
+            console.log("Ondalık Sayı" + ondaliklisayi);
+            console.log("Metinsel" + metinsel);
+        </script>
+    </body>
+</html>
