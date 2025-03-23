@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>For Döngüsü (2)</title>
+    </head>
+
+    <body>
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var kisiler = {isim: "Murtaza", soyisim: "Şuayipoğlu", yas: 25};
+
+            var satir = "";
+
+            for (var x in kisiler) {
+                satir += kisiler[x] + " ";
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML = satir;
+
+            var sayilar = [5, 9, -22, 0, 3, 7, 8, 11, 2, 1];
+
+            var satir2 = "";
+
+            for (var i in sayilar) {
+                satir2 += sayilar[i] + " ";
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br>" + satir2;
+
+            var satir3 = "";
+
+            sayilar.forEach(listele);
+
+            function listele(deger, index, dizi) {
+                satir3 += deger + " ";
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br>" + satir3;
+        </script>
+    </body>
+</html>

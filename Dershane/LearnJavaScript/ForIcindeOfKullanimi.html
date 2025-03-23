@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>For İçide Of Kullanımı</title>
+    </head>
+
+    <body>
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var isim = "Murtaza Şuayipoğlu";
+
+            var satir = ""; 
+
+            for (var k of isim) { // Bu durumda k değeri değeri tutar.
+                satir += k + "<br />";
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML = satir;
+
+            var satir2 = "";
+
+            for (var k in isim) { // Bu durumda k değeri index değerini tutar.
+                satir2 += k + "<br />";
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br />" + satir2;
+        </script>
+    </body>
+</html>

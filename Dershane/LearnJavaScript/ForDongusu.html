@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>For Dongüsü</title>
+    </head>
+
+    <body>
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var gemiler = ["HMS Hood", "Tirpitz", "Bismarck", "Yamato", "USS Missouri", "Hayete", "Kongo", "Nagato", "Fuso", "Yamashiro"];
+
+            var satir = "";
+
+            for (var i = 0; i < gemiler.length; i++) {
+                satir += gemiler[i] + "<br>";
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML = satir;
+        </script>
+    </body>
+</html>

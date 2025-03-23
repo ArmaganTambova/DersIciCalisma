@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>Döndülerde Break Kullanımı & Continue</title>
+    </head>
+
+    <body>
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var satir = "";
+
+            for (var i = 0; i < 10; i++) {
+                if (i === 3) {
+                    break;
+                }
+
+                satir += "İndex Değeri : " + i + "<br />";
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML = satir;
+
+            var satir2 = "";
+
+            for (var i = 0; i < 10; i++) {
+                if (i === 3) {
+                    continue;
+                }
+
+                satir2 += "İndex Değeri : " + i + "<br />";
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br />" + satir2;
+        </script>
+    </body>
+</html>

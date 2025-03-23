@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Switch Kullanımı (2)</title>
+    </head>
+
+    <body>
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var gun = new Date().getDay();
+
+            var strgun = "";
+
+            switch (gun) {
+                case 6: case 0:
+                    strgun = "Heyoooo! Haftasonu";
+                    break;
+                case 4: case 5:
+                    strgun = "Hafta Sonu Yaklaşıyor Dayan";
+                    break;
+                default:
+                    strgun = "Okula Git Çalış";
+                    break;
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML = "Bugün günlerden " + strgun;
+        </script>
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>DoWhile Döngüsü</title>
+    </head>
+
+    <body>
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var satir = "";
+
+            var index = 0;
+
+            do {
+                satir += "İndex Değeri = " + index + "<br>";
+                index++;
+            }
+            while (index < 10);
+
+            document.getElementById("lbl_sonuc").innerHTML = satir;
+        </script>
+    </body>
+</html>

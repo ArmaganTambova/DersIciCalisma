@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>Switch Kullanımı</title>
+    </head>
+
+    <body>
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var gun = new Date().getDay();
+
+            var strgun = "";
+
+            switch (gun) {
+                case 0:
+                    strgun = "Pazar";
+                    break;
+                case 1:
+                    strgun = "Pazartesi";
+                    break;
+                case 2:
+                    strgun = "Salı";
+                    break;
+                case 3:
+                    strgun = "Çarşamba";
+                    break;
+                case 4:
+                    strgun = "Perşembe";
+                    break;
+                case 5:
+                    strgun = "Cuma";
+                    break;
+                case 6:
+                    strgun = "Cumartesi";
+                    break;
+                default: // Bu durumda hiçbir koşul sağlanmazsa bu blok çalışır
+                    strgun = "Tanımsız";
+                    break;
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML = "Bugün günlerden " + strgun;
+        </script>
+    </body>
+</html>

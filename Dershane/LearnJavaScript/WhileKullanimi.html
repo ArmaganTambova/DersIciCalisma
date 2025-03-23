@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>While Kullanımı</title>
+    </head>
+
+    <body>
+        <label id="lbl_sonuc"></label>
+
+        <script>
+            var satir = "";
+
+            var index = 0;
+
+            var gemiler = ["HMS Hood", "Tirpitz", "Bismarck", "Yamato", "Hayete", "Musashi", "Iowa", "Missouri", "Arizona", "Nevada", "USS California"];
+
+            while (gemiler[index]) {
+                satir += gemiler[index] + "<br />";
+
+                index++;
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML = satir;
+
+            var i = 0;
+
+            var satir2 = "";
+
+            for (;gemiler[i];) {
+                satir2 += gemiler[i] + "<br />";
+
+                i++;
+            }
+
+            document.getElementById("lbl_sonuc").innerHTML += "<br />" + satir2;
+        </script>
+    </body>
+</html>
