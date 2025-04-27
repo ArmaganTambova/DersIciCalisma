@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>JQuery Remove</title>
+    </head>
+
+    <body>
+        <div id="d_metin">
+            <p id="p1">Deneme Paragraf</p>
+            <p id="p2">Deneme Paragraf</p>
+        </div>
+
+        <button id="btn_Sil">Sil</button>
+
+        <button id="btn_temizle">Temizle</button>
+
+        <button id="btn_p2Sil">Paragraf 2 Sil</button>
+
+        <script src="jquery-3.7.1/jquery-3.7.1.min.js"></script>
+
+        <script>
+            $(document).ready(function() {
+                $("#btn_Sil").click(function() {
+                    $("#d_metin").remove();
+                });
+
+                $("#btn_temizle").click(function() {
+                    $("#d_metin").empty();
+                });
+
+                $("#btn_p2Sil").click(function() {
+                    $("p").remove("#p2");
+                });
+            });
+        </script>
+    </body>
+</html>

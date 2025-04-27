@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <title>JQuery İle CSS Manipülsayonu</title>
+
+        <style>
+            .onemli {
+                font-weight: bolder;
+                font-size: xx-large;
+            }
+
+            .turuncu {
+                color: orangered;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Başlık 1</h1> <br>
+
+        <label>Başlık 2</label> <br> <br> <br>
+
+        <button id="btn_SinifEkle">Sınıf Ekle</button>
+
+        <button id="btn_SinifSil">Sınıf Sil</button>
+        
+        <button id="btn_toggle">Sınıf Toggle</button>
+
+        <button id="btn_cssGetir">CSS Getir</button>
+
+        <button id="btn_cssDegistir">CSS Değiştir</button>
+
+        <script src="jquery-3.7.1/jquery-3.7.1.min.js"></script>
+
+        <script>
+            $(document).ready(function() {
+                $("#btn_SinifEkle").click(function() {
+                    $("h1").addClass("turuncu");
+                });
+
+                $("#btn_SinifEkle").click(function() {
+                    /*
+                    $("label").addClass("onemli");
+                    $("label").addClass("turuncu");
+                    */
+                    $("label").addClass("onemli turuncu");
+                });
+
+                $("#btn_SinifSil").click(function() {
+                    $("h1").removeClass("turuncu");
+                });
+
+                $("#btn_toggle").click(function() {
+                    $("label").toggleClass("onemli");
+                });
+
+                $("#btn_cssGetir").click(function() {
+                    alert("Yazı Rengi: " + $("label").css("color") + "\n" +
+                        "Yazı Boyutu: " + $("label").css("font-size") + "\n" +
+                        "Yazı Kalınlığı: " + $("label").css("font-weight") + "\n" +
+                        "Yazı Stili: " + $("label").css("font-style") + "\n" +
+                        "Arka Plan Rengi: " + $("label").css("background-color"));
+                });
+
+                $("#btn_cssDegistir").click(function() {
+                    $("label").css({
+                        "color": "blue",
+                        "font-size": "20px",
+                        "font-weight": "bold",
+                        "background-color": "yellow"
+                    });
+                });
+            });
+        </script>
+    </body>
+</html>

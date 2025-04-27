@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>CallBack Nedir?</title>
+    </head>
+    
+    <body>
+        <button>Tıkla</button>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore quisquam sint voluptatibus sapiente qui itaque impedit atque, fuga eveniet hic veniam assumenda unde commodi temporibus expedita quaerat, velit, recusandae a? Fugit asperiores quae, quos exercitationem consectetur a, laborum tempore aperiam, explicabo aliquam esse repudiandae ea! Itaque exercitationem, velit magnam a doloribus mollitia amet obcaecati consectetur dolore. Natus commodi mollitia iste. Delectus, iusto in. Illum quam repudiandae accusamus ut aspernatur enim nisi assumenda ad commodi iure? Voluptates tempore dignissimos animi perferendis quae obcaecati corporis, sunt vel fuga accusamus quasi id voluptatibus culpa necessitatibus eum autem! Quisquam neque reprehenderit suscipit fugit officiis corrupti obcaecati quis ratione similique expedita dolor atque eum numquam, nesciunt, corporis voluptatem architecto error dolores, hic doloribus ipsam delectus sequi repudiandae. Aspernatur perspiciatis molestias adipisci eaque, molestiae, ipsum ab magni, vitae dolores repellendus nemo cum dicta aliquid! Officiis ullam quod eveniet! Temporibus cupiditate voluptatem reiciendis illum ex expedita minus laborum explicabo dolorum accusantium. Voluptas beatae vel quibusdam debitis voluptate aut asperiores modi ex atque assumenda expedita hic neque provident harum facere sit, impedit nesciunt doloremque molestiae eos itaque labore. Accusamus excepturi repellat consequatur, neque, fugit voluptatem, optio quis esse saepe sequi eligendi ex? Nemo, dolore doloribus perferendis, quae et natus minus explicabo quos possimus atque sapiente quaerat doloremque harum laudantium adipisci aliquam quis voluptatum veniam velit, ipsa culpa? Delectus rem totam repudiandae aperiam recusandae. Odio cupiditate deserunt omnis accusamus alias laudantium placeat maiores? Unde consequuntur rem eligendi nam libero odio quaerat, fugit accusantium qui quo. Est excepturi eum nesciunt.</p>
+
+        <script src="jquery-3.7.1/jquery-3.7.1.min.js"></script>
+        <script>
+            $(document).ready(function()
+            {
+                /*
+                $("button").click(function()
+                {
+                    $("p").hide(1000);
+                    alert("Fonksiyon Tamamlandı. (CallBack Yok)");
+                });
+                */
+
+                $("button").click(function()
+                {
+                    $("p").hide("slow", function()
+                    {
+                        alert("Fonksiyon Tamamlandı. (CallBack Var)");
+                    });
+                });
+            });
+        </script>
+    </body>
+</html>

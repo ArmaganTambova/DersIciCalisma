@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>DOM Events</title>
+    </head>
+
+    <body onload="page_load()" onunload="page_unload()">
+        <h2 onclick="this.innerText = 'Gıdıklamaaaaaa!'">Nabün?</h2>
+
+        <h2 onclick="MetinDegistir(this)">Nabün?</h2>
+
+        <label onclick="MetinDegistir(this)">Label</label>
+
+        <p id="ekran"></p>
+
+        <button id="btn_goster">Tarih Göster</button> <br> <br>
+
+        Lütfen Adınızı Giriniz:
+        <!--<input type="text" id="tb_isim" oninput="karakterBuyut()">-->
+        <input type="text" id="tb_isim" onchange="karakterBuyut()">
+
+        <div onmouseover="mHover(this)" onmouseout="mUnHover(this)" onmousedown="mDown(this)" onmouseup="mUnDown(this)" style="background-color: mediumseagreen; width: 200px; height: 25px; padding: 50px; margin-top: 25px; color: white; display: flex; justify-content: center; align-items: center;">
+            Selam Dostlar
+        </div>
+
+        <script>
+            function MetinDegistir(nesne) {
+                nesne.innerText = "Gıdıklama Dedik Ya";
+            };
+
+            document.getElementById("btn_goster").onclick = TarihGetir;
+
+            function TarihGetir() {
+                document.getElementById("ekran").innerHTML = Date();
+            };
+
+            //function page_load() {
+            //    alert("Onload Çalıştı");
+            //};
+
+            //function page_unload() {
+            //    alert("Unload Çalıştı");
+            //};
+
+            function karakterBuyut() {
+                var tb_isim = document.getElementById("tb_isim");
+
+                tb_isim.value = tb_isim.value.toUpperCase();
+            };
+
+            function mHover(nesne) {
+                nesne.innerHTML = "De Gettt !!!!";
+            };
+
+            function mUnHover(nesne) {
+                nesne.innerHTML = "Selam Dostlar";
+            };
+
+            function mDown(nesne) {
+                nesne.style.backgroundColor = "OrangeRed";
+                nesne.innerHTML = "Gıdıklamaaaaaaaaaaaaa";
+            };
+
+            function mUnDown(nesne) {
+                nesne.style.backgroundColor = "mediumseagreen";
+                nesne.innerHTML = "Selam Dostlar";
+            };
+        </script>
+    </body>
+</html>

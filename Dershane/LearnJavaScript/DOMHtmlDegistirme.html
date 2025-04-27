@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>DOM HTML Değiştirme</title>
+    </head>
+
+    <body>
+        <div id="dv_ekran">
+
+        </div>
+
+        <label id="lbl_sonuc"></label> <br>
+
+        <img src="Images/5825739.jpg" id="img_resim">
+
+        <script>
+            document.getElementById("dv_ekran").innerHTML = "<a href='https://www.google.com'>Gittim Ben</a>";
+
+            document.getElementById("lbl_sonuc").innerText = "Merhaba";
+
+            document.getElementById("img_resim").src = "Images/pexels-mo-eid-1268975-9454915.jpg";
+        </script>
+    </body>
+</html>

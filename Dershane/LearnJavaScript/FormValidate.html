@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>DOM Form Doğrulama</title>
+    </head>
+
+    <body>
+        <form onsubmit="formdogrula()" method="post" name="formum">
+            İsim : <input type="text" name="tb_isim">
+
+            <input type="submit" value="Gönder">
+        </form>
+
+        <script>
+            function formdogrula() {
+                var a = document.forms["formum"]["tb_isim"].value;
+
+                if (a == "") {
+                    alert("İsim Boş Bırakılamaz");
+                    return false;
+                }
+            };
+        </script>
+    </body>
+</html>

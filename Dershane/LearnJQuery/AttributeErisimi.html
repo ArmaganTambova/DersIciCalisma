@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>Attribute Erişimi</title>
+    </head>
+
+    <body>
+        <p id="paragraf" style="font-style: italic;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae labore qui nesciunt dolorem perspiciatis minima hic dolorum doloribus placeat, cum tenetur. Quisquam amet nisi repellendus? Quod in quos id enim inventore? Quos enim est tempora facilis ratione soluta nisi placeat, repudiandae mollitia, nobis in asperiores voluptatibus dolorem, minima provident aspernatur.</p>
+
+        <input type="text" id="tb_icerik">
+
+        <a href="https://www.google.com">Google</a> <br> <br>
+
+        <button id="btn_text">İçerik Getir</button>
+        <button id="btn_html">Html Getir</button>
+        <button id="btn_val">Value Getir</button>
+        <button id="btn_attr">Attribute Getir</button>
+        <button id="btn_setText">Paragrafı Düzenle</button>
+        <button id="btn_setHtml">Paragrafın HTML'ini Düzenle</button>
+        <button id="btn_TextBox">Text Boxda Veri Gir</button>
+
+        <script src="jquery-3.7.1/jquery-3.7.1.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $("#btn_text").click(function()
+                {
+                    alert("Text = " + $("#paragraf").text());
+                });
+
+                $("#btn_html").click(function()
+                {
+                    alert("Html = " + $("#paragraf").html());
+                });
+
+                /*
+                $("#btn_val").click(function()
+                {
+                    alert("Value = " + $("#paragraf").val());
+                });
+                */
+
+                $("#btn_val").click(function()
+                {
+                    alert("Value = " + $("#tb_icerik").val());
+                });
+
+                $("#btn_attr").click(function()
+                {
+                    alert("Attr = " + $("#paragraf").attr("href"));
+                });
+
+                $("#btn_setText").click(function()
+                {
+                    $("#paragraf").text("It's a new text");
+                });
+
+                $("#btn_setHtml").click(function()
+                {
+                    $("#paragraf").html("<b>It's a new html</b>");
+                });
+
+                $("#btn_TextBox").click(function()
+                {
+                    $("#tb_icerik").val("Text Box'a veri girişi yapıldı.");
+                });
+            });
+        </script>
+    </body>
+</html>

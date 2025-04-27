@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>DOM Kullanımı</title>
+    </head>
+
+    <body>
+        <h2>Document Object Model</h2>
+        <p>Döküman İçerisindeki Her Nesnenin Bir Erişim Noktası Olduğu Temeline Dayanır</p>
+        <p>Etiketler, Sınıflar, ID'ler Bir Erişim Noktası Oluşturur</p>
+
+        <label id="lbl_sonuc"></label> <br> <br>
+
+        <label class="badge badge-primary">Label 1</label>
+        <label class="badge badge-primary">Label 2</label>
+        <label class="badge badge-primary">Label 3</label> <br> <br>
+
+        <span class="badge badge-primary">Span 1</span>
+        <span class="badge badge-primary">Span 2</span>
+        <span class="badge badge-primary">Span 3</span>
+
+        <script>
+            // getElementById
+            document.getElementById("lbl_sonuc").innerHTML = "Selam";
+
+            var lbl_sonuc = document.getElementById("lbl_sonuc");
+            lbl_sonuc.innerHTML = "Değişken Olarak Kullanıyorum";
+
+            // getElementByTagName
+            var paragraflar = document.getElementsByTagName("p");
+            lbl_sonuc.innerHTML = "İlk Paragrafın Metni: " + paragraflar[0].innerHTML;
+
+            // getEelementByClassName
+            var labeller = document.getElementsByClassName("badge");
+            lbl_sonuc.innerHTML = labeller[1].innerHTML
+
+            // querySelectorAll
+            var spanlar = document.querySelectorAll("span.badge");
+            lbl_sonuc.innerHTML = spanlar[1].innerHTML;
+        </script>
+    </body>
+</html>
