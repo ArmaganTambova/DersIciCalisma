@@ -1,0 +1,52 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Şehir İlçe Seç</title>
+</head>
+<body>
+    <div>
+        @Html.DropDownList("City_ID", null, htmlAttributes: new { @id = "City_ID" })
+
+        <br />
+
+        @Html.DropDownList("County_ID", null, htmlAttributes: new { @id = "County_ID" })
+    </div>
+
+    <script src="~/Assets/jquery-3.7.1/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#City_ID").change(function () {
+                var C_ID = $(this).val();
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("LoadCounties", "Default")',
+                    data: { City_ID: C_ID },
+                    success: successFunction,
+                    error: errorFunction
+                });
+
+                function successFunction(data) {
+                    //console.log(data);
+                    var dropList = $("#County_ID");
+                    dropList.empty();
+                    $.each(data, function (index, itemdata) {
+                        dropList.append($('<option/>', { value: itemdata.ID, text: itemdata.Name }));
+                    });
+                };
+
+                function errorFunction() {
+                    alert("Seçim Hatası");
+                };
+            });
+        });
+    </script>
+</body>
+</html>

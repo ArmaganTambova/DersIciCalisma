@@ -1,0 +1,54 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Şehir Getir</title>
+</head>
+<body>
+    <div>
+        <input type="text" id="SehirID" />
+        <br />
+        <input type="submit" id="sehirGetir" value="Şehir Getir" />
+    </div>
+
+    <div>
+        <p>Şehir ID = <strong id="GelensehirID"></strong></p>
+        <p>Şehir Adı = <strong id="GelensehirAdi"></strong></p>
+    </div>
+
+    <script src="~/Assets/jquery-3.7.1/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#sehirGetir").click(function () {
+                var ID = $("#SehirID").val();
+
+                $("#SehirID").css("border", "1px solid black");
+
+                if (ID != "" || ID != "0") {
+                    $.ajax({
+                        url: '/Default/getCity/' + ID,
+                        type: 'POST',
+                        dataType: 'json',
+                        success: function (data) {
+                            $("#GelensehirID").html(data.ID)
+                            $("#GelensehirAdi").html(data.Name)
+                        },
+                        error: function () {
+                            alert("Hata oluştu");
+                        }
+                    });
+                }
+                else {
+                    $("#SehirID").css("border", "1px solid red");
+                }
+            });
+        });
+    </script>
+</body>
+</html>
