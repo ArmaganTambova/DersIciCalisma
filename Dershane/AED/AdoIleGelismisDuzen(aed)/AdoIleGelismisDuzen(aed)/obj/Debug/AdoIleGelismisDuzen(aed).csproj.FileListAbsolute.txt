@@ -1,0 +1,7 @@
+C:\Software\AdoIleGelismisDuzen(aed)\AdoIleGelismisDuzen(aed)\bin\Debug\AdoIleGelismisDuzen(aed).exe.config
+C:\Software\AdoIleGelismisDuzen(aed)\AdoIleGelismisDuzen(aed)\bin\Debug\AdoIleGelismisDuzen(aed).exe
+C:\Software\AdoIleGelismisDuzen(aed)\AdoIleGelismisDuzen(aed)\bin\Debug\AdoIleGelismisDuzen(aed).pdb
+C:\Software\AdoIleGelismisDuzen(aed)\AdoIleGelismisDuzen(aed)\obj\Debug\AdoIleGelismisDuzen(aed).csproj.AssemblyReference.cache
+C:\Software\AdoIleGelismisDuzen(aed)\AdoIleGelismisDuzen(aed)\obj\Debug\AdoIleGelismisDuzen(aed).csproj.CoreCompileInputs.cache
+C:\Software\AdoIleGelismisDuzen(aed)\AdoIleGelismisDuzen(aed)\obj\Debug\AdoIleGelismisDuzen(aed).exe
+C:\Software\AdoIleGelismisDuzen(aed)\AdoIleGelismisDuzen(aed)\obj\Debug\AdoIleGelismisDuzen(aed).pdb

@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1572,
+          "DockedWidth": 200,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "AdoNetKullanimi\\Program.cs",
               "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\AdoNetKullanimi\\AdoNetKullanimi\\Program.cs",
               "RelativeToolTip": "AdoNetKullanimi\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T05:50:36.643Z",
               "EditorCaption": ""

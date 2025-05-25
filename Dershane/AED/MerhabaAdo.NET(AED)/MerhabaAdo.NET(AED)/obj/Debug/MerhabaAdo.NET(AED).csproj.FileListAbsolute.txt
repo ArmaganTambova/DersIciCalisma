@@ -1,0 +1,7 @@
+C:\Software\MerhabaAdo.NET(AED)\MerhabaAdo.NET(AED)\bin\Debug\MerhabaAdo.NET(AED).exe.config
+C:\Software\MerhabaAdo.NET(AED)\MerhabaAdo.NET(AED)\bin\Debug\MerhabaAdo.NET(AED).exe
+C:\Software\MerhabaAdo.NET(AED)\MerhabaAdo.NET(AED)\bin\Debug\MerhabaAdo.NET(AED).pdb
+C:\Software\MerhabaAdo.NET(AED)\MerhabaAdo.NET(AED)\obj\Debug\MerhabaAdo.NET(AED).csproj.AssemblyReference.cache
+C:\Software\MerhabaAdo.NET(AED)\MerhabaAdo.NET(AED)\obj\Debug\MerhabaAdo.NET(AED).csproj.CoreCompileInputs.cache
+C:\Software\MerhabaAdo.NET(AED)\MerhabaAdo.NET(AED)\obj\Debug\MerhabaAdo.NET(AED).exe
+C:\Software\MerhabaAdo.NET(AED)\MerhabaAdo.NET(AED)\obj\Debug\MerhabaAdo.NET(AED).pdb

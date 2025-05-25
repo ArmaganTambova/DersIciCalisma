@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Software\\AdoIleGelismisDuzen(aed)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD035115-C2E5-4C62-A829-C1F875AF2CD3}|AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed).csproj|c:\\software\\adoilegelismisduzen(aed)\\adoilegelismisduzen(aed)\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD035115-C2E5-4C62-A829-C1F875AF2CD3}|AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed).csproj|solutionrelative:adoilegelismisduzen(aed)\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD035115-C2E5-4C62-A829-C1F875AF2CD3}|AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed).csproj|C:\\Software\\AdoIleGelismisDuzen(aed)\\adoilegelismisduzen(aed)\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD035115-C2E5-4C62-A829-C1F875AF2CD3}|AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed).csproj|solutionrelative:adoilegelismisduzen(aed)\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD035115-C2E5-4C62-A829-C1F875AF2CD3}|AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed).csproj|C:\\Software\\AdoIleGelismisDuzen(aed)\\adoilegelismisduzen(aed)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD035115-C2E5-4C62-A829-C1F875AF2CD3}|AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed).csproj|solutionrelative:adoilegelismisduzen(aed)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Software\\AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed)\\DataModel.cs",
+              "RelativeDocumentMoniker": "AdoIleGelismisDuzen(aed)\\DataModel.cs",
+              "ToolTip": "C:\\Software\\AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed)\\DataModel.cs",
+              "RelativeToolTip": "AdoIleGelismisDuzen(aed)\\DataModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:23:15.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Software\\AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed)\\Kategori.cs",
+              "RelativeDocumentMoniker": "AdoIleGelismisDuzen(aed)\\Kategori.cs",
+              "ToolTip": "C:\\Software\\AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed)\\Kategori.cs",
+              "RelativeToolTip": "AdoIleGelismisDuzen(aed)\\Kategori.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:22:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Software\\AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed)\\Program.cs",
+              "RelativeDocumentMoniker": "AdoIleGelismisDuzen(aed)\\Program.cs",
+              "ToolTip": "C:\\Software\\AdoIleGelismisDuzen(aed)\\AdoIleGelismisDuzen(aed)\\Program.cs",
+              "RelativeToolTip": "AdoIleGelismisDuzen(aed)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:21:31.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
