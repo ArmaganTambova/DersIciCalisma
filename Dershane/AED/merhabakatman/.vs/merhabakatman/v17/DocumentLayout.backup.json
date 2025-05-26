@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Software\\merhabakatman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|C:\\Software\\merhabakatman\\dataaccsesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|solutionrelative:dataaccsesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901AABF2-421F-4FDE-9199-3E75DA843C2E}|merhabakatman\\merhabakatman.csproj|C:\\Software\\merhabakatman\\merhabakatman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901AABF2-421F-4FDE-9199-3E75DA843C2E}|merhabakatman\\merhabakatman.csproj|solutionrelative:merhabakatman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|c:\\software\\merhabakatman\\dataaccsesslayer\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|solutionrelative:dataaccsesslayer\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|c:\\software\\merhabakatman\\dataaccsesslayer\\tedarik\u00E7iler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|solutionrelative:dataaccsesslayer\\tedarik\u00E7iler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|C:\\Software\\merhabakatman\\dataaccsesslayer\\connecionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|solutionrelative:dataaccsesslayer\\connecionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|C:\\Software\\merhabakatman\\dataaccsesslayer\\kategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BC2A9F-71E8-48EC-8B5A-A41D3D73FE83}|DataAccsessLayer\\DataAccsessLayer.csproj|solutionrelative:dataaccsesslayer\\kategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tedarik\u00E7iler.cs",
+              "DocumentMoniker": "C:\\Software\\merhabakatman\\DataAccsessLayer\\Tedarik\u00E7iler.cs",
+              "RelativeDocumentMoniker": "DataAccsessLayer\\Tedarik\u00E7iler.cs",
+              "ToolTip": "C:\\Software\\merhabakatman\\DataAccsessLayer\\Tedarik\u00E7iler.cs",
+              "RelativeToolTip": "DataAccsessLayer\\Tedarik\u00E7iler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:13:02.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Software\\merhabakatman\\DataAccsessLayer\\DataModel.cs",
+              "RelativeDocumentMoniker": "DataAccsessLayer\\DataModel.cs",
+              "ToolTip": "C:\\Software\\merhabakatman\\DataAccsessLayer\\DataModel.cs*",
+              "RelativeToolTip": "DataAccsessLayer\\DataModel.cs*",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwK0AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:45:51.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Urunler.cs",
+              "DocumentMoniker": "C:\\Software\\merhabakatman\\DataAccsessLayer\\Urunler.cs",
+              "RelativeDocumentMoniker": "DataAccsessLayer\\Urunler.cs",
+              "ToolTip": "C:\\Software\\merhabakatman\\DataAccsessLayer\\Urunler.cs",
+              "RelativeToolTip": "DataAccsessLayer\\Urunler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:15:05.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kategoriler.cs",
+              "DocumentMoniker": "C:\\Software\\merhabakatman\\DataAccsessLayer\\Kategoriler.cs",
+              "RelativeDocumentMoniker": "DataAccsessLayer\\Kategoriler.cs",
+              "ToolTip": "C:\\Software\\merhabakatman\\DataAccsessLayer\\Kategoriler.cs",
+              "RelativeToolTip": "DataAccsessLayer\\Kategoriler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:17:55.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnecionStrings.cs",
+              "DocumentMoniker": "C:\\Software\\merhabakatman\\DataAccsessLayer\\ConnecionStrings.cs",
+              "RelativeDocumentMoniker": "DataAccsessLayer\\ConnecionStrings.cs",
+              "ToolTip": "C:\\Software\\merhabakatman\\DataAccsessLayer\\ConnecionStrings.cs",
+              "RelativeToolTip": "DataAccsessLayer\\ConnecionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:38:23.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Software\\merhabakatman\\merhabakatman\\Program.cs",
+              "RelativeDocumentMoniker": "merhabakatman\\Program.cs",
+              "ToolTip": "C:\\Software\\merhabakatman\\merhabakatman\\Program.cs",
+              "RelativeToolTip": "merhabakatman\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:20:49.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

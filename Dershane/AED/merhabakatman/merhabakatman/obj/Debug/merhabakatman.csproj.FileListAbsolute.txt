@@ -1,0 +1,10 @@
+C:\Software\merhabakatman\merhabakatman\bin\Debug\merhabakatman.exe.config
+C:\Software\merhabakatman\merhabakatman\bin\Debug\merhabakatman.exe
+C:\Software\merhabakatman\merhabakatman\bin\Debug\merhabakatman.pdb
+C:\Software\merhabakatman\merhabakatman\bin\Debug\DataAccsessLayer.dll
+C:\Software\merhabakatman\merhabakatman\bin\Debug\DataAccsessLayer.pdb
+C:\Software\merhabakatman\merhabakatman\obj\Debug\merhabakatman.csproj.AssemblyReference.cache
+C:\Software\merhabakatman\merhabakatman\obj\Debug\merhabakatman.csproj.CoreCompileInputs.cache
+C:\Software\merhabakatman\merhabakatman\obj\Debug\merhabak.B7E958B3.Up2Date
+C:\Software\merhabakatman\merhabakatman\obj\Debug\merhabakatman.exe
+C:\Software\merhabakatman\merhabakatman\obj\Debug\merhabakatman.pdb

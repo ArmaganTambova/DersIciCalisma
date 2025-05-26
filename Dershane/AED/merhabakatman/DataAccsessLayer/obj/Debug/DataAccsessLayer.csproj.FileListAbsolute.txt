@@ -1,0 +1,6 @@
+C:\Software\merhabakatman\DataAccsessLayer\bin\Debug\DataAccsessLayer.dll
+C:\Software\merhabakatman\DataAccsessLayer\bin\Debug\DataAccsessLayer.pdb
+C:\Software\merhabakatman\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Software\merhabakatman\DataAccsessLayer\obj\Debug\DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Software\merhabakatman\DataAccsessLayer\obj\Debug\DataAccsessLayer.dll
+C:\Software\merhabakatman\DataAccsessLayer\obj\Debug\DataAccsessLayer.pdb
