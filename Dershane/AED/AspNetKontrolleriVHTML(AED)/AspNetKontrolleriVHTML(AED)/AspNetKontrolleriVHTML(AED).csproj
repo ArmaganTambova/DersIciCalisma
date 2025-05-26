@@ -68,9 +68,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HTML\Baslikler.aspx" />
+    <Content Include="HTML\Linkler.aspx" />
+    <Content Include="HTML\ListeGorunumleri.aspx" />
     <Content Include="HTML\MetinFormatları.aspx" />
     <Content Include="HTML\ParagrafEkleme.aspx" />
+    <Content Include="HTML\ResimEkleme.aspx" />
+    <Content Include="HTML\Resimler\aed jpg.jpg" />
+    <Content Include="HTML\TabloOlusturma.aspx" />
     <Content Include="HTML\TemelAyarlar.aspx" />
+    <Content Include="Images\aed jpg.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -80,6 +86,20 @@
     </Compile>
     <Compile Include="HTML\Baslikler.aspx.designer.cs">
       <DependentUpon>Baslikler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\Linkler.aspx.cs">
+      <DependentUpon>Linkler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\Linkler.aspx.designer.cs">
+      <DependentUpon>Linkler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\ListeGorunumleri.aspx.cs">
+      <DependentUpon>ListeGorunumleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\ListeGorunumleri.aspx.designer.cs">
+      <DependentUpon>ListeGorunumleri.aspx</DependentUpon>
     </Compile>
     <Compile Include="HTML\MetinFormatları.aspx.cs">
       <DependentUpon>MetinFormatları.aspx</DependentUpon>
@@ -94,6 +114,20 @@
     </Compile>
     <Compile Include="HTML\ParagrafEkleme.aspx.designer.cs">
       <DependentUpon>ParagrafEkleme.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\ResimEkleme.aspx.cs">
+      <DependentUpon>ResimEkleme.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\ResimEkleme.aspx.designer.cs">
+      <DependentUpon>ResimEkleme.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\TabloOlusturma.aspx.cs">
+      <DependentUpon>TabloOlusturma.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HTML\TabloOlusturma.aspx.designer.cs">
+      <DependentUpon>TabloOlusturma.aspx</DependentUpon>
     </Compile>
     <Compile Include="HTML\TemelAyarlar.aspx.cs">
       <DependentUpon>TemelAyarlar.aspx</DependentUpon>
@@ -113,6 +147,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
