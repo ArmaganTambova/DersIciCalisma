@@ -1,0 +1,15 @@
+﻿body {
+    font-family: Dubai;
+    color: lawngreen;
+    background-color:pink;
+}
+label{
+    font-size:50pt;
+    color:forestgreen;
+}
+.abidigubidi{
+    color:red;
+    font-size:70pt;
+    font-weight:900;
+    font-family:'Times New Roman'
+}

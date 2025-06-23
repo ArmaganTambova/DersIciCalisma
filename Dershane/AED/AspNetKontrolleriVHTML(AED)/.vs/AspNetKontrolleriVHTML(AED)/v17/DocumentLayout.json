@@ -1,38 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\",
+  "WorkspaceRootPath": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\software\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\html\\resimekleme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\resimekleme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\software\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\html\\tabloolusturma.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\tabloolusturma.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\software\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\html\\listegorunumleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\aspnetkontrollerivhtml(aed)\\html\\listegorunumleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\listegorunumleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\software\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\html\\linkler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\aspnetkontrollerivhtml(aed)\\html\\tabloolusturma.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\tabloolusturma.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\aed\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\html\\resimekleme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\resimekleme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\aed\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\css\\cssnedir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\css\\cssnedir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\aed\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\css\\seciciturleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\css\\seciciturleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\aed\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\css\\cssdosyaolusturma.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\css\\cssdosyaolusturma.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\aed\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\css\\divnedir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\css\\divnedir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\users\\armif\\onedrive\\belgeler\\github\\dersicicalisma\\dershane\\aed\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\css\\css\\stil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\css\\css\\stil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\aspnetkontrollerivhtml(aed)\\html\\linkler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\linkler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|c:\\software\\aspnetkontrollerivhtml(aed)\\aspnetkontrollerivhtml(aed)\\html\\paragrafekleme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\aspnetkontrollerivhtml(aed)\\html\\paragrafekleme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\paragrafekleme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|C:\\Software\\AspNetKontrolleriVHTML(AED)\\aspnetkontrollerivhtml(aed)\\html\\metinformatlar\u0131.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\aspnetkontrollerivhtml(aed)\\html\\metinformatlar\u0131.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\metinformatlar\u0131.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|C:\\Software\\AspNetKontrolleriVHTML(AED)\\aspnetkontrollerivhtml(aed)\\html\\baslikler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\baslikler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|C:\\Software\\AspNetKontrolleriVHTML(AED)\\aspnetkontrollerivhtml(aed)\\html\\temelayarlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B35BF0E3-029B-4B81-A93C-F0F1522A88D6}|AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED).csproj|solutionrelative:aspnetkontrollerivhtml(aed)\\html\\temelayarlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,11 +74,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "DivNedir.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\DivNedir.aspx",
+              "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\CSS\\DivNedir.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\DivNedir.aspx",
+              "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\CSS\\DivNedir.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T15:07:50.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stil.css",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\css\\Stil.css",
+              "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\CSS\\css\\Stil.css",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\css\\Stil.css",
+              "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\CSS\\css\\Stil.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-01T14:58:29.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cssdosyaolusturma.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\cssdosyaolusturma.aspx",
+              "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\CSS\\cssdosyaolusturma.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\cssdosyaolusturma.aspx",
+              "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\CSS\\cssdosyaolusturma.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T14:59:47.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeciciTurleri.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\SeciciTurleri.aspx",
+              "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\CSS\\SeciciTurleri.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\SeciciTurleri.aspx",
+              "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\CSS\\SeciciTurleri.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T14:19:23.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSSNedir.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\CSSNedir.aspx",
+              "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\CSS\\CSSNedir.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\CSS\\CSSNedir.aspx",
+              "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\CSS\\CSSNedir.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T13:33:38.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ResimEkleme.aspx",
-              "DocumentMoniker": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ResimEkleme.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ResimEkleme.aspx",
               "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\HTML\\ResimEkleme.aspx",
-              "ToolTip": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ResimEkleme.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ResimEkleme.aspx",
               "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\HTML\\ResimEkleme.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -77,9 +154,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TabloOlusturma.aspx",
-              "DocumentMoniker": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\TabloOlusturma.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\TabloOlusturma.aspx",
               "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\HTML\\TabloOlusturma.aspx",
-              "ToolTip": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\TabloOlusturma.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\TabloOlusturma.aspx",
               "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\HTML\\TabloOlusturma.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -88,11 +165,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ListeGorunumleri.aspx",
-              "DocumentMoniker": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ListeGorunumleri.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ListeGorunumleri.aspx",
               "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\HTML\\ListeGorunumleri.aspx",
-              "ToolTip": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ListeGorunumleri.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ListeGorunumleri.aspx",
               "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\HTML\\ListeGorunumleri.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -101,65 +178,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Linkler.aspx",
-              "DocumentMoniker": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\Linkler.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\Linkler.aspx",
               "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\HTML\\Linkler.aspx",
-              "ToolTip": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\Linkler.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\Linkler.aspx",
               "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\HTML\\Linkler.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-25T13:29:04.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T13:29:04.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ParagrafEkleme.aspx",
-              "DocumentMoniker": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ParagrafEkleme.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ParagrafEkleme.aspx",
               "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\HTML\\ParagrafEkleme.aspx",
-              "ToolTip": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ParagrafEkleme.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\ParagrafEkleme.aspx",
               "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\HTML\\ParagrafEkleme.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-24T15:13:08.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T15:13:08.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "MetinFormatlar\u0131.aspx",
-              "DocumentMoniker": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\MetinFormatlar\u0131.aspx",
+              "DocumentMoniker": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\MetinFormatlar\u0131.aspx",
               "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\HTML\\MetinFormatlar\u0131.aspx",
-              "ToolTip": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\MetinFormatlar\u0131.aspx",
+              "ToolTip": "C:\\Users\\armif\\OneDrive\\Belgeler\\GitHub\\DersIciCalisma\\Dershane\\AED\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\MetinFormatlar\u0131.aspx",
               "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\HTML\\MetinFormatlar\u0131.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-05-24T14:56:44.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Baslikler.aspx",
-              "DocumentMoniker": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\Baslikler.aspx",
-              "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\HTML\\Baslikler.aspx",
-              "ToolTip": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\Baslikler.aspx",
-              "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\HTML\\Baslikler.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-24T14:41:11.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TemelAyarlar.aspx",
-              "DocumentMoniker": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\TemelAyarlar.aspx",
-              "RelativeDocumentMoniker": "AspNetKontrolleriVHTML(AED)\\HTML\\TemelAyarlar.aspx",
-              "ToolTip": "C:\\Software\\AspNetKontrolleriVHTML(AED)\\AspNetKontrolleriVHTML(AED)\\HTML\\TemelAyarlar.aspx",
-              "RelativeToolTip": "AspNetKontrolleriVHTML(AED)\\HTML\\TemelAyarlar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-24T14:12:01.83Z"
             }
           ]
         }

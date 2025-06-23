@@ -67,6 +67,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\cssdosyaolusturma.aspx" />
+    <Content Include="CSS\CSSNedir.aspx" />
+    <Content Include="CSS\css\Stil.css" />
+    <Content Include="CSS\DivNedir.aspx" />
+    <Content Include="CSS\SeciciTurleri.aspx" />
     <Content Include="HTML\Baslikler.aspx" />
     <Content Include="HTML\Linkler.aspx" />
     <Content Include="HTML\ListeGorunumleri.aspx" />
@@ -80,6 +85,34 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CSS\cssdosyaolusturma.aspx.cs">
+      <DependentUpon>cssdosyaolusturma.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CSS\cssdosyaolusturma.aspx.designer.cs">
+      <DependentUpon>cssdosyaolusturma.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CSS\CSSNedir.aspx.cs">
+      <DependentUpon>CSSNedir.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CSS\CSSNedir.aspx.designer.cs">
+      <DependentUpon>CSSNedir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CSS\DivNedir.aspx.cs">
+      <DependentUpon>DivNedir.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CSS\DivNedir.aspx.designer.cs">
+      <DependentUpon>DivNedir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CSS\SeciciTurleri.aspx.cs">
+      <DependentUpon>SeciciTurleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CSS\SeciciTurleri.aspx.designer.cs">
+      <DependentUpon>SeciciTurleri.aspx</DependentUpon>
+    </Compile>
     <Compile Include="HTML\Baslikler.aspx.cs">
       <DependentUpon>Baslikler.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
