@@ -1,0 +1,35 @@
+.App {
+    text-align: center;
+}
+
+.navbar {
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    background-color: #ddd;
+    color: black;
+    margin: 0 auto;
+    letter-spacing: 1px;
+}
+
+.navbar a {
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.navbar a:last-child {
+    margin-right: 0;
+}
+
+.secondNavbar {
+    height: 50px;
+    background-color: yellowgreen;
+}
+
+.govde {
+    height: 50vh;
+    width: 100%;
+    background-color: #ddd;
+    color: black;
+}

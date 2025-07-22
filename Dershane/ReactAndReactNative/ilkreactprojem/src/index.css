@@ -1,0 +1,43 @@
+body {
+    font-family: 'poppins';
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+ul li {
+    padding: 10px;
+}
+
+.ImageBackgorund {
+    height: 600px;
+    background-image: url(./Images/ImageBackground.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+button {
+    padding: 0.5rem 1em;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #f0f0ff;
+    cursor: pointer;
+}
+
+span {
+    padding: 0.5em 1em;
+    font-size: 0.8rem;
+    font-weight: 600;   
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
