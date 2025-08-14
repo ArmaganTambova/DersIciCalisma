@@ -1,0 +1,12 @@
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\bin\Debug\NorthWNDapp.Domain.dll.config
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\bin\Debug\NorthWNDapp.Domain.dll
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\bin\Debug\NorthWNDapp.Domain.pdb
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\bin\Debug\EntityFramework.dll
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\bin\Debug\EntityFramework.xml
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\obj\Debug\NorthWNDapp.Domain.csproj.AssemblyReference.cache
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\obj\Debug\NorthWNDapp.Domain.csproj.CoreCompileInputs.cache
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\obj\Debug\NorthWND.4CF0E2A2.Up2Date
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\obj\Debug\NorthWNDapp.Domain.dll
+C:\Software\NorthWNDapp\NorthWNDapp.Domain\obj\Debug\NorthWNDapp.Domain.pdb

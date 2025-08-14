@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWindAPIForReact", "NorthWindAPIForReact\NorthWindAPIForReact.csproj", "{B2A7F6FD-7409-463A-917D-1DCD1C4607D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A7F6FD-7409-463A-917D-1DCD1C4607D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A7F6FD-7409-463A-917D-1DCD1C4607D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A7F6FD-7409-463A-917D-1DCD1C4607D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A7F6FD-7409-463A-917D-1DCD1C4607D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A6F242-5449-47B3-BBB0-F1E72D6113D0}
+	EndGlobalSection
+EndGlobal
